@@ -1,0 +1,93 @@
+[
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Shekou / Sea World area, Nanshan"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"city": "SEOUL",
+"cat": "food",
+"addr": "132-23 Itaewon-dong, Yongsan, Seoul"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-chess-zhiteng",
+"name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids",
+"addr": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)"
+},
+{
+"id": "sz-massage-lispa",
+"name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+"city": "SZ",
+"cat": "services",
+"addr": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou"
+},
+{
+"id": "sz-interactive-yunqi",
+"name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Dongbin Rd, Nanshan (near Nanyou / Dongjiaotou Metro)"
+},
+{
+"id": "sz-teppan-kyoku",
+"name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+"city": "SZ",
+"cat": "food",
+"addr": "K11 ECOAST waterfront food market, Taizi Bay, Shekou"
+},
+{
+"id": "sz-walk-sushi-dragon",
+"name": "Dragon Sake Bar Izakaya 龙酒场居酒屋",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World Zone A, L1, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-walk-churrasco-latina",
+"name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World Zone C, 001-C004, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-clothesmkt-nanyou",
+"name": "Nanyou Clothing & Luggage Wholesale 南油服装批发 (飞马城)",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Tian'an Bldg 112, 2087 Nanhai Ave / Feima City 204, Xiangnan Rd, Nanyou, Nanshan"
+},
+{
+"id": "sz-toymkt-jinya",
+"name": "Jinya Toy & Stationery Wholesale Market 金雅文具玩具批发市场",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Guimiao W Rd, Fuhaiyuan 1-2F, Nanshan (near Daxin Metro)"
+},
+{
+"id": "sz-cruise-bridge",
+"name": "HK-Zhuhai-Macau Bridge Sea Cruise 港珠澳大桥海上游",
+"city": "SZ",
+"cat": "sights",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan"
+},
+{
+"id": "sz-fishing-7star",
+"name": "Seven-Star Bay Yacht Fishing 七星湾游艇海钓 (Dapeng)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Seven-Star Bay Marina, Dongshan, Dapeng"
+}
+]

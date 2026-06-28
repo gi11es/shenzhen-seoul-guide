@@ -1,0 +1,86 @@
+[
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Jongno, Seoul"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"city": "SEOUL",
+"cat": "food",
+"addr": "207 Myeongdong 7-gil 2F, Jung, Seoul"
+},
+{
+"id": "sz-chess-pengcheng",
+"name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids",
+"addr": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave"
+},
+{
+"id": "sz-lib-shufang",
+"name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+"city": "SZ",
+"cat": "culture",
+"addr": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan"
+},
+{
+"id": "sz-pet-supaw",
+"name": "SUPAW HUB (Raffles City) 深圳来福士店",
+"city": "SZ",
+"cat": "kids",
+"addr": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan"
+},
+{
+"id": "sz-interactive-pipi",
+"name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+"city": "SZ",
+"cat": "food",
+"addr": "326-109 Fanshen Rd, Bao'an (near Fanshen Metro L5)"
+},
+{
+"id": "sz-sichuan-tanyu",
+"name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World F1, Huanchuan Plaza, Shekou"
+},
+{
+"id": "sz-walk-ramen-sumo",
+"name": "Sumo Ramen 相扑拉面 (K11)",
+"city": "SZ",
+"cat": "food",
+"addr": "K11 ECOAST South Bldg L5 SL516, Taizi Bay, Shekou"
+},
+{
+"id": "sz-xian-tanqinji",
+"name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Huaguoshan Bldg A/B, Unit 103, Shekou, Nanshan"
+},
+{
+"id": "sz-clothesmkt-baima",
+"name": "Dongmen Baima Clothing City 东门白马服装城",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Dongmen Old Street, Luohu"
+},
+{
+"id": "sz-cruise-gba1",
+"name": "Shenzhen Bay Sightseeing Cruise 'Greater Bay Area No.1' 海上看深圳·大湾区一号",
+"city": "SZ",
+"cat": "sights",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan"
+},
+{
+"id": "sz-fishing-nanao",
+"name": "Nan'ao Fish-Raft Sea Fishing 南澳鱼排海钓 (Dapeng)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Xiexia Pier / Nan'ao Fishing Harbour, Dapeng"
+}
+]

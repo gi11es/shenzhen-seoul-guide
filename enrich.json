@@ -156,7 +156,11 @@
   "video": "https://www.youtube.com/watch?v=DiYeIROANgo"
  },
  "sz-dental": {
-  "photos": [],
+  "photos": [
+   "https://www.dentalbauhinia.cn/wp-content/uploads/2022/03/GP-1.jpg",
+   "https://www.dentalbauhinia.cn/wp-content/uploads/2022/04/05_4.jpg",
+   "https://www.dentalbauhinia.cn/wp-content/uploads/2024/10/bd07bc52c91423828a93aa97eab8755.png"
+  ],
   "phone": "+86 755 8827 0822",
   "commute": "~5 min walk from the apartment (Shekou).",
   "video": "https://www.youtube.com/watch?v=FsCdV8DeJCQ"
@@ -1677,7 +1681,11 @@
  },
  "sz-lib-shekou": {
   "video": "https://www.bilibili.com/video/BV1kB4y1T7LF",
-  "wechat": "南山图书馆"
+  "wechat": "南山图书馆",
+  "photos": [
+   "https://dimg04.c-ctrip.com/images/0zg4v12000id1ew4jC831.jpg",
+   "https://dimg04.c-ctrip.com/images/1h602120009nk4wzxB308_R_180_180.jpg"
+  ]
  },
  "sz-interactive-qingqing": {
   "video": "https://www.youtube.com/watch?v=jhtwJrY8ha4",
@@ -1708,7 +1716,12 @@
   "video": "https://www.youtube.com/watch?v=JS-jX459dV4"
  },
  "gm-emperor-buffet": {
-  "video": "https://www.youtube.com/watch?v=idTNe1V1qAQ"
+  "video": "https://www.youtube.com/watch?v=idTNe1V1qAQ",
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1mi4b224x98s1a0icA972_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi29224x98s0vvx94CE5_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi0g224x98s15gplEF34_W_640_0_R5_Q80.jpg?proc=source/trip"
+  ]
  },
  "sz-seafood-market": {
   "video": "https://www.youtube.com/watch?v=WQHDNG-RLVM"
@@ -1780,5 +1793,116 @@
    "https://dimg04.c-ctrip.com/images/1tx2112000klwi5kaE68C.jpg"
   ],
   "wechat": "旺顺阁"
+ },
+ "sz-teppan-kyoku": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1mi12224x98f7slg7168D_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi54224x98f89bwa2D1A_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi4e224x98f7k5jaBB6F_W_640_0_R5_Q80.jpg?proc=source/trip"
+  ]
+ },
+ "sz-walk-sushi-dragon": {
+  "photos": [
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/9/792/01FKG6990B4B5191B0782Fpx.jpg",
+   "https://cdn2.orstatic.com.cn/userphoto2/photo/9/7AW/01FXHT4B6F6941CF298EC3mx.jpg",
+   "https://cdn1.orstatic.com.cn/userphoto2/photo/9/7AW/01FXHS5D3C7724B1FAD76Fmx.jpg"
+  ],
+  "video": "https://www.bilibili.com/video/BV1gw4m1Q7wh"
+ },
+ "sz-cruise-bridge": {
+  "photos": [
+   "https://dimg04.c-ctrip.com/images/0106t120008picyf9FD1D_W_1080_10000_Q80.jpg?_fr=wc",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HK-Zhuhai-Macau_Bridge_HK_link.jpg/1920px-HK-Zhuhai-Macau_Bridge_HK_link.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HongKong-Macau_Bridge_S2_2022.jpg/960px-HongKong-Macau_Bridge_S2_2022.jpg"
+  ],
+  "video": "https://www.bilibili.com/video/BV1Eh4y1p7f9"
+ },
+ "sz-fishing-7star": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/350a1f000001g3w69CC34_W_960_0_Q60.webp?proc=source%2ftrip",
+   "https://ak-d.tripcdn.com/images/350p1f000001g1pdv3A7A_W_960_0_Q60.webp?proc=source%2ftrip",
+   "https://ak-d.tripcdn.com/images/350o1f000001g1evaE248_W_960_0_Q60.webp?proc=source%2ftrip"
+  ],
+  "wechat": "七星湾",
+  "video": "https://www.bilibili.com/video/BV1sEpdemEar"
+ },
+ "gm-hanndul-chicken": {
+  "photos": [
+   "https://d12zq4w4guyljn.cloudfront.net/300_300_20211108091151_photo1_c73a7585800a.webp",
+   "https://d12zq4w4guyljn.cloudfront.net/300_300_20221026051902_photo1_a2f6d7a1bb7b.webp",
+   "https://d12zq4w4guyljn.cloudfront.net/300_300_20230731044722_photo1_43ac96205572.webp"
+  ]
+ },
+ "sz-sichuan-yuyue": {
+  "photos": [
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/9/75I/01EV8Q1D227DEF22460CDBpx.jpg",
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/9/7AW/01FXGQFE12A4F2472A2788mx.jpg",
+   "https://cdn2.orstatic.com.cn/userphoto2/photo/9/7AW/01FXGPF70C27C3FFFB9A27mx.jpg"
+  ]
+ },
+ "sz-walk-sushi-kyoto": {
+  "photos": [
+   "https://www.zhimingshiye.com/zb_users/upload/2025/09/202509161757989015734080.png",
+   "https://www.zhimingshiye.com/zb_users/upload/2025/09/202509161757989065727358.jpg",
+   "https://www.zhimingshiye.com/zb_users/upload/2025/09/202509161757989092858406.png"
+  ]
+ },
+ "sz-xian-laowanhui": {
+  "photos": [
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/A/8GW/01O87A0A2CE0E1E9F2B985mx.jpg",
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/A/8M0/01P8IICE4F31C1DCE2BEFCmx.jpg",
+   "https://cdn2.orstatic.com.cn/userphoto2/photo/A/8G5/01O2Y150E38876CFFF5BCFmx.jpg"
+  ]
+ },
+ "sz-toymkt-sungang": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1mi6j2234bx056qts0085_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi452215fq9t1g81CA13_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi4d2215fq9t1nxs32EC_W_640_0_R5_Q80.jpg?proc=source/trip"
+  ],
+  "video": "https://www.youtube.com/watch?v=WS8st2o8kgc"
+ },
+ "sz-xian-3": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1mi232215ens3vytc5B77_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi382224ur59ypz5660C_W_640_0_R5_Q80.jpg?proc=source/trip",
+   "https://ak-d.tripcdn.com/images/1mi5i2215ens3we8w5C16_W_640_0_R5_Q80.jpg?proc=source/trip"
+  ]
+ },
+ "sz-sichuan-tanyu": {
+  "photos": [
+   "https://www.tanyuchina.com/media/articles/20251107/1762478174713582704.jpg",
+   "https://www.tanyuchina.com/media/articles/20251107/1762478136304803461.jpg",
+   "https://www.tanyuchina.com/media/articles/20251107/1762478111807492478.jpg"
+  ],
+  "wechat": "探鱼"
+ },
+ "sz-xian-tanqinji": {
+  "photos": [
+   "https://cdn4.orstatic.com.cn/userphoto2/photo/9/74I/01EO3Z253C10E35A737CF7mx.jpg",
+   "https://cdn2.orstatic.com.cn/userphoto2/photo/9/76O/01F3JDB50A75F0D888C2CFmx.jpg",
+   "https://cdn3.orstatic.com.cn/userphoto2/photo/9/76O/01F3JE75529F58EF453834mx.jpg"
+  ]
+ },
+ "sz-cruise-gba1": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1lo0d12000ed6jvz4CB4D_W_960_0_Q60.webp?proc=source%2ftrip",
+   "https://ak-d.tripcdn.com/images/1lo4u12000ed6krgyD702_W_960_0_Q60.webp?proc=source%2ftrip",
+   "https://ak-d.tripcdn.com/images/1lo1s12000ed6k1a644D2_W_960_0_Q60.webp?proc=source%2ftrip"
+  ],
+  "wechat": "招商蛇口邮轮母港",
+  "video": "https://www.youtube.com/watch?v=tx2tAwcfb28"
+ },
+ "sz-fishing-nanao": {
+  "photos": [
+   "https://ak-d.tripcdn.com/images/0105i12000960nqkt422B_W_960_0_Q60.webp?proc=source%2ftrip",
+   "https://ak-d.tripcdn.com/images/0105r120009cnmdm7A411_W_960_0_Q60.webp?proc=source%2ftrip"
+  ]
+ },
+ "sz-clothesmkt-nanyou": {
+  "video": "https://www.youtube.com/watch?v=LY7g6OtU7lk"
+ },
+ "sz-walk-churrasco-latina": {
+  "video": "https://www.bilibili.com/video/BV1PJ4m1t74V"
  }
 }

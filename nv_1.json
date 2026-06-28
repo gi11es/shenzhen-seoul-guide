@@ -1,0 +1,62 @@
+[
+{
+"id": "sz-gelato-creamstory",
+"name": "Cream Story Italian Gelato 可丽牧手工冰淇淋 (南海意库)",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-sichuan-tanyu",
+"name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-walk-sushi-kyoto",
+"name": "Hongsong Kyoto Japanese Market 泓松京都板前料理 (K11)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-walk-churrasco-latina",
+"name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-xian-tanqinji",
+"name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-clothesmkt-womensworld",
+"name": "Women's World 女人世界 (华强北)",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-toymkt-jinya",
+"name": "Jinya Toy & Stationery Wholesale Market 金雅文具玩具批发市场",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-cruise-gba1",
+"name": "Shenzhen Bay Sightseeing Cruise 'Greater Bay Area No.1' 海上看深圳·大湾区一号",
+"city": "SZ",
+"cat": "sights"
+},
+{
+"id": "sz-fishing-lianghang",
+"name": "Lianghang Sea-Fishing Club 领航海钓 (Bao'an airport pier)",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "sz-fishing-7star",
+"name": "Seven-Star Bay Yacht Fishing 七星湾游艇海钓 (Dapeng)",
+"city": "SZ",
+"cat": "nature"
+}
+]

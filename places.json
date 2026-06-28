@@ -5531,7 +5531,7 @@
   "photos": [],
   "phone": "",
   "commute": "~15 min walk from the apartment (edge of range).",
-  "notes": "New K11 venue. Older fallback: 歌志軒 Komachi Nagoya ramen, 招商花园城 (~1.5 km)."
+  "notes": "New K11 venue. Older fallback: 歌志軒 Komachi Nagoya ramen, 招商花园城 (~1.5 km). Caveat: OpenRice now lists this K11 unit as closed (已結業); verify before going."
  },
  {
   "id": "sz-walk-churrasco-latina",
@@ -6027,5 +6027,68 @@
   "phone": "",
   "commute": "Dapeng has no metro: metro+bus ~2.5-3 h. Best by DiDi/charter direct to Dongshan, ~65 km, 1.5-2 h, ¥180-250.",
   "notes": "Rods and bait supplied; calm, organised, good for a family group (charter pricing). Half-day ~13:30 departure. Contact Seven-Star Bay marina to book."
+ },
+ {
+  "id": "sz-xian-3",
+  "city": "SZ",
+  "category": "food",
+  "name": "Da Shi Xiong Shaanxi Noodles 大师兄手工面·西北菜 (海岸城)",
+  "lat": 22.52,
+  "lng": 113.93,
+  "address": "B1, Coastal City Mall, 33 Wenxin 5th Rd, Houhai, Nanshan",
+  "desc": "A popular dedicated Shaanxi/Northwest hand-noodle 'queue-king': oil-splashed biangbiang面, 老潼关肉夹馍, 陕西凉皮, 岐山臊子面, plus lamb skewers. The best Shaanxi-noodle specialist a short hop from Shekou.",
+  "price": {
+   "amount": 46,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "15989472735",
+  "commute": "~1 metro hop: Line 2 from Sea World to 后海 + ~10 min walk (~3.3 km). DiDi ~15 min, ¥25.",
+  "notes": "Rating couldn't be machine-verified (Dianping blocks bots); realistically ~4.3-4.4, not confirmed above Lao Wan Hui's 4.5. Strongest longer-walk Shaanxi option."
  }
 ]
