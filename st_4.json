@@ -1,0 +1,212 @@
+[
+{
+"id": "sz-nathist",
+"name": "Shenzhen Natural History Museum",
+"city": "SZ",
+"cat": "museum",
+"addr": "Pingshan District"
+},
+{
+"id": "hk-uniqlo-utme",
+"name": "UNIQLO Lee Theatre — UTme! custom tee",
+"city": "HK",
+"cat": "shopping",
+"addr": "G/F, B1 & B2, Lee Theatre, 99 Percival St, Causeway Bay"
+},
+{
+"id": "sz-dapeng-fortress",
+"name": "Dapeng Fortress / Ancient City (大鹏所城)",
+"city": "SZ",
+"cat": "sights",
+"addr": "Nanmen West Rd, Pengcheng, Dapeng, Longgang"
+},
+{
+"id": "sz-lego-cocopark",
+"name": "LEGO Store (COCO Park)",
+"city": "SZ",
+"cat": "shopping",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian"
+},
+{
+"id": "sz-one-avenue",
+"name": "One Avenue 卓悦中心",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Fuhua 1st Rd, Gangxia, Futian"
+},
+{
+"id": "sz-splendid-china",
+"name": "Splendid China Folk Culture Village (锦绣中华)",
+"city": "SZ",
+"cat": "culture",
+"addr": "9005 Shennan Blvd, OCT, Nanshan"
+},
+{
+"id": "sz-dafen",
+"name": "Dafen Oil Painting Village (大芬油画村)",
+"city": "SZ",
+"cat": "culture",
+"addr": "Dafen, Buji, Longgang"
+},
+{
+"id": "sz-haidilao-1",
+"name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+"city": "SZ",
+"cat": "food",
+"addr": "NL309-310, Baoneng Taikoo City, 2233 Zhongxin Rd, Nanshan"
+},
+{
+"id": "sz-gg-creative",
+"name": "G&G Creative Community 创意社区",
+"city": "SZ",
+"cat": "culture",
+"addr": "9 Liyuan Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-dental",
+"name": "Dental Bauhinia 紫荆口腔 (Shekou)",
+"city": "SZ",
+"cat": "services",
+"addr": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-hongqiao-park",
+"name": "Hongqiao Park 虹桥公园 (red skywalk)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Kelin Rd / Chalin Rd, Guangming"
+},
+{
+"id": "sz-gif-coffee",
+"name": "GIF Coffee 集福咖啡",
+"city": "SZ",
+"cat": "cafe",
+"addr": "A106, Bldg 541, Bagualing Industrial Zone, Futian"
+},
+{
+"id": "sz-baoan-hunan-noodle",
+"name": "Sheng Xiang Ting 盛香亭 (Happy Harbour)",
+"city": "SZ",
+"cat": "food",
+"addr": "B1 food hall (B1北-080-081), Bao'an Happy Harbour East Bank"
+},
+{
+"id": "sz-he-xiangning",
+"name": "He Xiangning Art Museum",
+"city": "SZ",
+"cat": "museum",
+"addr": "9013 Shennan Blvd, OCT, Nanshan"
+},
+{
+"id": "sz-maya-beach",
+"name": "Maya Beach Water Park 玛雅海滩水公园",
+"city": "SZ",
+"cat": "kids",
+"addr": "Inside Happy Valley, OCT, Nanshan"
+},
+{
+"id": "sz-haibei-bay",
+"name": "Haibei Bay 海贝湾 (Shenzhen's Santorini)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Haibin Rd, Nan'ao, Dapeng"
+},
+{
+"id": "gm-bukchon-mandu",
+"name": "Bukchon Son-mandu",
+"city": "SEOUL",
+"cat": "food",
+"addr": "42-5 Insadong-gil, Jongno, Seoul"
+},
+{
+"id": "gm-isaac-toast",
+"name": "Isaac Toast (Myeongdong Cathedral)",
+"city": "SEOUL",
+"cat": "cafe",
+"addr": "17-1 Myeongdong 10-gil, Jung, Seoul"
+},
+{
+"id": "gm-hanilgwan",
+"name": "Hanilgwan Gwanghwamun",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Gwanghwamun, Seoul"
+},
+{
+"id": "gm-hanndul-chicken",
+"name": "Hanndul Chicken",
+"city": "SEOUL",
+"cat": "food",
+"addr": "27 Cheongpa-ro 85-gil, Yongsan, Seoul"
+},
+{
+"id": "gm-kyochon-ddm",
+"name": "Kyochon Chicken (Dongdaemun)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "294 Jong-ro, Jongno, Seoul"
+},
+{
+"id": "gm-ziu-bbq",
+"name": "ZIU BBQ",
+"city": "SEOUL",
+"cat": "food",
+"addr": "20 Toegye-ro 18-gil, Jung, Seoul"
+},
+{
+"id": "gm-shuiwan1979",
+"name": "Shuiwan 1979 Plaza 水湾1979",
+"city": "SZ",
+"cat": "culture",
+"addr": "Zimao Center, Shekou, Nanshan, Shenzhen"
+},
+{
+"id": "gm-ssp-toy-street",
+"name": "Sham Shui Po Toy Street",
+"city": "HK",
+"cat": "shopping",
+"addr": "Fuk Wing St, Sham Shui Po, Hong Kong"
+},
+{
+"id": "gm-hk-zoo-botanical",
+"name": "HK Zoological & Botanical Gardens",
+"city": "HK",
+"cat": "nature",
+"addr": "Albany Rd, Central, Hong Kong"
+},
+{
+"id": "sz-pick-mekong",
+"name": "Mekong River Sports Town 湄南河体育小镇",
+"city": "SZ",
+"cat": "kids",
+"addr": "Haiwan Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-crabxingji",
+"name": "Crab Xingji 蟹兴记",
+"city": "SZ",
+"cat": "food",
+"addr": "Houhai / Coastal City, Nanshan"
+},
+{
+"id": "sz-batiaoyou-1",
+"name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+"city": "SZ",
+"cat": "food",
+"addr": "Nanle Yayuan, Nanyou, Yuehai, Nanshan"
+},
+{
+"id": "sz-hk-houhaihui",
+"name": "Houhaihui 后海汇",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Houhai, Nanshan"
+},
+{
+"id": "sz-hk-bionicbrew",
+"name": "Bionic Brew 源源精酿 (Nantou taproom)",
+"city": "SZ",
+"cat": "nightlife",
+"addr": "Nantou Ancient City, Nanshan"
+}
+]

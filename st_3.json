@@ -1,0 +1,212 @@
+[
+{
+"id": "sz-scitech",
+"name": "Shenzhen Science & Technology Museum",
+"city": "SZ",
+"cat": "museum",
+"addr": "No. 8 Guanghui Ave, Guangming"
+},
+{
+"id": "sz-nick",
+"name": "Nickelodeon Playtime (OCT Harbour)",
+"city": "SZ",
+"cat": "kids",
+"addr": "Bldg 2-2B, Qushui Bay, OCT Harbour, 2008 Binhai Ave, Nanshan"
+},
+{
+"id": "sz-jiaochangwei",
+"name": "Jiaochangwei Beach (较场尾)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Jiaochangwei, Dapeng, Longgang"
+},
+{
+"id": "sz-miniso-cocopark",
+"name": "MINISO (COCO Park flagship)",
+"city": "SZ",
+"cat": "shopping",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian"
+},
+{
+"id": "sz-dongmen-street-food",
+"name": "Dongmen Street food market (东门老街)",
+"city": "SZ",
+"cat": "food",
+"addr": "Dongmen Old Street, Luohu"
+},
+{
+"id": "sz-safari-park",
+"name": "Shenzhen Safari Park (深圳野生动物园)",
+"city": "SZ",
+"cat": "kids",
+"addr": "4065 Xilihu Rd, Xili, Nanshan"
+},
+{
+"id": "sz-mocape",
+"name": "MOCAPE (当代艺术与城市规划馆)",
+"city": "SZ",
+"cat": "museum",
+"addr": "184 Fuzhong Rd, Lianhua, Futian"
+},
+{
+"id": "sz-sushiro-1",
+"name": "Sushiro 寿司郎 (Coastal City / 海岸城)",
+"city": "SZ",
+"cat": "food",
+"addr": "3F, Coastal City, 33 Wenxin 5th Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Shekou / Sea World area, Nanshan"
+},
+{
+"id": "sz-seaworld-fountain",
+"name": "Sea World Music Fountain Show 音乐喷泉",
+"city": "SZ",
+"cat": "sights",
+"addr": "Water plaza by the Minghua ship, Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-24histories-academy",
+"name": "24 Histories Academy 二十四史书院",
+"city": "SZ",
+"cat": "culture",
+"addr": "Gankeng Ancient Town (north), Longgang"
+},
+{
+"id": "sz-ah-ma-handmade",
+"name": "Ah Ma Handmade 阿嬷手作",
+"city": "SZ",
+"cat": "food",
+"addr": "L4 SL432, The MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-bay-chef-fei",
+"name": "The Bay by Chef Fei 东湾",
+"city": "SZ",
+"cat": "food",
+"addr": "1F, Mandarin Oriental, Block A UpperHills, 5001 Huanggang Rd, Futian"
+},
+{
+"id": "sz-art-museum-new",
+"name": "Shenzhen Art Museum (New)",
+"city": "SZ",
+"cat": "museum",
+"addr": "30 Tenglong Rd, Minzhi, Longhua"
+},
+{
+"id": "sz-aqila-spa",
+"name": "Aqila Hot Spring Spa 阿奇拉汤泉生活",
+"city": "SZ",
+"cat": "services",
+"addr": "Floors 2-3, Tianxia Jinniu Plaza, Taoyuan Rd, Nanshan"
+},
+{
+"id": "sz-xinggaodu",
+"name": "Xinggaodu Dream Water World 星高度梦想水世界",
+"city": "SZ",
+"cat": "kids",
+"addr": "Yunli Dream Park, Fada Rd, Bantian, Longgang"
+},
+{
+"id": "gm-kyochon-pilbang",
+"name": "Kyochon Pilbang",
+"city": "SEOUL",
+"cat": "food",
+"addr": "127 Bogwang-ro, Yongsan, Seoul"
+},
+{
+"id": "gm-noryangjin",
+"name": "Noryangjin Fisheries Market",
+"city": "SEOUL",
+"cat": "shopping",
+"addr": "674 Nodeul-ro, Dongjak, Seoul"
+},
+{
+"id": "gm-eunjujeong",
+"name": "Eunjujeong",
+"city": "SEOUL",
+"cat": "food",
+"addr": "32 Changgyeonggung-ro 8-gil, Jung, Seoul"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"city": "SEOUL",
+"cat": "food",
+"addr": "132-23 Itaewon-dong, Yongsan, Seoul"
+},
+{
+"id": "gm-bbq-star",
+"name": "BBQ Chicken Myeongdong Star",
+"city": "SEOUL",
+"cat": "food",
+"addr": "2 Myeongdong 4-gil, Jung, Seoul"
+},
+{
+"id": "gm-mongvely",
+"name": "Myeongdong Mongvely",
+"city": "SEOUL",
+"cat": "food",
+"addr": "9 Myeongdong 8na-gil 3F, Jung, Seoul"
+},
+{
+"id": "gm-bogwangjung",
+"name": "Bogwangjung",
+"city": "SEOUL",
+"cat": "food",
+"addr": "118 Bogwang-ro 1F, Yongsan, Seoul"
+},
+{
+"id": "gm-cat-street",
+"name": "Cat Street (Upper Lascar Row)",
+"city": "HK",
+"cat": "shopping",
+"addr": "Upper Lascar Row, Sheung Wan, Hong Kong"
+},
+{
+"id": "gm-hk-maritime",
+"name": "Hong Kong Maritime Museum",
+"city": "HK",
+"cat": "museum",
+"addr": "Central Pier 8, Hong Kong"
+},
+{
+"id": "sz-pick-dananshan",
+"name": "Dananshan Park 大南山公园",
+"city": "SZ",
+"cat": "nature",
+"addr": "Dananshan, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Houhai / Coastal City, Nanshan"
+},
+{
+"id": "sz-pick-octloft",
+"name": "OCT-LOFT 华侨城创意文化园",
+"city": "SZ",
+"cat": "culture",
+"addr": "OCT 华侨城, Nanshan"
+},
+{
+"id": "sz-hk-innate",
+"name": "Innate Ayurveda Spa 印度阿育吠陀",
+"city": "SZ",
+"cat": "services",
+"addr": "Seaside Commercial Center, Sea World, Shekou"
+},
+{
+"id": "sz-hk-xiesanbao",
+"name": "Xie San Bao 蟹三宝",
+"city": "SZ",
+"cat": "food",
+"addr": "Nanshan"
+}
+]

@@ -1,0 +1,219 @@
+[
+{
+"id": "sz-stay",
+"name": "Our stay · Coastal Rose Garden",
+"city": "SZ",
+"cat": "stay",
+"addr": "Bldg 2A, Coastal Rose Garden, 3 Jinshiji Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-seg",
+"name": "SEG Electronics Market (Huaqiangbei)",
+"city": "SZ",
+"cat": "shopping",
+"addr": "1002 Huaqiangbei Rd, Futian"
+},
+{
+"id": "se-stay",
+"name": "Our stay · Amare Hotel Jongno",
+"city": "SEOUL",
+"cat": "stay",
+"addr": "7 Supyo-ro 22-gil, Jongno-gu"
+},
+{
+"id": "sz-xichong",
+"name": "Xichong Beach (西涌)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Xichong, Nan'ao, Dapeng, Longgang"
+},
+{
+"id": "sz-eslite-mixcworld",
+"name": "Eslite Spectrum site (closed) → MixC World",
+"city": "SZ",
+"cat": "culture",
+"addr": "MixC World, 9668 Shennan Blvd, Nanshan"
+},
+{
+"id": "sz-wanda-longgang",
+"name": "Longgang Wanda Plaza 龙岗万达广场",
+"city": "SZ",
+"cat": "shopping",
+"addr": "1 Huanan 2nd Rd, Pinghu, Longgang"
+},
+{
+"id": "sz-happy-harbour",
+"name": "Bao'an Happy Harbour & Bay Glory wheel (宝安欢乐港湾)",
+"city": "SZ",
+"cat": "sights",
+"addr": "Jia'an Rd, Bao'an Central, Xin'an"
+},
+{
+"id": "sz-wondermeet",
+"name": "WonderMeet (玩美攻略)",
+"city": "SZ",
+"cat": "kids",
+"addr": "Century Plaza, 3018 Shennan Middle Rd, Futian"
+},
+{
+"id": "sz-haidilao-2",
+"name": "Haidilao 海底捞 (Hanjing Center)",
+"city": "SZ",
+"cat": "food",
+"addr": "3F, Hanjing Center, 23 Dengliang Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-nanhai-yiku",
+"name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+"city": "SZ",
+"cat": "culture",
+"addr": "6 Xinghua Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-zhongshuge",
+"name": "Zhongshuge Bookstore 钟书阁",
+"city": "SZ",
+"cat": "culture",
+"addr": "East Bank L1-021, Happy Coast (欢乐港湾), Bao'an"
+},
+{
+"id": "sz-culture-square",
+"name": "Shenzhen Bay Culture Square 深圳湾文化广场",
+"city": "SZ",
+"cat": "culture",
+"addr": "2516 Keyuan South Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-yuan-gu",
+"name": "Yuangu 元古云境",
+"city": "SZ",
+"cat": "food",
+"addr": "NL115A, The Lane, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-shieyuan",
+"name": "Shiheyuan 柿合缘 新京菜",
+"city": "SZ",
+"cat": "food",
+"addr": "L2 NL219, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-guan-shanyue",
+"name": "Guan Shanyue Art Museum 关山月美术馆",
+"city": "SZ",
+"cat": "museum",
+"addr": "6026 Hongli Rd, Futian"
+},
+{
+"id": "sz-dameisha",
+"name": "Dameisha Seaside Park 大梅沙海滨公园",
+"city": "SZ",
+"cat": "nature",
+"addr": "33 Yanmei Rd, Yantian"
+},
+{
+"id": "gm-changhwadang",
+"name": "Changhwadang 창화당 (Hannam)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "683-57 Hannam-dong, Yongsan, Seoul"
+},
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Jongno, Seoul"
+},
+{
+"id": "gm-gwangjang",
+"name": "Gwangjang Market",
+"city": "SEOUL",
+"cat": "shopping",
+"addr": "88 Changgyeonggung-ro, Jongno, Seoul"
+},
+{
+"id": "gm-namsandong-gotgan",
+"name": "Namsandong Gotgan 남산동곳간",
+"city": "SEOUL",
+"cat": "food",
+"addr": "343 Samil-daero 2F, Jung, Seoul"
+},
+{
+"id": "gm-dailybeer",
+"name": "Dailybeer 생활맥주 (Myeongdong)",
+"city": "SEOUL",
+"cat": "nightlife",
+"addr": "Myeongdong 7-gil, Jung, Seoul"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"city": "SEOUL",
+"cat": "food",
+"addr": "207 Myeongdong 7-gil 2F, Jung, Seoul"
+},
+{
+"id": "gm-wolhwa",
+"name": "Wolhwa Sikdang",
+"city": "SEOUL",
+"cat": "food",
+"addr": "29 Dohwa-gil, Mapo, Seoul"
+},
+{
+"id": "gm-cafe-de-coral",
+"name": "Café de Coral (Admiralty)",
+"city": "HK",
+"cat": "food",
+"addr": "18 Harcourt Rd, Admiralty, Hong Kong"
+},
+{
+"id": "gm-graham-market",
+"name": "Graham Street Market",
+"city": "HK",
+"cat": "shopping",
+"addr": "Gage St / Graham St, Central, Hong Kong"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-longbar",
+"name": "Long Bar (Raffles, One Shenzhen Bay)",
+"city": "SZ",
+"cat": "nightlife",
+"addr": "Raffles, One Shenzhen Bay, Houhai, Nanshan"
+},
+{
+"id": "sz-pick-nanshan-museum",
+"name": "Nanshan Museum 南山博物馆",
+"city": "SZ",
+"cat": "museum",
+"addr": "Nanshan center, Taoyuan, Nanshan"
+},
+{
+"id": "sz-batiaoyou-2",
+"name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+"city": "SZ",
+"cat": "food",
+"addr": "Snow BREWTOWN Beer Town, EL134, Xin'an, Bao'an"
+},
+{
+"id": "sz-hk-talentpark",
+"name": "Talent Park 人才公园",
+"city": "SZ",
+"cat": "nature",
+"addr": "Shenzhen Bay, Houhai, Nanshan"
+},
+{
+"id": "sz-hk-yewai",
+"name": "Yewai Urban Tea Room 叶外·Urban茶室",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Coastal City / Haian Cheng, Houhai, Nanshan"
+}
+]

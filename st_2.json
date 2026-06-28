@@ -1,0 +1,219 @@
+[
+{
+"id": "sz-gba",
+"name": "Eyes of the GBA (Bay Area Book City)",
+"city": "SZ",
+"cat": "culture",
+"addr": "No. 1 Baohua Rd, Bao'an"
+},
+{
+"id": "sz-k33",
+"name": "K33 Discovery Farm",
+"city": "SZ",
+"cat": "kids",
+"addr": "Guangming Happy Garden, Zhenyuan Rd, Guangming"
+},
+{
+"id": "se-dalmaji",
+"name": "Dalmaji Plaza BBQ (달맞이광장)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Euljiro 3-ga, Jung-gu (~10 min walk from Myeongdong)"
+},
+{
+"id": "sz-xili-fruit-farm",
+"name": "Xili Fruit Farm — Litchi World (西丽果场)",
+"city": "SZ",
+"cat": "nature",
+"addr": "Litchi World, Shahe West Rd (north), Xili, Nanshan"
+},
+{
+"id": "sz-central-book-city",
+"name": "Shenzhen Book City — Central (中心城)",
+"city": "SZ",
+"cat": "culture",
+"addr": "2014 Fuzhong 1st Rd, Futian"
+},
+{
+"id": "sz-nantou-1820",
+"name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+"city": "SZ",
+"cat": "museum",
+"addr": "By Baode Square, Nantou Ancient City, Nanshan"
+},
+{
+"id": "sz-huafa-snow-world",
+"name": "Qianhai Huafa Ice & Snow World (前海·华发冰雪世界)",
+"city": "SZ",
+"cat": "sights",
+"addr": "Qianhai Bay area, Bao'an"
+},
+{
+"id": "sz-kpfun",
+"name": "KP-FUN Trendy Play Street (AR karting)",
+"city": "SZ",
+"cat": "kids",
+"addr": "3F, C Future City, 9283 Binhe Ave, Futian"
+},
+{
+"id": "sz-michelin-hunan",
+"name": "Nong Geng Ji 农耕记 (Sea World, Michelin)",
+"city": "SZ",
+"cat": "food",
+"addr": "Unit 303, 3F Zone B, Sea World Plaza, Shekou, Nanshan"
+},
+{
+"id": "sz-chiikawa",
+"name": "Chiikawa 吉伊卡哇 pop-up (Qianhai Yifang City)",
+"city": "SZ",
+"cat": "shopping",
+"addr": "L1 atrium, Qianhai Yifang City, Xinhu Rd, Bao'an"
+},
+{
+"id": "sz-upperhills",
+"name": "UpperHills 深业上城",
+"city": "SZ",
+"cat": "shopping",
+"addr": "5001 Huanggang Rd, Futian"
+},
+{
+"id": "sz-shiopon",
+"name": "Shiopon (salt-bread bakery)",
+"city": "SZ",
+"cat": "food",
+"addr": "L1 CL120, Shenzhen Bay MixC (深圳湾万象城), Nanshan"
+},
+{
+"id": "sz-spring-patio",
+"name": "Spring Patio 春台餐酒馆",
+"city": "SZ",
+"cat": "food",
+"addr": "2F open-air corridor, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-seaworld-cac",
+"name": "Sea World Culture & Arts Center (Design Society)",
+"city": "SZ",
+"cat": "museum",
+"addr": "1187 Wanghai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-museum-history",
+"name": "Shenzhen Museum (History & Folk Culture)",
+"city": "SZ",
+"cat": "museum",
+"addr": "Fuzhong 3rd Rd, Civic Center, Futian"
+},
+{
+"id": "sz-guanlan-shanshui",
+"name": "Guanlan Shanshui Eco Water Park 观澜山水田园",
+"city": "SZ",
+"cat": "kids",
+"addr": "Huanguan South Rd, Guanlan, Longhua"
+},
+{
+"id": "gm-niuroumianguan",
+"name": "Niuroumianguan (beef noodle)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "75-2 Cheonggyecheon-ro, Jongno, Seoul"
+},
+{
+"id": "gm-jinmi",
+"name": "Jinmi Sikdang",
+"city": "SEOUL",
+"cat": "food",
+"addr": "186-6 Mapo-daero, Mapo, Seoul"
+},
+{
+"id": "gm-bukchangdong-soondubu",
+"name": "BukChangDong Soondubu (Myeongdong)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Myeongdong, Jung, Seoul"
+},
+{
+"id": "gm-golden-farm",
+"name": "Golden Farm",
+"city": "SEOUL",
+"cat": "food",
+"addr": "6 Myeongdong 8na-gil, Jung, Seoul"
+},
+{
+"id": "gm-kkanbu",
+"name": "Kkanbu Chicken (Myeongdong)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "22 Myeongdong 8ga-gil 2F, Jung, Seoul"
+},
+{
+"id": "gm-pig-company",
+"name": "AYCE Pig Company (Myeongdong BBQ)",
+"city": "SEOUL",
+"cat": "food",
+"addr": "44 Myeongdong 3-gil 3F, Jung, Seoul"
+},
+{
+"id": "gm-daol",
+"name": "Daol Charcoal BBQ",
+"city": "SEOUL",
+"cat": "food",
+"addr": "54-2 Myeongdong 2-ga, Jung, Seoul"
+},
+{
+"id": "gm-bird-market",
+"name": "Yuen Po Bird Market",
+"city": "HK",
+"cat": "sights",
+"addr": "Flower Market Rd, Mong Kok, Hong Kong"
+},
+{
+"id": "gm-wanchai-toy-street",
+"name": "Tai Yuen Toy Street (Wan Chai)",
+"city": "HK",
+"cat": "shopping",
+"addr": "Tai Yuen St, Wan Chai, Hong Kong"
+},
+{
+"id": "sz-pick-17bread",
+"name": "1-7 Bread 壹柒面包 (Sea World)",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-24qi",
+"name": "24気 Art & Life Space 24气艺文生活空间",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Houhai, Shenzhen Bay, Nanshan"
+},
+{
+"id": "sz-pick-pengxiaoguan",
+"name": "Peng Xiao Guan 鹏小馆 (OCT)",
+"city": "SZ",
+"cat": "food",
+"addr": "OCT 华侨城, Nanshan"
+},
+{
+"id": "sz-hk-k11ecoast",
+"name": "K11 ECOAST 深圳K11 ECOAST",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Taizi Bay / Prince Bay, Shekou, Nanshan"
+},
+{
+"id": "sz-hk-bollywood",
+"name": "Bollywood Cafe 宝莱坞印度餐厅",
+"city": "SZ",
+"cat": "food",
+"addr": "Poly Cultural Centre, Houhai, Nanshan"
+},
+{
+"id": "sz-nantou-makers",
+"name": "Nantou Ancient City maker district 南头古城主理人街区",
+"city": "SZ",
+"cat": "shopping",
+"addr": "Nantou Ancient City, Nanshan"
+}
+]

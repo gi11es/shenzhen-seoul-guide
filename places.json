@@ -136,7 +136,7 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "Trial opening; confirm hours and reservation before going."
+  "notes": "Trial operation from June 30, 2026; official opening is July 28 (after your trip), so expect a limited trial visit, likely reservation-only. Confirm before going."
  },
  {
   "id": "sz-seg",
@@ -1809,63 +1809,6 @@
    "https://upload.wikimedia.org/wikipedia/commons/9/98/%E3%82%B5%E3%83%B3%E3%83%A8%E3%83%BC%E8%B7%A1%E5%9C%B0%E3%82%92%E3%83%AA%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.jpg"
   ],
   "notes": "Open-access grounds; tenant hours vary."
- },
- {
-  "id": "sz-chiikawa",
-  "city": "SZ",
-  "category": "shopping",
-  "name": "Chiikawa 吉伊卡哇 pop-up (Qianhai Yifang City)",
-  "lat": 22.556,
-  "lng": 113.8828,
-  "address": "L1 atrium, Qianhai Yifang City, Xinhu Rd, Bao'an",
-  "desc": "Chiikawa themed pop-up with character merch and photo spots. The nearest Chiikawa experience to the Shekou/Nanshan side (Qianhai/Bao'an).",
-  "price": "free",
-  "hours": {
-   "mon": [
-    [
-     "10:00",
-     "22:00"
-    ]
-   ],
-   "tue": [
-    [
-     "10:00",
-     "22:00"
-    ]
-   ],
-   "wed": [
-    [
-     "10:00",
-     "22:00"
-    ]
-   ],
-   "thu": [
-    [
-     "10:00",
-     "22:00"
-    ]
-   ],
-   "fri": [
-    [
-     "10:00",
-     "22:30"
-    ]
-   ],
-   "sat": [
-    [
-     "10:00",
-     "22:30"
-    ]
-   ],
-   "sun": [
-    [
-     "10:00",
-     "22:00"
-    ]
-   ]
-  },
-  "photos": [],
-  "notes": "No permanent Chiikawa sushi in Shenzhen (the sushi tie-in is Chiikawa x Kura Sushi in Japan). Chiikawa appears here only as temporary mall pop-ups; current one ~20 May-30 Jun 2026 at 前海壹方城. Verify dates."
  },
  {
   "id": "sz-seaworld-fountain",
@@ -4046,21 +3989,6 @@
   "desc": "Cheap-and-cheerful crab-roe (蟹黄) noodle and rice bowls. An Instagrammable budget bite HK foodies queue for, exactly the 'great value vs HK' draw of crossing the border.",
   "commute": "~22 min DiDi from Shekou (Nanshan).",
   "notes": "Featured in Sassy Hong Kong Shenzhen dining guide.",
-  "price": null,
-  "hours": null,
-  "photos": []
- },
- {
-  "id": "sz-hk-bionicbrew",
-  "city": "SZ",
-  "category": "nightlife",
-  "name": "Bionic Brew 源源精酿 (Nantou taproom)",
-  "lat": 22.5302,
-  "lng": 113.9185,
-  "address": "Nantou Ancient City, Nanshan",
-  "desc": "Shenzhen's original craft brewery (IPAs, comfort food like chicken & waffles) set in the restored Nantou Ancient City. The go-to taproom for HK and expat weekenders wanting a beer-and-burger night.",
-  "commute": "~18 min DiDi from Shekou, or Line 12 to 南头古城.",
-  "notes": "Now Shenzhen / That's Shenzhen; expat & HK craft-beer favorite. Caveat: the Nantou taproom may have closed (5-year lease ended); verify before going.",
   "price": null,
   "hours": null,
   "photos": []
