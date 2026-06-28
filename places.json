@@ -385,7 +385,50 @@
   "address": "7 Supyo-ro 22-gil, Jongno-gu",
   "desc": "Home base in Jongno, steps from Jongno 3-ga station; Insadong and Gyeongbokgung nearby.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [],
   "commute": "Airport transfers to Amare Hotel Jongno (Jongno 3-ga Stn): From Incheon (ICN) — AREX All-Stop train to Seoul Stn (~60 min, ₩4,750), then Line 1 two stops to Jongno 3-ga + 3-min walk (total ~80 min, ~₩6,000); KAL/airport limousine bus #6011 toward Jongno drops near Jongno 3-ga (~70-90 min, ₩18,000); taxi ~60-70 min, ₩70,000-90,000 (incl. toll, more at night). From Gimpo (GMP) — Line 5 direct to Jongno 3-ga, no transfer (~45 min, ₩1,650) + 2-min walk; taxi ~30-40 min, ₩25,000-35,000. Best value from ICN is AREX+Line 1; from GMP the Line 5 direct ride is unbeatable."
  },
@@ -3192,7 +3235,78 @@
   "address": "683-57 Hannam-dong, Yongsan, Seoul",
   "desc": "Hotteok and Korean street-food snacks.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "17:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~25 min (Line 3 to Yaksu Stn, transfer to Line 6 to Hangangjin Stn Exit 3 + 8-min walk); taxi ~15 min ₩9,000."
@@ -3207,7 +3321,50 @@
   "address": "75-2 Cheonggyecheon-ro, Jongno, Seoul",
   "desc": "Beef noodle soup.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "5-min walk along Cheonggyecheon; no transit needed (just southwest of the hotel)."
@@ -3222,7 +3379,78 @@
   "address": "127 Bogwang-ro, Yongsan, Seoul",
   "desc": "Korean fried chicken.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "15:00"
+    ],
+    [
+     "16:00",
+     "23:30"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~28 min (Line 3 to Yaksu, transfer Line 6 to Hangangjin Stn Exit 3 + 10-min walk toward Bogwang-ro); taxi ~16 min ₩9,500."
@@ -3237,7 +3465,50 @@
   "address": "42-5 Insadong-gil, Jongno, Seoul",
   "desc": "Handmade dumplings near Insadong.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "19:30"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "8-min walk into Insadong; no transit needed (it's on Insadong-gil, just northwest of the hotel)."
@@ -3252,7 +3523,45 @@
   "address": "Jongno, Seoul",
   "desc": "Cheese kimbap.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": null
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "6-min walk east toward Gwangjang Market area; no transit needed."
@@ -3267,7 +3576,69 @@
   "address": "186-6 Mapo-daero, Mapo, Seoul",
   "desc": "Korean restaurant.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "20:00"
+    ]
+   ],
+   "sun": null
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~22 min (Line 5 to Gongdeok Stn Exit 5 + 6-min walk); taxi ~18 min ₩11,000."
@@ -3282,7 +3653,50 @@
   "address": "674 Nodeul-ro, Dongjak, Seoul",
   "desc": "Huge seafood wholesale market; pick and have it cooked.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~30 min (Line 1 direct to Noryangjin Stn Exit 1 + 6-min walk via fish-market footbridge); taxi ~20 min ₩13,000."
@@ -3297,7 +3711,50 @@
   "address": "17-1 Myeongdong 10-gil, Jung, Seoul",
   "desc": "Griddled toast sandwiches and coffee.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "08:00",
+     "20:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~13 min (Line 3 one stop to Euljiro 3-ga, or walk; near Myeongdong Cathedral, Exit toward Myeongdong-gil + 5-min walk); taxi ~9 min ₩6,000. Also a brisk ~18-min walk south."
@@ -3312,7 +3769,50 @@
   "address": "88 Changgyeonggung-ro, Jongno, Seoul",
   "desc": "Famous traditional market and street-food hall (bindaetteok, mayak gimbap).",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "7-min walk east along Jong-ro to Gwangjang Market; no transit needed."
@@ -3327,7 +3827,50 @@
   "address": "Myeongdong, Jung, Seoul",
   "desc": "Soft tofu stew (soondubu).",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 11/12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
@@ -3342,7 +3885,45 @@
   "address": "32 Changgyeonggung-ro 8-gil, Jung, Seoul",
   "desc": "Korean restaurant.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "sun": null
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "6-min walk southeast (near Gwangjang Market / Euljiro); no transit needed."
@@ -3357,7 +3938,50 @@
   "address": "Gwanghwamun, Seoul",
   "desc": "Long-running traditional Korean restaurant.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~12 min (Line 1 one stop to Jonggak Stn Exit 1, or walk; near Gwanghwamun + 6-min walk); taxi ~9 min ₩6,000. Also a ~15-min walk west."
@@ -3387,7 +4011,50 @@
   "address": "6 Myeongdong 8na-gil, Jung, Seoul",
   "desc": "Myeongdong eatery.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "28:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk south into Myeongdong); taxi ~11 min ₩7,000."
@@ -3402,7 +4069,50 @@
   "address": "132-23 Itaewon-dong, Yongsan, Seoul",
   "desc": "Fried chicken, Itaewon.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~26 min (Line 3 to Yaksu, transfer Line 6 to Itaewon Stn Exit 1 + 5-min walk); taxi ~16 min ₩9,500."
@@ -3417,7 +4127,50 @@
   "address": "27 Cheongpa-ro 85-gil, Yongsan, Seoul",
   "desc": "Fried chicken.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~24 min (Line 5 to Gongdeok Stn, transfer to Line 6 to Hyochang Park Stn Exit 1 + 7-min walk); taxi ~18 min ₩11,000."
@@ -3432,7 +4185,50 @@
   "address": "Myeongdong 7-gil, Jung, Seoul",
   "desc": "Craft beer pub.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "tue": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "wed": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "thu": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "fri": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "sat": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "sun": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
@@ -3447,7 +4243,50 @@
   "address": "22 Myeongdong 8ga-gil 2F, Jung, Seoul",
   "desc": "Fried chicken.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~17 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 9-min walk south into Myeongdong); taxi ~11 min ₩7,000."
@@ -3462,7 +4301,50 @@
   "address": "2 Myeongdong 4-gil, Jung, Seoul",
   "desc": "Korean fried chicken.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk into central Myeongdong); taxi ~10 min ₩6,500."
@@ -3477,7 +4359,50 @@
   "address": "294 Jong-ro, Jongno, Seoul",
   "desc": "Fried chicken.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~14 min (Line 1 two stops to Jongno 5-ga Stn Exit 6 + 4-min walk, near Dongdaemun); taxi ~10 min ₩6,500. Also a ~18-min walk east along Jong-ro."
@@ -3492,7 +4417,50 @@
   "address": "207 Myeongdong 7-gil 2F, Jung, Seoul",
   "desc": "Korean BBQ buffet.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "26:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
@@ -3507,7 +4475,50 @@
   "address": "44 Myeongdong 3-gil 3F, Jung, Seoul",
   "desc": "All-you-can-eat Korean BBQ.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~15 min (Line 3 to Euljiro 3-ga Stn Exit 11/12 + 6-min walk into Myeongdong); taxi ~10 min ₩6,500."
@@ -3522,7 +4533,50 @@
   "address": "9 Myeongdong 8na-gil 3F, Jung, Seoul",
   "desc": "Myeongdong eatery.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "26:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~17 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 9-min walk south into Myeongdong); taxi ~11 min ₩7,000."
@@ -3537,7 +4591,50 @@
   "address": "20 Toegye-ro 18-gil, Jung, Seoul",
   "desc": "Korean BBQ.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:30"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~18 min (Line 3 to Chungmuro Stn Exit 1 + 6-min walk toward Toegye-ro, or Euljiro 3-ga + walk); taxi ~11 min ₩7,000."
@@ -3552,7 +4649,50 @@
   "address": "29 Dohwa-gil, Mapo, Seoul",
   "desc": "Korean restaurant.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "16:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "16:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "16:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "16:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "16:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "22:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~26 min (Line 5 to Mapo Stn Exit 4 + 6-min walk toward Dohwa-gil); taxi ~20 min ₩12,000."
@@ -3567,7 +4707,50 @@
   "address": "54-2 Myeongdong 2-ga, Jung, Seoul",
   "desc": "Charcoal Korean BBQ.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk into Myeongdong); taxi ~10 min ₩6,500."
@@ -3582,7 +4765,50 @@
   "address": "118 Bogwang-ro 1F, Yongsan, Seoul",
   "desc": "Restaurant near Itaewon.",
   "price": null,
-  "hours": null,
+  "hours": {
+   "mon": [
+    [
+     "16:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "16:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "16:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "16:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "16:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [],
   "notes": "From your Google Maps 'Want to go' list.",
   "commute": "Metro ~27 min (Line 3 to Yaksu, transfer Line 6 to Itaewon Stn Exit 4 + 9-min walk toward Bogwang-ro); taxi ~16 min ₩9,500."
@@ -6356,7 +7582,45 @@
   "price": "₩3,000 adult; ages 7-18 ₩1,500; under 7 free; free in hanbok",
   "commute": "Metro ~12 min (Line 3 from Jongno 3-ga to Gyeongbokgung, 2 stops); taxi ~8 min ₩5,500; walk ~20 min.",
   "notes": "4yo: huge open courtyards to run safely, and the guard ceremony with drums and costumes holds attention. 12yo: engaged by the scale, the throne hall and the on-site National Palace Museum.",
-  "hours": "09:00-18:30 (Jun-Aug), 09:00-18:00 (Mar-May/Sep-Oct), 09:00-17:00 (Nov-Feb); last entry 1 hr before; closed Tuesdays",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "tue": null,
+   "wed": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20241114_changing.jpg/960px-20241114_changing.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_of_Keijo_%28Seoul%29_Korea%2C_Taken_by_USS_Antietam_%28cropped%29.jpg/960px-Aerial_of_Keijo_%28Seoul%29_Korea%2C_Taken_by_USS_Antietam_%28cropped%29.jpg",
@@ -6375,7 +7639,45 @@
   "price": "Palace ₩3,000 adult (₩1,500 youth); Huwon separate ₩5,000 adult (₩2,500 youth); under 7 free",
   "commute": "Walk ~10 min; taxi ~5 min ₩4,800; Metro Line 3 to Anguk ~12 min.",
   "notes": "4yo: palace courtyards are fine, but the ~60-90 min Huwon tour (keep pace with the guide, no stroller) suits the 12yo far more, a toddler may tire. Consider palace-only with the youngest.",
-  "hours": "09:00-18:00 (to 18:30 Jun-Aug, to 17:30 Nov-Jan); closed Mondays; Huwon by guided tour only",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/Changdeokgung-Injeongjeon.jpg"
   ]
@@ -6392,7 +7694,45 @@
   "price": "₩1,000 adult; under 19 and over 64 free; free in hanbok",
   "commute": "Walk ~15 min; taxi ~7 min ₩5,000; Metro Line 4 to Hyehwa then walk ~12 min.",
   "notes": "4yo: least crowded palace, lots of grass, ponds and ducks, relaxed. 12yo: greenhouse and quiet gardens are pleasant but lower-key, best paired with Changdeokgung.",
-  "hours": "09:00-21:00 (last entry 20:00); closed Mondays",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Changgyeonggung%2C_salle_du_tr%C3%B4ne_2.jpg/960px-Changgyeonggung%2C_salle_du_tr%C3%B4ne_2.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Changyang_Palace%2C_Seoul.jpg/960px-Changyang_Palace%2C_Seoul.jpg",
@@ -6411,7 +7751,45 @@
   "price": "₩1,000 adult; under 19 and over 64 free; free in hanbok",
   "commute": "Metro ~10 min (Line 1 from Jongno 3-ga to City Hall, 2 stops); taxi ~8 min ₩5,500; walk ~18 min.",
   "notes": "4yo: small and easy to cover, and the free guard-changing ceremony is a quick crowd-pleaser. 12yo: the East-meets-West architecture and the modern-art museum inside are more interesting than a typical palace.",
-  "hours": "09:00-21:00 (last entry 20:00); closed Mondays; guard ceremony 11:00/14:00/15:30",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/An_Imperial_Procession_%281899%29_%28cropped_2%29.png/960px-An_Imperial_Procession_%281899%29_%28cropped_2%29.png",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Deoksugung_%281886%29.png/960px-Deoksugung_%281886%29.png",
@@ -6430,7 +7808,45 @@
   "price": "₩1,000 adult; under 19 and over 64 free; free in hanbok",
   "commute": "Walk ~5 min; taxi ~4 min ₩4,800 (right beside Jongno 3-ga station).",
   "notes": "4yo: calm forested grounds are stroller-friendly but it is a quiet, reverent place with little to do, may get restless on the structured tour. 12yo: can appreciate the history if briefed, the most solemn stop here.",
-  "hours": "09:00-18:00 (to 18:30 Jun-Aug, to 17:30 Nov-Jan); closed Tuesdays; weekday entry by guided tour only (English 10:00/12:00/14:00/16:00)",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "tue": null,
+   "wed": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/Jongmyo-Jeongjeon.jpg"
   ]
@@ -6447,7 +7863,50 @@
   "price": "free",
   "commute": "Walk ~8 min; taxi ~5 min ₩4,800; Metro Line 1 to Jonggak ~6 min.",
   "notes": "4yo: free open courtyard with bright lanterns and big trees, a short visual stop. 12yo: can watch monks and worshippers and learn about Buddhism, a 15-20 min visit.",
-  "hours": "Daily ~04:00-21:00 (grounds always accessible); main hall best 09:00-18:00",
+  "hours": {
+   "mon": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "04:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/Jogyesa.jpg"
   ]
@@ -6464,7 +7923,50 @@
   "price": "Free (streets); some craft museums charge small fees",
   "commute": "Metro ~14 min (Line 3 to Anguk Exit 2 + walk ~8 min); taxi ~9 min ₩5,500; walk ~18 min.",
   "notes": "4yo: steep cobbled hilly lanes are tiring and not stroller-friendly (a carrier helps), crowds heavy. 12yo: enjoys the photo spots and hands-on craft workshops (hanji paper, knot-tying).",
-  "hours": "Main alleys ~10:00-17:00 (residential quiet hours enforced); shops vary",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/Bukchon_Hanok_Village.jpg"
   ]
@@ -6481,7 +7983,50 @@
   "price": "Free (alleys); pay per shop/cafe",
   "commute": "Walk ~3-5 min; taxi not needed (adjoins Jongno 3-ga station).",
   "notes": "4yo: flat compact alleys with sweet treats and quirky shops, easy and fun. 12yo: cafe culture, vintage stores and photogenic corners, a strong all-ages pick on your doorstep.",
-  "hours": "Alleys always open; most shops/cafes ~11:00-22:00",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_1.jpg/960px-Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_1.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jongno_1.2.3.4-ga-dong_Community_Center.jpg/960px-Jongno_1.2.3.4-ga-dong_Community_Center.jpg",
@@ -6500,7 +8045,50 @@
   "price": "Free (Ssamziegil entry free); pay per shop",
   "commute": "Walk ~7-10 min; taxi ~5 min ₩4,800; Metro Line 1 to Jonggak ~6 min.",
   "notes": "4yo: pedestrian street and the ramped spiralling Ssamziegil are easy (look for 'dragon beard' candy demos and street snacks). 12yo: shop for crafts, stamps and stationery.",
-  "hours": "Street shops ~10:00-21:00; Ssamziegil ~10:30-20:30 daily",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/A_paper_store_at_Insadong%2C_Seoul-01.jpg/960px-A_paper_store_at_Insadong%2C_Seoul-01.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hangwa_street_vendor_at_Insadong%2C_Seoul.jpg/960px-Hangwa_street_vendor_at_Insadong%2C_Seoul.jpg",
@@ -6519,7 +8107,50 @@
   "price": "free",
   "commute": "Walk ~5 min to the stream; Cheonggye Plaza head ~15 min walk or ~4 min taxi ₩4,800.",
   "notes": "4yo: excellent, shallow water, stepping-stones and ducks to splash and explore (watch the edge). 12yo: stepping-stone crossings and, in season, the lantern festival, easy and free.",
-  "hours": "Open 24 hours daily (best by day or lit at night)",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/Cheonggyecheon.jpg",
    "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Seoul-Cheonggyecheon-01.jpg"
@@ -6537,7 +8168,50 @@
   "price": "free",
   "commute": "Metro ~8 min (Line 5 from Jongno 3-ga to Gwanghwamun, 2 stops); taxi ~7 min ₩5,500; walk ~16 min.",
   "notes": "4yo: wide flat space and summer ground fountains to run and cool off. 12yo: recognises the historic figures and can explore the underground 'Story of King Sejong'.",
-  "hours": "Open 24 hours (plaza); fountains seasonal; underground exhibits ~10:00-18:30",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2023_Kukki_Taekwondo_Festival_02_%2852768992712%29.jpg/960px-2023_Kukki_Taekwondo_Festival_02_%2852768992712%29.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gwanghwamun_Square_20220806_06.jpg/960px-Gwanghwamun_Square_20220806_06.jpg",
@@ -6556,7 +8230,50 @@
   "price": "Observatory ~₩21,000 adult / ~₩16,000 child; cable car extra ~₩14,000 round-trip; Namsan park free",
   "commute": "Taxi ~18 min ₩9,500 to the cable-car base/tower; or Metro Line 3 to Chungmuro + Namsan Oreumi shuttle/cable car ~30 min total.",
   "notes": "4yo: the cable-car ride and breezy lookout deck delight (bring a carrier for the uphill); teddy-bear museum at the base. 12yo: loves the views, love-locks and spotting landmarks, a top all-ages pick.",
-  "hours": "Observatory ~12:00-22:00 weekdays, 11:00-22:00 weekends (last entry 21:30); year-round",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/en/a/a6/NamsanTower_%28Cropped%29.jpeg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Geographical_center_of_Seoul.jpg/960px-Geographical_center_of_Seoul.jpg",
@@ -6575,7 +8292,45 @@
   "price": "Free (some craft programs charge a small fee)",
   "commute": "Metro ~10 min (Line 3 from Jongno 3-ga to Chungmuro, exit 3-4); taxi ~10 min ₩6,000.",
   "notes": "4yo: flat stroller-friendly grounds with a pond, courtyards and free traditional games (tuho arrow-toss, top-spinning), ideal. 12yo: try crafts, archery-style games and hanbok, more hands-on and less crowded than Bukchon.",
-  "hours": "09:00-21:00 (Apr-Oct), 09:00-20:00 (Nov-Mar); closed Mondays",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inside_a_Hanok.JPG/960px-Inside_a_Hanok.JPG",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Seoul-Namsangol-07.jpg/960px-Korea-Seoul-Namsangol-07.jpg",
@@ -6594,7 +8349,50 @@
   "price": "Free (permanent galleries; some special exhibitions paid). Children's Museum free, online reservation required",
   "commute": "Taxi best ~18-22 min, ~₩11,000-13,000. Metro ~35-40 min (Jongno 3-ga -> Line 4 -> Ichon Stn + ~10 min walk).",
   "notes": "4yo: excellent, the standalone Children's Museum is hands-on (touch, build, dress-up) and reservation-gated so never crushed. 12yo: engaged by celadon, gold-crown Silla treasures, armour and the giant pagoda hall; big grounds to spread out.",
-  "hours": "Mon/Tue/Thu/Fri/Sun 10:00-18:00; Wed & Sat 10:00-21:00; closed Jan 1, Seollal, Chuseok",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gate_of_Special_Exhibiton_Gallery.jpg/960px-Gate_of_Special_Exhibiton_Gallery.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/960px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg",
@@ -6613,7 +8411,45 @@
   "price": "Free; Children's Museum free, mandatory online reservation",
   "commute": "Taxi ~10-13 min, ~₩6,000-7,500. Metro ~15-20 min (Line 3 to Gyeongbokgung Stn Exit 5 + ~7 min walk).",
   "notes": "4yo: top pick, the Children's Museum is story- and play-based (folk-tale climbing, farm/market role-play). 12yo: open-air old-town street and folk-life dioramas, pairs with a Gyeongbokgung walk.",
-  "hours": "Mar-May & Sep-Oct 09:00-18:00; Jun-Aug to 18:30; Nov-Feb to 17:00; Fri/Sat to 21:00; closed Jan 1, Seollal, Chuseok",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "tue": null,
+   "wed": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:30"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/National_Folk_Museum_of_Korea.jpg"
   ]
@@ -6630,7 +8466,50 @@
   "price": "Free",
   "commute": "Taxi ~10-12 min, ~₩6,000-7,000. Metro ~15 min (Line 3 to Gyeongbokgung Stn Exit 5, at the museum).",
   "notes": "4yo: manageable size, shiny royal regalia and a royal carriage to point at, no big kids' zone. 12yo (chess player): likely enjoys the Joseon scientific instruments, water clocks and celestial-map astronomy.",
-  "hours": "10:00-18:00 (Wed & Sat to 21:00); closed Jan 1, Seollal, Chuseok",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/National_Palace_Museum_of_Korea.jpg"
   ]
@@ -6647,7 +8526,45 @@
   "price": "Free",
   "commute": "Taxi ~8-10 min, ~₩5,500-6,500. Metro ~12-15 min (Line 5 Gwanghwamun Stn Exit 7 + ~6 min walk).",
   "notes": "4yo: the giant illuminated scale-model floor is a genuine wow (walk over the glass, spot landmarks), plus old tram cars. 12yo: recreated period streets and modern-history storyline.",
-  "hours": "09:00-18:00 (last entry 17:30), Fri to 21:00; closed Mondays and Jan 1",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/9/90/Museum_btn.png",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Outdoor_Exhibition_Streetcar_No.381.jpg/960px-Outdoor_Exhibition_Streetcar_No.381.jpg",
@@ -6666,7 +8583,45 @@
   "price": "₩4,000 (often free until further notice; free last Wed/Culture Day; under-24 & seniors free)",
   "commute": "Taxi ~10-13 min, ~₩6,000-7,500. Metro ~15-20 min (Line 3 Anguk Stn Exit 1 + ~10 min walk).",
   "notes": "12yo: best fit, bold installations and media-art rooms; MMCA runs family/education programs (varies). 4yo: less hands-on but big open spaces and large sculptures hold short attention.",
-  "hours": "Mon/Tue/Thu/Fri/Sun 10:00-18:00; Wed & Sat 10:00-21:00; closed Jan 1, Seollal, Chuseok",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://commons.wikimedia.org/wiki/Special:FilePath/National_Museum_of_Modern_and_Contemporary_Art,_Seoul.jpg",
    "https://commons.wikimedia.org/wiki/Special:FilePath/MMCA_Seoul.jpg"
@@ -6684,7 +8639,50 @@
   "price": "Free",
   "commute": "Taxi ~8-10 min, ~₩5,500-6,500. Metro ~12 min (Line 5 Gwanghwamun Stn Exit 2 + ~3 min walk).",
   "notes": "4yo: 1F Children's Museum / 'Korean History Dream Village' is hands-on (role-play, world-cultures). 12yo: follows the modern-history narrative (Korean War, rapid-growth era); free rooftop view over the square.",
-  "hours": "10:00-18:00 (Wed & Sat to 21:00); closed Jan 1 (open most Mondays; verify)",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/e/ec/National_Museum_of_Korean_Contemporary_History.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/National_Museum_of_Korean_Contemporary_History.jpg/960px-National_Museum_of_Korean_Contemporary_History.jpg"
@@ -6702,7 +8700,45 @@
   "price": "Free (some 4D/experience attractions paid; Children's Museum free, timed sessions)",
   "commute": "Taxi ~15-18 min, ~₩8,000-10,000. Metro ~25-30 min (toward Samgakji Stn Exit 12 + ~5 min walk).",
   "notes": "Best museum here for both: 4yo loves the indoor Children's Museum (climb-in jeep/tank, timed entry keeps it calm) and outdoor jets/tanks. 12yo: strongly engaged by real aircraft, tanks, a naval vessel and Korean War galleries.",
-  "hours": "09:30-18:00 (last entry 17:00); closed Mondays. Children's Museum hourly timed sessions ~10:00-16:50",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/d/d3/The_War_Memorial_Of_Korea_240615_02.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Korea-Seoul-War_Memorial_of_Korea-02.jpg",
@@ -6721,7 +8757,45 @@
   "price": "Permanent collection free; special exhibitions paid (~₩12,000-20,000); reservation, under-19 typically free",
   "commute": "Taxi ~15-20 min, ~₩9,000-11,000. Metro ~25-30 min (Line 6 Hangangjin Stn Exit 1 + ~5-8 min uphill walk).",
   "notes": "12yo: appreciates the celadon, gold Buddhist art and famous architecture; occasional family programs. 4yo: least toddler-friendly here (quiet galleries, no play zone), best paired with a short visit.",
-  "hours": "Tue-Sun 10:30-18:00 (last entry 17:30); closed Mondays, Jan 1, Seollal, Chuseok",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "18:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Leeum%2C_Samsung_Museum_of_Art.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Korea-Nam_Gyewoo-Hwajeopdo-01.jpg",
@@ -6740,7 +8814,50 @@
   "price": "Park & zoo free; ride tickets ~₩5,000 single / BIG5 ~₩20,000; pony or camel ride ~₩5,000-6,000",
   "commute": "Metro ~35 min (Line 5 Jongno 3-ga -> Achasan, or Line 7 -> Children's Grand Park stn). Taxi ~25 min ~₩13,000.",
   "notes": "4yo: excellent (free petting/zoo animals, carousel, gentle rides with a guardian). 12yo: thrill rides need height >=100-120cm, he qualifies. Pony riding is the daughter's highlight, small ponies led by staff; confirm operating days on arrival (weather/season dependent).",
-  "hours": "Park 05:00-22:00 daily; zoo ~10:00-17:00; amusement park ~10:00-18:00 (rides closed some weekdays/winter)",
+  "hours": {
+   "mon": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "05:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6755,7 +8872,45 @@
   "price": "₩4,000 (ages 36 months and up, and adults)",
   "commute": "Same as Children's Grand Park: Metro ~35 min (Line 7 -> Children's Grand Park stn), taxi ~25 min ~₩13,000.",
   "notes": "4yo: ideal (sensory play, role-play, water and building zones). 12yo: likely too young (exhibits target ~ages 3-9), pair with the amusement park/pony rides outside.",
-  "hours": "10:00-18:00, closed Mondays; timed sessions, reserve ahead",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6770,7 +8925,50 @@
   "price": "Free (deer feed from vending machines a few hundred won)",
   "commute": "Metro ~30 min (Suin-Bundang Line to Seoul Forest stn, or Line 2 to Ttukseom). Taxi ~20 min ~₩10,000.",
   "notes": "4yo: great (deer feeding, giant slides, net climbers, sandbox, summer water play). 12yo: room to run, bike rentals and big climbing structures, mainly a nature/playground outing. No pony.",
-  "hours": "Park 24h; deer enclosure/ecology forest ~05:30-21:30",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/f/f5/SeoulForest.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/3/3d/Seoul_Forest_Park.jpg"
@@ -6788,7 +8986,50 @@
   "price": "Free",
   "commute": "Taxi ~10 min ~₩6,000. Metro ~20 min (Line 4 to Hyehwa stn + ~10 min uphill walk).",
   "notes": "4yo: easy on the paved sections (stroller-friendly near the top, approach streets steep). 12yo: the wall-top walk and panoramas; a scenic stroll plus mural-village photo stop. No rides or pony.",
-  "hours": "Open 24h (best by day for kids; lovely at dusk)",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/b/b0/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1%EB%82%99%EC%82%B0%EA%B5%AC%EA%B0%84.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Naksan_Park_2.jpg/960px-Naksan_Park_2.jpg",
@@ -6807,7 +9048,50 @@
   "price": "Adult ~₩35,000 (₩27,000 online), child ~₩29,000 (under 36 months free)",
   "commute": "Metro ~30 min (Line 2 toward Samseong stn, exit 5/6). Taxi ~25-30 min ~₩15,000.",
   "notes": "4yo: strong (touch tanks, tunnels, colourful fish at stroller pace). 12yo: sharks, the big ocean tank and mall arcades nearby. No pony. Lotte World/Aquarium in Jamsil is similar but ~35-45 min, less reliable within 30 min.",
-  "hours": "10:00-20:00 daily, last entry 19:00",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/5/54/1_Check-In.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1_Check-In.jpg/960px-1_Check-In.jpg",
@@ -6826,7 +9110,45 @@
   "price": "1hr ~₩15,000 / 2hr ~₩25,500 (app/weekday discounts); grip socks extra",
   "commute": "Metro ~35 min (Line 2 to Samseong/Hak-dong). Taxi ~25 min ~₩15,000. Easy to combine with COEX Aquarium same day.",
   "notes": "12yo: best fit, loves the trampolines, dodgeball and VR. 4yo: can enter (min height 100cm) but Sky Challenge/Wall zones need >=120cm, so limited to the basic trampoline area with a guardian. No pony.",
-  "hours": "10:00-20:00 daily (Jamsil branch to 21:00)",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6841,7 +9163,50 @@
   "price": "Free entry (pay per shop/activity)",
   "commute": "Metro ~25 min (Line 5 from Jongno 3-ga to Yeouinaru/Yeouido). Taxi ~20 min ~₩11,000.",
   "notes": "4yo: open indoor garden, fountains and toy/character pop-ups; stroller- and nursing-room friendly. 12yo: better served by the bookstore, dining and rotating exhibitions than play equipment. Check current kids' pop-up before going.",
-  "hours": "Mon-Thu 10:30-20:00; Fri-Sun & holidays 10:30-20:30",
+  "hours": {
+   "mon": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "20:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "20:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "20:30"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6856,7 +9221,50 @@
   "price": "Per game ₩500-1,000; claw machines ₩1,000; budget ₩10,000-20,000/person",
   "commute": "Metro: 8-min walk (Jonggak Stn, Line 1). Taxi 4-6 min ~₩4,000 (often faster to walk ~600 m).",
   "notes": "4yo: ground-floor claw machines and kiddie rides with a parent. 12yo: loves the rhythm/racing/fighting cabinets; not a chess venue but the most convenient pure-fun outlet near the room.",
-  "hours": "~10:00-24:00 daily",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6871,7 +9279,50 @@
   "price": "Free (outdoor); casual play is free",
   "commute": "Metro: 5-min walk (Jongno 3-ga, Lines 1/3/5). Taxi not worth it (~3 min).",
   "notes": "4yo: can run around the park but little built for toddlers. 12yo (chess player): the highlight, Go boards everywhere and regulars are delighted to teach/play a curious foreign kid, genuine drop-in play (bring a parent, mornings friendliest).",
-  "hours": "Daylight hours, best ~10:00-17:00; busiest on warm-weather weekends",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Entrance_to_Tapgol_Park.jpg/960px-Entrance_to_Tapgol_Park.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Korea-Seoul-Tapgol_Pavilion_Park_0094-06.JPG/960px-Korea-Seoul-Tapgol_Pavilion_Park_0094-06.JPG",
@@ -6890,7 +9341,50 @@
   "price": "~₩3,000-5,000 for a half-day of play",
   "commute": "Metro: 7-10 min walk (Jonggak/Jongno 3-ga). Taxi ~4 min ~₩3,500.",
   "notes": "4yo: not suitable (quiet adult room). 12yo: ideal, a real Go club where a polite young player is matched against locals; bring a parent and a translation app, the baduk community welcomes visiting kids.",
-  "hours": "~10:00-22:00 daily (call ahead; small clubs vary)",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6905,7 +9399,50 @@
   "price": "₩3,000/hour per person + one drink each (~₩5,000-6,000)",
   "commute": "Metro ~30 min (Jongno 3-ga -> Line 2 -> Hongik Univ). Taxi 20-25 min ~₩11,000.",
   "notes": "4yo: simple dexterity games (Jenga, Halli Galli) with the family. 12yo: staff recommend games to your level and you can request a chess set; opponents are mostly your own family rather than strangers.",
-  "hours": "Mon-Thu 13:00-24:00, Fri 13:00-02:00, Sat 12:00-02:00, Sun 12:00-01:00",
+  "hours": {
+   "mon": [
+    [
+     "13:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "13:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "13:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "13:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "13:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "12:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "12:00",
+     "25:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6920,7 +9457,50 @@
   "price": "₩500-1,000 per game; claw machines ₩1,000; ₩10,000-20,000/person",
   "commute": "Metro ~30 min via Line 2 to Hongik Univ. Taxi 20-25 min ~₩11,000.",
   "notes": "4yo: easy claw machines and basketball with help. 12yo: loves the rhythm and racing cabinets and the dense claw-machine street outside; pure arcade energy, a great Hongdae evening.",
-  "hours": "~10:00-02:00 daily (peak evenings)",
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "24:50"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "24:50"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "24:50"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "24:50"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "26:50"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "26:50"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "24:50"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6935,7 +9515,50 @@
   "price": "Adult ₩15,000; under-18 ~₩12,000; combo with Ice Museum ~₩18,000",
   "commute": "Metro ~30 min via Line 2 to Hongik Univ (Exit 9, 5-min walk). Taxi 20-25 min ~₩11,000.",
   "notes": "4yo: excellent, visual, interactive, silly photo spots and an ice room. 12yo: ~1 hour of fun but not strategy, pair with a board-game cafe nearby.",
-  "hours": "09:00-21:00 daily (last admission 20:00)",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6950,7 +9573,50 @@
   "price": "~₩30,000-40,000 unlimited-time pass; some attractions have height limits",
   "commute": "Metro ~30 min via Line 2 to Hongik Univ. Taxi 20-25 min ~₩11,000.",
   "notes": "4yo: limited, many VR rides have a minimum height/age. 12yo: the target audience, loves the action VR; a strong rainy-day option with the nearby arcade and Trickeye.",
-  "hours": "Mon-Fri & Sun 11:00-23:00, Sat 11:00-24:00",
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -6965,7 +9631,7 @@
   "price": "Free to join; buy your own cafe drink (~₩5,000-7,000)",
   "commute": "Metro ~30 min via Line 2 to Hapjeong/Hongik Univ. Taxi 20-25 min ~₩11,000-13,000 (venue varies).",
   "notes": "4yo: not suitable (adult cafe social). 12yo: the best 'play locals at chess' option, members are all-levels and welcoming and a ranked young player would be a hit, but a parent must RSVP and attend. Confirm date/venue first, it is event-based not a fixed address.",
-  "hours": "Scheduled events (often weekday evenings / weekend afternoons), check the Meetup/Instagram calendar before going",
+  "hours": null,
   "photos": []
  },
  {
@@ -6980,7 +9646,50 @@
   "price": "free entry",
   "commute": "Metro ~12 min (Line 1 Jongno 3-ga -> Jonggak + 5 min walk) or an 18-20 min walk; taxi ~7 min ~₩5,000-6,000.",
   "notes": "4yo: large kids' picture-book and character-goods zone plus Hot Tracks toys/figures. 12yo: huge English/manga/comics, a chess and strategy-game book selection, stationery and gadget aisles.",
-  "hours": "09:30-22:00 daily",
+  "hours": {
+   "mon": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/4/46/Kyobo_Book_Centre_-_Gwanghwamun_Branch.JPG",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kyobo_Book_Centre_-_Gwanghwamun_Branch.JPG/960px-Kyobo_Book_Centre_-_Gwanghwamun_Branch.JPG",
@@ -6999,7 +9708,50 @@
   "price": "free entry; used books often ₩2,000-8,000",
   "commute": "10-12 min walk; Metro 1 stop (Line 1 to Jonggak, Exit 12); taxi ~5 min ~₩4,000.",
   "notes": "4yo: cheap second-hand children's books and a small character/toy corner. 12yo: bargain English novels, manga and second-hand strategy/chess and puzzle books to hunt through.",
-  "hours": "10:00-22:00 daily (closed Lunar New Year & Chuseok)",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7014,7 +9766,50 @@
   "price": "free entry; mid-range shopping",
   "commute": "Metro ~12 min (Line 4 to Myeongdong, or Line 2 to Euljiro 1-ga + walk); taxi ~8 min ~₩5,000.",
   "notes": "4yo: street-food snacks (tornado potato, egg bread), balloon vendors and character shops. 12yo: K-pop and stationery stores, trendy fashion, merch pop-ups; the giant Daiso is steps away.",
-  "hours": "Shops ~10:30-22:00; street-food carts ~16:00-23:00",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Myeong-dong_Night_view_201604.jpg/960px-Myeong-dong_Night_view_201604.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Myeongdong-gbaeb8384d_1920.jpg/960px-Myeongdong-gbaeb8384d_1920.jpg",
@@ -7033,7 +9828,50 @@
   "price": "free entry; most items ₩1,000-5,000",
   "commute": "Metro ~13 min (Line 4 to Myeongdong, or Line 2 to Euljiro 1-ga + walk); taxi ~8 min ~₩5,000.",
   "notes": "4yo: a whole floor of cheap toys, stickers, plush and character goods. 12yo: stationery, hobby/DIY kits, desk gadgets and travel items on a small souvenir budget.",
-  "hours": "10:00-22:00 daily",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7048,7 +9886,45 @@
   "price": "free entry; toys discounted 30-40%",
   "commute": "Metro ~10 min (Line 1 Jongno 3-ga -> Dongdaemun, Exit 4); taxi ~10 min ~₩6,000.",
   "notes": "4yo: aisle after aisle of cheap toys, plush, figures, balloons and stickers, the most toy-dense stop here. 12yo: model kits, board/strategy games, art and stationery supplies at bargain prices.",
-  "hours": "~08:00-19:00, closed Sundays (per-shop hours vary)",
+  "hours": {
+   "mon": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "tue": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "wed": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "thu": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "fri": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "sat": [
+    [
+     "08:00",
+     "19:00"
+    ]
+   ],
+   "sun": null
+  },
   "photos": []
  },
  {
@@ -7063,7 +9939,45 @@
   "price": "free entry; bargain shopping",
   "commute": "Metro ~15 min (Line 4 to Hoehyeon, Exit 5); taxi ~10 min ~₩6,000.",
   "notes": "4yo: toy/accessory lanes, kids' clothing and lots of street snacks. 12yo: hunting for cheap accessories, stationery and souvenirs while sampling the food alleys.",
-  "hours": "Daytime retail ~08:30-18:00 (many stalls closed Sun); food alleys overnight",
+  "hours": {
+   "mon": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "08:30",
+     "18:00"
+    ]
+   ],
+   "sun": null
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/1959%EB%85%84_%ED%98%84_%EC%84%9C%EC%9A%B8_%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C_%EC%9E%90%EC%9C%A0%EC%83%81%EA%B0%80_%EC%95%9E.jpg/960px-1959%EB%85%84_%ED%98%84_%EC%84%9C%EC%9A%B8_%EB%82%A8%EB%8C%80%EB%AC%B8%EB%A1%9C_%EC%9E%90%EC%9C%A0%EC%83%81%EA%B0%80_%EC%95%9E.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1977%EB%85%84_9%EC%9B%94_14%EC%9D%BC_%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A5_%ED%99%94%EC%9E%AC1.jpg/960px-1977%EB%85%84_9%EC%9B%94_14%EC%9D%BC_%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A5_%ED%99%94%EC%9E%AC1.jpg",
@@ -7082,7 +9996,50 @@
   "price": "free entry to plaza & malls; some exhibitions ticketed",
   "commute": "Metro ~10 min (Line 2 Euljiro 3-ga -> Dongdaemun History & Culture Park); taxi ~10 min ~₩6,000.",
   "notes": "4yo: open plaza to run, the LED rose garden and design playspaces. 12yo: trendy fashion floors, sneaker and accessory shopping and the striking architecture.",
-  "hours": "Plaza 24h; malls e.g. Hello apM ~10:30-05:00 (closed some Mon/Tue); shops vary",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://upload.wikimedia.org/wikipedia/en/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dongdaemun%2C_Seoul_%281%29.jpg/960px-Dongdaemun%2C_Seoul_%281%29.jpg",
@@ -7101,7 +10058,50 @@
   "price": "free entry; mid-range shopping",
   "commute": "Metro ~22 min (Line 2 Euljiro 3-ga -> Hongik Univ, direct); taxi ~25-30 min ~₩12,000-15,000.",
   "notes": "4yo: Kakao Friends flagship full of plush Ryan/Apeach characters plus street performers. 12yo: trendy fashion, K-pop and stationery shops, photo booths and the busking scene.",
-  "hours": "Shops ~11:00-22:00; busking & nightlife evenings",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7116,7 +10116,50 @@
   "price": "Drinks ₩6,000-8,000, desserts ₩9,000-15,000",
   "commute": "4-6 min walk (~400 m) from the hotel; a taxi would be ~₩4,800 for 2-3 min. No metro needed.",
   "notes": "4yo: stroller-tricky (steps, gravel) but very doable. 12yo: loves the photo spots and desserts. Calm seating, fine for kids.",
-  "hours": "Daily ~10:30-21:00 (last order 20:30)",
+  "hours": {
+   "mon": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "21:00"
+    ]
+   ]
+  },
   "photos": [
    "https://danielfooddiary.com/wp-content/uploads/2023/01/cheongsudang1.jpeg"
   ]
@@ -7133,7 +10176,50 @@
   "price": "Drinks ₩6,500-9,000",
   "commute": "5-7 min walk from the hotel through Ikseon-dong; nearest station Jongno 3-ga. No metro needed.",
   "notes": "4yo: flowers, umbrellas and bright colours delight. 12yo: fun photos. Watch little hands around the floral arrangements.",
-  "hours": "Daily ~08:00-24:00 (Fri-Sat to ~02:00)",
+  "hours": {
+   "mon": [
+    [
+     "08:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "08:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "08:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "08:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "08:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "08:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "08:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7148,7 +10234,50 @@
   "price": "Teas ₩8,000-10,000",
   "commute": "8-12 min walk (~700 m) from the hotel; ~5 min ₩4,800 by taxi if tired. No metro needed.",
   "notes": "4yo: the free rice cake and floor seating amuse them. 12yo: enjoys the tea ritual. Steep narrow stairs, hold the toddler's hand.",
-  "hours": "Daily ~10:30-22:30",
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7163,7 +10292,50 @@
   "price": "Coffee ₩5,000-7,000",
   "commute": "Metro: Jongno 3-ga -> Anguk (Line 3, 1 stop) + 12 min walk uphill, ~20-25 min. Taxi 8-12 min ~₩6,000-7,000.",
   "notes": "12yo: the rooftop view is a hit. 4yo: the climb up Bukchon hills plus narrow rooftop stairs mean holding them closely. Small space, busy weekends.",
-  "hours": "Mon-Fri 09:00-19:00, Sat-Sun 10:00-19:00",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "19:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "19:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "19:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "19:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "19:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ]
+  },
   "photos": [
    "https://danielfooddiary.com/wp-content/uploads/2024/10/greenmilecoffee1-scaled.jpg"
   ]
@@ -7180,7 +10352,50 @@
   "price": "₩6,000 entry incl. one drink",
   "commute": "Metro: Jongno 3-ga -> Anguk (Line 3) + ~15 min uphill walk, ~25-30 min. Taxi 10-14 min ~₩6,500-8,000.",
   "notes": "12yo: best Bukchon panorama plus artifacts. 4yo: the long uphill approach is tiring (stroller hard on the hill). Open rooftop, supervise the toddler.",
-  "hours": "10:00-18:00, closed Mondays (visit before 17:00, village closes to visitors)",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:30"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7195,7 +10410,45 @@
   "price": "Bingsu/teas ₩10,000-16,000",
   "commute": "Metro: Jongno 3-ga -> Hansung Univ (Line 4) + bus/10 min walk, ~30-35 min. Taxi 12-16 min ~₩9,000-11,000 (recommended).",
   "notes": "4yo + 12yo: a beautiful garden the kids can roam and shared bingsu both love; floor/garden seating and a relaxed pace suit families, though it is a refined spot so keep the 4yo settled.",
-  "hours": "~11:30-18:00 (Sat/Sun later, to ~20:00), closed Tuesdays",
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "18:00"
+    ]
+   ],
+   "tue": null,
+   "wed": [
+    [
+     "11:30",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "20:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7210,7 +10463,50 @@
   "price": "Day adults ₩12,000 / kids ₩6,000; night & weekends adults ₩14,000; under 24 months free",
   "commute": "Metro: Line 1 from Jongno 3-ga to Yongsan/Namyeong, ~25-30 min + 5 min walk. Taxi 18-24 min ~₩12,000-15,000.",
   "notes": "Very family/kids friendly: children admitted (half price), outdoor pool, kids' playroom; bring swimsuits. Both ages welcome. Baths are gender-separated and nude; the common jjimjilbang sauna floor is mixed and clothed.",
-  "hours": "Open 24 hours",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": [
    "https://d3faveac4f5evv.cloudfront.net/2205-852620507.jpg"
   ]
@@ -7227,7 +10523,50 @@
   "price": "Admission ~₩12,000-14,000; optional body scrub ₩25,000",
   "commute": "Metro: Jongno 3-ga -> Dongdaemun History & Culture Park (Line 5, 2 stops) + 3 min walk, ~12-15 min. Taxi 8-12 min ~₩5,500-7,000.",
   "notes": "Daytime is fine for the whole family (kids enter with parents); the clothed jjimjilbang floor suits both ages. Minors restricted at night (22:00-05:00) without a guardian, so go during the day.",
-  "hours": "Open 24 hours (bath cleaning windows overnight)",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
   "photos": []
  },
  {
@@ -7242,7 +10581,50 @@
   "price": "Foot/body massage from ~₩40,000-60,000; full ~2 hr package ~₩150,000",
   "commute": "~8-10 min walk from the hotel; ~5 min ₩4,800 by taxi. No metro needed.",
   "notes": "Aimed at adults, ideal while one parent takes the kids nearby. The 12yo could have a gentle foot massage, but it is not a kids' activity and not suited to a 4yo. Reserve adult treatments.",
-  "hours": "Daily ~10:00-22:00 (call/Naver to confirm and book)",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
   "photos": []
  }
 ]
