@@ -1,0 +1,392 @@
+[
+{
+"id": "sz-stay",
+"name": "Our stay · Coastal Rose Garden",
+"city": "SZ",
+"cat": "stay"
+},
+{
+"id": "sz-gba",
+"name": "Eyes of the GBA (Bay Area Book City)",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-k33",
+"name": "K33 Discovery Farm",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "hk-uniqlo-utme",
+"name": "UNIQLO Lee Theatre — UTme! custom tee",
+"city": "HK",
+"cat": "shopping"
+},
+{
+"id": "se-stay",
+"name": "Our stay · Amare Hotel Jongno",
+"city": "SEOUL",
+"cat": "stay"
+},
+{
+"id": "sz-jiaochangwei",
+"name": "Jiaochangwei Beach (较场尾)",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "sz-xili-fruit-farm",
+"name": "Xili Fruit Farm — Litchi World (西丽果场)",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "sz-miniso-cocopark",
+"name": "MINISO (COCO Park flagship)",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-lego-cocopark",
+"name": "LEGO Store (COCO Park)",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-nantou-1820",
+"name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+"city": "SZ",
+"cat": "museum"
+},
+{
+"id": "sz-haidilao-1",
+"name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-haidilao-2",
+"name": "Haidilao 海底捞 (Hanjing Center)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-michelin-hunan",
+"name": "Nong Geng Ji 农耕记 (Sea World, Michelin)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-gg-creative",
+"name": "G&G Creative Community 创意社区",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-nanhai-yiku",
+"name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-chiikawa",
+"name": "Chiikawa 吉伊卡哇 pop-up (Qianhai Yifang City)",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-shiopon",
+"name": "Shiopon (salt-bread bakery)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-ah-ma-handmade",
+"name": "Ah Ma Handmade 阿嬷手作",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-spring-patio",
+"name": "Spring Patio 春台餐酒馆",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-baoan-hunan-noodle",
+"name": "Sheng Xiang Ting 盛香亭 (Happy Harbour)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-shieyuan",
+"name": "Shiheyuan 柿合缘 新京菜",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-art-museum-new",
+"name": "Shenzhen Art Museum (New)",
+"city": "SZ",
+"cat": "museum"
+},
+{
+"id": "sz-he-xiangning",
+"name": "He Xiangning Art Museum",
+"city": "SZ",
+"cat": "museum"
+},
+{
+"id": "sz-guan-shanyue",
+"name": "Guan Shanyue Art Museum 关山月美术馆",
+"city": "SZ",
+"cat": "museum"
+},
+{
+"id": "sz-maya-beach",
+"name": "Maya Beach Water Park 玛雅海滩水公园",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-dameisha",
+"name": "Dameisha Seaside Park 大梅沙海滨公园",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "sz-guanlan-shanshui",
+"name": "Guanlan Shanshui Eco Water Park 观澜山水田园",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-xinggaodu",
+"name": "Xinggaodu Dream Water World 星高度梦想水世界",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-haibei-bay",
+"name": "Haibei Bay 海贝湾 (Shenzhen's Santorini)",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "gm-changhwadang",
+"name": "Changhwadang 창화당 (Hannam)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-isaac-toast",
+"name": "Isaac Toast (Myeongdong Cathedral)",
+"city": "SEOUL",
+"cat": "cafe"
+},
+{
+"id": "gm-bukchangdong-soondubu",
+"name": "BukChangDong Soondubu (Myeongdong)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-eunjujeong",
+"name": "Eunjujeong",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-hanilgwan",
+"name": "Hanilgwan Gwanghwamun",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-namsandong-gotgan",
+"name": "Namsandong Gotgan 남산동곳간",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-golden-farm",
+"name": "Golden Farm",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-hanndul-chicken",
+"name": "Hanndul Chicken",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-dailybeer",
+"name": "Dailybeer 생활맥주 (Myeongdong)",
+"city": "SEOUL",
+"cat": "nightlife"
+},
+{
+"id": "gm-bbq-star",
+"name": "BBQ Chicken Myeongdong Star",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-kyochon-ddm",
+"name": "Kyochon Chicken (Dongdaemun)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-pig-company",
+"name": "AYCE Pig Company (Myeongdong BBQ)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-mongvely",
+"name": "Myeongdong Mongvely",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-ziu-bbq",
+"name": "ZIU BBQ",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-bogwangjung",
+"name": "Bogwangjung",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-shuiwan1979",
+"name": "Shuiwan 1979 Plaza 水湾1979",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "gm-cafe-de-coral",
+"name": "Café de Coral (Admiralty)",
+"city": "HK",
+"cat": "food"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-pick-17bread",
+"name": "1-7 Bread 壹柒面包 (Sea World)",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-pick-mekong",
+"name": "Mekong River Sports Town 湄南河体育小镇",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-pick-longbar",
+"name": "Long Bar (Raffles, One Shenzhen Bay)",
+"city": "SZ",
+"cat": "nightlife"
+},
+{
+"id": "sz-pick-24qi",
+"name": "24気 Art & Life Space 24气艺文生活空间",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-pick-pengxiaoguan",
+"name": "Peng Xiao Guan 鹏小馆 (OCT)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-batiaoyou-1",
+"name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-batiaoyou-2",
+"name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-hk-innate",
+"name": "Innate Ayurveda Spa 印度阿育吠陀",
+"city": "SZ",
+"cat": "services"
+},
+{
+"id": "sz-hk-houhaihui",
+"name": "Houhaihui 后海汇",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-hk-bollywood",
+"name": "Bollywood Cafe 宝莱坞印度餐厅",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-hk-xiesanbao",
+"name": "Xie San Bao 蟹三宝",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-hk-yewai",
+"name": "Yewai Urban Tea Room 叶外·Urban茶室",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-teamlab",
+"name": "teamLab: Learn & Play! Future Park 共创！未来园",
+"city": "SZ",
+"cat": "kids"
+}
+]
