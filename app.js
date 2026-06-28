@@ -97,7 +97,7 @@
       <div class="meta">${esc(cat.label||'')} · ${statusHtml(loc)} ${priceHtml(loc)}</div>
       <div class="acts">
         <button class="popfav${favs.has(loc.id)?' on':''}" data-fav="${loc.id}">${favs.has(loc.id)?'♥ Saved':'♡ Save'}</button>
-        ${loc.maplink ? `<a href="${esc(loc.maplink)}" target="_blank" rel="noopener">🗺️ Map ↗</a>` : ''}
+        ${loc.maplink ? `<a href="${esc(loc.maplink)}" target="_blank" rel="noopener">🗺️ Amap ↗</a>` : ''}
         ${contactBtns(loc)}
       </div></div>`;
   }
@@ -166,7 +166,7 @@
     return h;
   }
   function contactHtml(loc) {
-    const map = loc.maplink ? `<a class="contact" href="${esc(loc.maplink)}" target="_blank" rel="noopener">🗺️ Map</a>` : '';
+    const map = loc.maplink ? `<a class="contact" href="${esc(loc.maplink)}" target="_blank" rel="noopener">🗺️ Amap</a>` : '';
     const vid = loc.video ? `<a class="contact" href="${esc(loc.video)}" target="_blank" rel="noopener">▶ Video</a>` : '';
     const b = map + vid + contactBtns(loc);
     return b ? `<div class="contacts">${b}</div>` : '';

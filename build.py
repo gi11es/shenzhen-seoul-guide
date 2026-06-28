@@ -54,9 +54,9 @@ for p in places:
 events = readj('events.json', [])           # optional: list of dated events
 
 places, events = clean(places), clean(events)
-for p in places:                                 # Apple Maps link, GCJ-02 for mainland pins
+for p in places:                                 # Amap (高德) link; GCJ-02 coords for mainland pins
     glat, glng = (wgs2gcj(p['lat'], p['lng']) if p['city'] == 'SZ' else (p['lat'], p['lng']))
-    p['maplink'] = f"https://maps.apple.com/?ll={glat:.6f},{glng:.6f}&q={quote(p['name'])}"
+    p['maplink'] = f"https://uri.amap.com/marker?position={glng:.6f},{glat:.6f}&name={quote(p['name'])}&coordinate=gaode&callnative=1"
 data_extra = ('const LOCATIONS = ' + json.dumps(places, ensure_ascii=False) + ';\n'
               'const EVENTS = '    + json.dumps(events, ensure_ascii=False) + ';')
 
