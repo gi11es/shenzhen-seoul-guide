@@ -1116,7 +1116,7 @@
   "lat": 22.5476,
   "lng": 113.878837,
   "address": "Jia'an Rd, Bao'an Central, Xin'an",
-  "desc": "Waterfront leisure district around the 128m Bay Glory Ferris wheel, with a daily music-fountain and light show on the central plaza. The harbour is free to enter.",
+  "desc": "Waterfront leisure district around the 128m Bay Glory Ferris wheel, with a daily music-fountain and light show on the central plaza. The harbour is free to enter. It also has a free outdoor children's playground (童乐园) with big tube slides, climbing nets and a sand/beach zone, plus an Olympic-standard seaside skate park.",
   "price": "free",
   "hours": null,
   "photos": [
@@ -6090,5 +6090,229 @@
   "phone": "15989472735",
   "commute": "~1 metro hop: Line 2 from Sea World to 后海 + ~10 min walk (~3.3 km). DiDi ~15 min, ¥25.",
   "notes": "Rating couldn't be machine-verified (Dianping blocks bots); realistically ~4.3-4.4, not confirmed above Lao Wan Hui's 4.5. Strongest longer-walk Shaanxi option."
+ },
+ {
+  "id": "sz-pg-sihai",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Sihai Park 蛇口四海公园",
+  "lat": 22.49907,
+  "lng": 113.92237,
+  "address": "82 Industrial 7th Rd, Shekou, Nanshan",
+  "desc": "A free, gate-less neighbourhood park with two children's play zones (east and west) of sand pits, climbing frames, slides, swings and a rope bridge. The closest real playground to Coastal Rose Garden and a popular all-day spot for Shekou families.",
+  "price": "free",
+  "commute": "Walking distance from Coastal Rose Garden: ~1 km, 12-15 min on foot, or a 5 min DiDi (~¥10-13). No metro needed.",
+  "notes": "4yo: excellent, low slides, sand and toddler-sized swings. 12yo: small and quickly outgrown, fine for a short stop but not a destination for that age.",
+  "hours": "Open 24 hours",
+  "photos": []
+ },
+ {
+  "id": "sz-pg-zhongshan",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Zhongshan Park (Nanshan) 中山公园",
+  "lat": 22.55115,
+  "lng": 113.91383,
+  "address": "3109 Nanshan Ave, Nantou, Nanshan",
+  "desc": "Shenzhen's oldest park (1925), free to enter, with large lawns plus a famous fenced amusement section (Shark Island, carousel, mini train, ~30 rides). The grounds also have free climbing/slide play structures and shaded lychee groves for picnics and kite-flying.",
+  "price": "Free entry; amusement rides charged per ride",
+  "commute": "DiDi ~20-25 min (~¥30-40). Metro: Line 12 to Zhongshan Park Sta or Line 1 to Taoyuan, ~35-40 min door-to-door.",
+  "notes": "4yo: great, unpowered play plus gentle paid kiddie rides. 12yo: strong too, the amusement section has bigger rides (coaster, drop/swing) that hold older-kid interest, though those cost extra on top of free entry.",
+  "hours": "Park 7:00-21:30; ride section ~9:30-21:00",
+  "photos": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/ZHONGSHAN%20PARK%20(SHENZHEN)%20(62).jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/ZHONGSHAN%20PARK%20(SHENZHEN)%20(40).jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/ZHONGSHAN%20PARK%20(SHENZHEN)%20(55).jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-lixiang",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Lixiang Park 荔香公园",
+  "lat": 22.53951,
+  "lng": 113.92465,
+  "address": "Nanguang Rd x Nantou St, by Nantou Ancient City, Nanshan",
+  "desc": "Free park among 1,000+ ancient lychee trees, with an unpowered children's area by the 'Nanshan Pearl' sculpture: climbing nets, slides, a sand pit, spinning bowls and a shaded rainbow corridor. Large lawns and a reading room round out an easy half-day with kids.",
+  "price": "free",
+  "commute": "DiDi ~18-22 min (~¥28-35). Metro: Line 1 to Taoyuan (Exit A, ~10 min walk) or Line 12 to Nantou Ancient City, ~35 min total.",
+  "notes": "4yo: ideal (slides, sand, spinners for ages 3-10). 12yo: play structures likely too young, but the open lawns suit ball games/scooters, pair it with another stop.",
+  "hours": "6:00-22:30",
+  "photos": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Lixiang%20Park.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-shenzhenbay",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Shenzhen Bay Park 深圳湾公园",
+  "lat": 22.52451,
+  "lng": 113.98799,
+  "address": "Binhai Ave coastal strip, Nanshan/Futian",
+  "desc": "Long free coastal park; the dedicated free kids area sits by the Coastal Ecological Park 'east-corner' rest station, a large lawn with a natural sand pit holding a cabin-slide, balance beams, climbing net and swings under coconut palms. Great mangrove sea views and wide bike/scooter paths.",
+  "price": "free",
+  "commute": "DiDi to the sand-play area ~25-35 min (~¥40-55, toward the Futian end). Metro: Line 9 to Shenzhen Bay Park Sta, ~40 min then a coastal walk.",
+  "notes": "4yo: very good (big sand pit, gentle slide, swings). 12yo: gets more out of the cycling/scooter paths and sea-view promenade than the toddler gear, bring or rent bikes.",
+  "hours": "Open 24 hours",
+  "photos": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Shenzhen%20Bay%20Park%20-%202019-12-09%20-%201.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Shenzhen%20Bay%20Park%20Sunrise%20Theatre%2020210904.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-dasha",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Dasha River Eco Corridor 大沙河生态长廊",
+  "lat": 22.56003,
+  "lng": 113.95621,
+  "address": "Riverside greenway, Nanshan (Dachong Park section)",
+  "desc": "A 13.7 km greenway with three free, age-graded children's play zones (opened 2019, ages 3-12). Highlights: a 3 m climbing wall with three slides, sand pools with embedded lights, game hills, caves, listening tubes and a spiralling elevated boardwalk.",
+  "price": "free",
+  "commute": "DiDi to Dachong Park play area ~20-28 min (~¥30-45). Metro: Line 9/11 toward Dachong or Hongshuwan, ~35-45 min plus a riverside walk.",
+  "notes": "4yo: sand pits and shorter slides suit them. 12yo: the 3 m climbing wall, longer slides, rope/boardwalk routes and long cycling greenway give real challenge, one of the better mixed-age picks here.",
+  "hours": "Open 24 hours (greenway); play zones best in daylight",
+  "photos": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Shahe%20in%20Nanshan%20Shenzhen2020.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/SZ%20%E6%B7%B1%E5%9C%B3%20Shenzhen%20%E5%8D%97%E5%B1%B1%E5%8D%80%20Nanshan%20%E5%A4%A7%E6%B2%99%E6%B2%B3%E6%A9%8B%20DaSha%20River%20Bridge%20One%20April%202025%20R12S%2006.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-qianhai",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Qianhai Stone Park 前海石公园",
+  "lat": 22.52914,
+  "lng": 113.88476,
+  "address": "Qianhai Cooperation Zone waterfront, Nanshan",
+  "desc": "An 8.46-hectare free waterfront park around the landmark 'Qianhai Stone', with a big coconut-palm lawn for kite-flying, scooters and ball games, plus sea-breeze promenades along Qianhai Bay. Emphasis is open lawn and waterfront rather than fixed structures, so bring ride-on toys.",
+  "price": "free",
+  "commute": "DiDi ~18-22 min (~¥28-35). Metro: Line 5/1 to Qianwan or Line 11 to Qianhaiwan, ~35-40 min then a walk.",
+  "notes": "4yo: good to run, scoot and fly kites on the flat lawn, few dedicated toddler structures. 12yo: can cycle/scoot the promenades and enjoy views, but may get bored without bikes or a ball.",
+  "hours": "Open 24 hours",
+  "photos": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/SZ%20%E6%B7%B1%E5%9C%B3%20Shenzhen%20%E5%8D%97%E5%B1%B1%E5%8D%80%20Nanshan%20%E5%89%8D%E6%B5%B7%E5%85%AC%E5%9C%92%20Qianhai%20Park%20%E8%8D%B7%E8%98%AD%E8%8A%B1%E5%8D%89%E5%B0%8F%E9%8E%AE%20Netherlands%20Flower%20Town%20November%202025%20N13P%2001.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-xiangmi",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Xiangmi Park 香蜜公园",
+  "lat": 22.54985,
+  "lng": 114.01662,
+  "address": "30 Qiaoxiang Rd, Xiangmihu, Futian",
+  "desc": "A large modern Futian park with a dedicated free no-power (无动力) children's zone of climbing frames, rope bridges, swings, slides and elevated boardwalks among lawns and a butterfly garden. Wide bike/skate paths and a long elevated canopy walkway suit older kids and adults.",
+  "price": "free",
+  "commute": "DiDi ~30-40 min, ¥45-55. Metro ~55-65 min (Line 2 from Sea World, transfer toward Qiaoxiang on Line 7) + short walk.",
+  "notes": "4yo: excellent, rope/climb/swing structures are age-perfect. 12yo: enough for a relaxed visit (taller nets, long skywalk, bike paths) but the play gear may feel a touch young.",
+  "hours": "Daily ~06:00-23:00",
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%E9%A6%99%E8%9C%9C%E5%85%AC%E5%9B%AD_2.jpg/250px-%E9%A6%99%E8%9C%9C%E5%85%AC%E5%9B%AD_2.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%E9%A6%99%E8%9C%9C%E5%85%AC%E5%9B%AD_1.jpg/250px-%E9%A6%99%E8%9C%9C%E5%85%AC%E5%9B%AD_1.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-lianhuashan",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Lianhuashan Park 莲花山公园",
+  "lat": 22.55663,
+  "lng": 114.05324,
+  "address": "6030 Hongli Rd, Lianhua, Futian",
+  "desc": "A 150-hectare hill park whose family draw is the huge 20,000 sqm Kite Square lawns for running and kite-flying, plus open meadows and shaded trails. More about open-space free play and a gentle 20-min walk to the summit lookout than fixed play structures.",
+  "price": "free",
+  "commute": "DiDi ~35-45 min, ¥55-65. Metro ~55 min (Line 2 to Civic Center or Line 3 to Lianhuacun) + 10-15 min walk uphill.",
+  "notes": "4yo: good for kite-flying and lawns, but few toddler play structures. 12yo: better suited, can hike to the Deng Xiaoping statue summit for skyline views, plenty to do.",
+  "hours": "Daily 06:00-23:00 (entry closes 22:30)",
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/4/40/Family_in_Lianhua_Mountain_Park_%28%E8%8E%B2%E8%8A%B1%E5%B1%B1%E5%85%AC%E5%9B%AD%29_%28345985974%29.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-central",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Central Park 深圳中心公园",
+  "lat": 22.54819,
+  "lng": 114.07061,
+  "address": "Zhenhua West Rd, Futian (near Huaqiang Rd)",
+  "desc": "A long greenbelt park whose centre holds a newly built free no-power playground with a sand pit, trampolines, two S-shaped slides, a tunnel, spinning discs, a climbing hill and a ball-shaped climbing frame. Stream-side paths and lawns surround the play core.",
+  "price": "free",
+  "commute": "DiDi ~35-45 min, ¥50-60. Metro ~50 min (Line 1 to Huaqiang Rd + ~600 m walk, or Line 11 to Fuxing).",
+  "notes": "4yo: ideal, sandpit, trampolines, tunnels and gentle slides are perfectly pitched. 12yo: the bigger slides and climbing frames are fun for a short stop but the zone skews younger.",
+  "hours": "Open 24 hours (playground best mornings before 10:00 / after 16:00 to avoid sun)",
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SHENZHEN_CENTRAL_PARK_%2866%29.jpg/500px-SHENZHEN_CENTRAL_PARK_%2866%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SHENZHEN_CENTRAL_PARK_%2862%29.jpg/500px-SHENZHEN_CENTRAL_PARK_%2862%29.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-gardenexpo",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Garden Expo Park 园博园",
+  "lat": 22.54032,
+  "lng": 113.99857,
+  "address": "Zhuzilin, Qiaoxiang Rd, Futian",
+  "desc": "A large free landscape park of themed gardens, lakes, pagodas and broad lawns, great for open-ended outdoor roaming, kite flying and picnics. Dedicated play structures are limited, so the appeal is space, scenery and gentle exploration.",
+  "price": "free",
+  "commute": "DiDi ~20-30 min, ¥35-45. Metro ~40-50 min (Line 1 to Zhuzilin or Qiaocheng East) + short walk.",
+  "notes": "4yo: pleasant for lawns and pond-spotting, but fewer fixed structures than Xiangmi or Central Park. 12yo: lots of ground to explore (pagodas, themed gardens, lake bridges), good for a calm outing.",
+  "hours": "Daily ~07:00-22:30",
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Huicui_Lake_of_Shenzhen_International_Garden_and_Flower_Expo_Park2.jpg/330px-Huicui_Lake_of_Shenzhen_International_Garden_and_Flower_Expo_Park2.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Blessing_Pagoda_of_Shenzhen_International_Garden_and_Flower_Expo_Park3.jpg/330px-Blessing_Pagoda_of_Shenzhen_International_Garden_and_Flower_Expo_Park3.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/French_Garden_of_Shenzhen_International_Garden_and_Flower_Expo_Park1.jpg/330px-French_Garden_of_Shenzhen_International_Garden_and_Flower_Expo_Park1.jpg"
+  ]
+ },
+ {
+  "id": "sz-pg-guangmingfarm",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Guangming Farm Grand View Garden 光明农场大观园",
+  "lat": 22.76337,
+  "lng": 113.95631,
+  "address": "Guangming St, Guangming District",
+  "desc": "A large ticketed outdoor dairy-farm park with a free-to-play 无动力乐园 (rainbow trampoline-cloud, rope nets, jungle zipline, no-power roller coaster, multi-person swings) plus grass-sledding, go-karts, bumper cars, archery, cow-milking shows and horse riding. Lots of open green space and seasonal flower festivals, so it works as a half- to full-day outdoor outing.",
+  "price": "¥39.9-80 entry (无动力乐园 incl.); karts/grass-sledding/archery extra ~¥30-50 each; under 1.2 m free",
+  "commute": "~31 km N of Shekou. DiDi ~45-55 min, ¥90-120. Metro slow (~1 h 20 m: Line 12/2 -> Line 6 to 光明大街 + bus/DiDi). DiDi strongly recommended.",
+  "notes": "4yo: excellent, toddler zones in the 无动力乐园, animal feeding and milking. 12yo: enough to do, grass-sledding, go-karts (~8yo/130cm), archery and the jungle zipline; not a thrill park but not too young.",
+  "hours": "09:00-17:30 daily (last entry 17:00)",
+  "photos": [
+   "https://imgbdb4.bendibao.com/whbdb/20246/26/2024626170612_63308.png",
+   "https://imgbdb4.bendibao.com/whbdb/20246/27/2024627085804_51538.png"
+  ]
+ },
+ {
+  "id": "sz-pg-haishang",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Haishang Tianyuan Eco Park 海上田园",
+  "lat": 22.72801,
+  "lng": 113.76705,
+  "address": "Minzhu Ave, Shajing, Bao'an",
+  "desc": "A ticketed outdoor wetland/eco-farm resort by Lingdingyang Bay with a children's zone (亲子乐园), an outdoor rides area, mangrove boardwalks, sand-play and boat activities across a large riverside site. More nature-and-farm flavour than adrenaline, good for unstructured outdoor roaming.",
+  "price": "Adult ¥60, child/senior ¥30 (some rides extra)",
+  "commute": "~33 km NW of Shekou. DiDi ~40-50 min, ¥80-110. Metro: Line 11 to Shajing + DiDi ~15 min (~1 h 10 m). DiDi recommended.",
+  "notes": "4yo: great, gentle rides, sand, animals, boats. 12yo: somewhat tame, mostly eco/nature and kiddie rides, an older child may find it less exciting unless they like nature/photography.",
+  "hours": "~10:00-18:00 daily (last entry 17:00; seasonal)",
+  "photos": []
+ },
+ {
+  "id": "sz-pg-apolo",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Apolo Pig Farm 阿菠萝小猪农场",
+  "lat": 22.695,
+  "lng": 113.93,
+  "address": "Liaokeng, Shiyan, Bao'an (inside 田田农园; approx.)",
+  "desc": "A ~200-mu ticketed outdoor education farm with dry-slope skiing, a 'pig olympics', water-gun battles, rice-paddy rafting, duck-herding games, a hot-air-balloon photo prop, bubble pool and inflatable castles on open grassland. Strong hands-on farm/research-trip vibe rather than mechanical rides.",
+  "price": "~¥99-143/person (most activities included; promo ~¥99)",
+  "commute": "~24 km N of Shekou (Shiyan). DiDi ~35-45 min, ¥70-95. No convenient metro, DiDi/car is the practical option.",
+  "notes": "4yo: excellent, bubbles, inflatables, animals, gentle farm games. 12yo: moderate, dry-skiing and water-gun battles are fun but much skews young/educational; a few hours rather than a full day. No height-thrill limits.",
+  "hours": "~09:00-18:00 (some sources 09:00-21:00 incl. camping)",
+  "photos": []
  }
 ]
