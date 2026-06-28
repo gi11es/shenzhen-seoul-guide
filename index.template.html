@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#14161a">
+<title>Shenzhen · Seoul guide</title>
+<style>
+/*__LEAFLET_CSS__*/
+/*__APP_CSS__*/
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="toprow">
+      <div class="cityseg" id="cityseg"></div>
+      <button class="gear evbtn" id="evbtn" aria-label="Events">📅<span class="evbadge" id="evbadge"></span></button>
+      <button class="gear" id="gear" aria-label="Settings">⚙</button>
+    </div>
+    <div class="searchwrap" id="searchwrap">
+      <span class="ic">⌕</span>
+      <input id="search" type="search" placeholder="Search places…" autocomplete="off" autocorrect="off">
+      <button class="clr" id="clr" aria-label="Clear">×</button>
+    </div>
+  </header>
+
+  <div class="mapwrap">
+    <div id="map"></div>
+    <button class="maptoggle" id="maptoggle" aria-label="Resize map">⤢</button>
+  </div>
+
+  <div class="filters">
+    <div class="chiprow catchips" id="catchips"></div>
+    <div class="chiprow">
+      <button class="chip toggle" data-toggle="open">● Open now</button>
+      <button class="chip fav" data-toggle="fav">♥ Favorites</button>
+    </div>
+    <div class="daystrip" id="daystrip"></div>
+  </div>
+
+  <div class="list">
+    <div class="count" id="count"></div>
+    <div class="list-items" id="listItems"></div>
+  </div>
+</div>
+
+<div class="ev-overlay" id="evOverlay">
+  <div class="ev-head">
+    <button class="ev-close" id="evClose">‹ Map</button>
+    <h2>Events</h2>
+    <span class="ev-sub" id="evSub"></span>
+  </div>
+  <div class="ev-dates" id="evDates"></div>
+  <div class="ev-list" id="evList"></div>
+</div>
+
+<div class="sheet-backdrop" id="backdrop"></div>
+<div class="sheet" id="sheet">
+  <div class="grab"></div>
+  <h2>Exchange rates</h2>
+  <div class="raterow"><div><label>1 CNY (¥)</label><div class="sub">Chinese yuan → euro</div></div><input id="rate-CNY" type="number" step="0.001" inputmode="decimal"></div>
+  <div class="raterow"><div><label>1 HKD (HK$)</label><div class="sub">Hong Kong dollar → euro</div></div><input id="rate-HKD" type="number" step="0.001" inputmode="decimal"></div>
+  <div class="raterow"><div><label>1 KRW (₩)</label><div class="sub">Korean won → euro</div></div><input id="rate-KRW" type="number" step="0.00001" inputmode="decimal"></div>
+  <p class="note">Prices show local currency with a € estimate. Update rates before your trip for accuracy. Saved on this device.</p>
+  <button class="done" id="sheet-done">Done</button>
+</div>
+
+<script>
+/*__LEAFLET_JS__*/
+</script>
+<script>
+/*__DATA_JS__*/
+</script>
+<script>
+/*__APP_JS__*/
+</script>
+</body>
+</html>

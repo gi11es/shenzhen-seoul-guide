@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+# one-off data-merge scratch (their output is already baked into the JSON data files)
+yt_*.json
+audit_*.json
+gmerge.py
+add_*.py
+merge*.py
+set_ferry.py

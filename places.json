@@ -1,0 +1,4160 @@
+[
+ {
+  "id": "sz-stay",
+  "city": "SZ",
+  "category": "stay",
+  "name": "Our stay · Coastal Rose Garden",
+  "lat": 22.4856,
+  "lng": 113.9165,
+  "address": "Bldg 2A, Coastal Rose Garden, 3 Jinshiji Rd, Shekou, Nanshan",
+  "desc": "Home base in Shekou. Pin is approximate within the complex; nudge me to set it exact.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-gba",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Eyes of the GBA (Bay Area Book City)",
+  "lat": 22.5505,
+  "lng": 113.879,
+  "address": "No. 1 Baohua Rd, Bao'an",
+  "desc": "World's largest bookstore: 300,000 books, art gardens, themed halls and AI guides. By Baohua metro (Line 5).",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "OSM pin vs. the Baohua-station address differ slightly; verify on arrival."
+ },
+ {
+  "id": "sz-scitech",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Shenzhen Science & Technology Museum",
+  "lat": 22.7751,
+  "lng": 113.9386,
+  "address": "No. 8 Guanghui Ave, Guangming",
+  "desc": "New Zaha Hadid-designed science museum (opened 2025). Metro Line 6 to Guangming.",
+  "price": {
+   "amount": 50,
+   "cur": "CNY"
+  },
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "17:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "17:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "17:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "17:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Reserve tickets ~8pm Beijing time the night before."
+ },
+ {
+  "id": "sz-nathist",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Shenzhen Natural History Museum",
+  "lat": 22.6954,
+  "lng": 114.3588,
+  "address": "Pingshan District",
+  "desc": "Brand-new natural history museum in Pingshan, opening on a trial basis around now (late June 2026).",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "Trial opening; confirm hours and reservation before going."
+ },
+ {
+  "id": "sz-seg",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "SEG Electronics Market (Huaqiangbei)",
+  "lat": 22.544,
+  "lng": 114.0822,
+  "address": "1002 Huaqiangbei Rd, Futian",
+  "desc": "The legendary Huaqiangbei electronics megamarket: components, gadgets, repairs, prototyping heaven.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ]
+  },
+  "photos": []
+ },
+ {
+  "id": "sz-k33",
+  "city": "SZ",
+  "category": "kids",
+  "name": "K33 Discovery Farm",
+  "lat": 22.7911,
+  "lng": 113.9555,
+  "address": "Guangming Happy Garden, Zhenyuan Rd, Guangming",
+  "desc": "Outdoor family farm: dinosaur zone, petting zoo, deer, flower fields and many free rides for kids.",
+  "price": {
+   "amount": 0,
+   "cur": "CNY",
+   "note": "mostly free; boating ~¥30"
+  },
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Base entry effectively free; some rides paid. Confirm hours on Trip.com."
+ },
+ {
+  "id": "sz-nick",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Nickelodeon Playtime (OCT Harbour)",
+  "lat": 22.526,
+  "lng": 113.983,
+  "address": "Bldg 2-2B, Qushui Bay, OCT Harbour, 2008 Binhai Ave, Nanshan",
+  "desc": "1,500m² indoor playground over 2.5 floors: PAW Patrol, SpongeBob, TMNT and Dora zones, ball pit, meet-and-greets.",
+  "price": {
+   "amount": 300,
+   "cur": "CNY",
+   "note": "approx"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": []
+ },
+ {
+  "id": "hk-uniqlo-utme",
+  "city": "HK",
+  "category": "shopping",
+  "name": "UNIQLO Lee Theatre — UTme! custom tee",
+  "lat": 22.2783,
+  "lng": 114.1831,
+  "address": "G/F, B1 & B2, Lee Theatre, 99 Percival St, Causeway Bay",
+  "desc": "UTme! is not offered in-store in Shenzhen, so this is the HK flagship: design and print a custom T-shirt or tote in ~15 min.",
+  "price": {
+   "amount": 120,
+   "cur": "HKD",
+   "note": "approx"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "23:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": []
+ },
+ {
+  "id": "se-stay",
+  "city": "SEOUL",
+  "category": "stay",
+  "name": "Our stay · Amare Hotel Jongno",
+  "lat": 37.5715,
+  "lng": 126.9897,
+  "address": "7 Supyo-ro 22-gil, Jongno-gu",
+  "desc": "Home base in Jongno, steps from Jongno 3-ga station; Insadong and Gyeongbokgung nearby.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "se-dalmaji",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Dalmaji Plaza BBQ (달맞이광장)",
+  "lat": 37.5662,
+  "lng": 126.9912,
+  "address": "Euljiro 3-ga, Jung-gu (~10 min walk from Myeongdong)",
+  "desc": "Viral Hipjiro outdoor yajang BBQ: bamboo-firewood salt chicken, lively alley atmosphere.",
+  "price": {
+   "amount": 0,
+   "cur": "KRW",
+   "note": "à la carte"
+  },
+  "hours": {
+   "mon": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "tue": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "wed": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "thu": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ],
+   "fri": [
+    [
+     "15:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "15:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "16:00",
+     "25:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Pin approximate; use Catchtable app for remote waiting. Closing after midnight shown as 25:00/26:00."
+ },
+ {
+  "id": "sz-jiaochangwei",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Jiaochangwei Beach (较场尾)",
+  "lat": 22.5922831,
+  "lng": 114.5061164,
+  "address": "Jiaochangwei, Dapeng, Longgang",
+  "desc": "The Dapeng Peninsula's only beach village: a long sandy strand backed by 300+ stylish seaside B&Bs. Beach volleyball, kayaking, cycling, sunsets.",
+  "price": "free",
+  "hours": null,
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/5/5b/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%8F%B3%E5%89%8D%E4%BE%A7.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%90%8E%E4%BE%A7.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/e/ec/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E8%BE%83%E5%9C%BA%E5%B0%BE%E6%AC%A2%E4%B9%90%E6%B5%B7%E6%B9%BENC9637%E5%B7%A6%E4%BE%A7%E5%B0%BE%E7%BF%BC.jpg"
+  ],
+  "notes": "Beach is free; village is a paid-stay hub. Swim only in designated zones."
+ },
+ {
+  "id": "sz-dapeng-fortress",
+  "city": "SZ",
+  "category": "sights",
+  "name": "Dapeng Fortress / Ancient City (大鹏所城)",
+  "lat": 22.5978742,
+  "lng": 114.507692,
+  "address": "Nanmen West Rd, Pengcheng, Dapeng, Longgang",
+  "desc": "A Ming-dynasty garrison fortress founded in 1394, now a well-preserved walled town with stone lanes, generals' mansions and temples. Namesake of Shenzhen's nickname Peng City.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "tue": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "wed": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "thu": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "fri": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sat": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sun": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/33/Dapeng_Fortress%2C_Shenzhen.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/0/08/Dapeng_Fortress%2C_Shenzhen_%2841%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/9/93/Dapeng_Fortress%2C_Shenzhen_%2843%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dapeng_Fortress%2C_Shenzhen_%2872%29.jpg"
+  ],
+  "notes": "Walled town and streets are free; some historic mansions inside may charge or need a timed reservation."
+ },
+ {
+  "id": "sz-xichong",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Xichong Beach (西涌)",
+  "lat": 22.4763723,
+  "lng": 114.5309843,
+  "address": "Xichong, Nan'ao, Dapeng, Longgang",
+  "desc": "Shenzhen's longest beach, a roughly 5 km arc of soft sand on the southern tip of Dapeng, with clear water, a lighthouse hike and a certified dark-sky stargazing park.",
+  "price": null,
+  "hours": null,
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/6/69/Sunset_on_Xichong.JPG",
+   "https://upload.wikimedia.org/wikipedia/commons/2/25/Xichong.jpg"
+  ],
+  "notes": "Xichong now uses a managed-reservation system (advance online booking often required, with visitor quotas). Resorts/camps may charge separately."
+ },
+ {
+  "id": "sz-xili-fruit-farm",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Xili Fruit Farm — Litchi World (西丽果场)",
+  "lat": 22.6108357,
+  "lng": 113.9334942,
+  "address": "Litchi World, Shahe West Rd (north), Xili, Nanshan",
+  "desc": "Nanshan's largest pick-your-own lychee orchard (est. 1989) by Xili Reservoir, 40,000+ trees and ~10 varieties. All-you-can-eat picking in the early-summer lychee season.",
+  "price": {
+   "amount": 60,
+   "cur": "CNY",
+   "note": "adult all-you-can-eat; seasonal"
+  },
+  "hours": {
+   "mon": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "tue": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "wed": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "thu": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "fri": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sat": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sun": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/8/88/LYCHEE_FROM_SHENZHEN_LYCHEE_PARK_%281%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/1/1c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E8%8D%94%E6%9E%97%E7%AB%99_Litchi_Orchards_Station_platform_May_2023_Px3.jpg"
+  ],
+  "notes": "Best guess for your 'Xiti fruit farms': 西丽果场 / Litchi World. Open only in lychee season (~early June to early July); closed off-season."
+ },
+ {
+  "id": "sz-miniso-cocopark",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "MINISO (COCO Park flagship)",
+  "lat": 22.5364,
+  "lng": 114.0489,
+  "address": "COCO Park, Zhongxin 2nd Rd, Futian",
+  "desc": "Large MINISO lifestyle/variety store inside Futian COCO Park: cheap homeware, stationery, cosmetics and licensed-character merch.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/6/66/SZ_%E6%B7%B1%E5%9C%B3%E5%B8%82_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_CoCo_Park_shopping_mall_April_2019_IX2_04.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/5/51/SZ_%E6%B7%B1%E5%9C%B3%E5%B8%82_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_CoCo_Park_shopping_mall_April_2019_IX2_05.jpg"
+  ],
+  "notes": "Coordinates are the COCO Park mall; MINISO is a unit inside. Confirm the floor at the mall directory."
+ },
+ {
+  "id": "sz-lego-cocopark",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "LEGO Store (COCO Park)",
+  "lat": 22.5365,
+  "lng": 114.0491,
+  "address": "COCO Park, Zhongxin 2nd Rd, Futian",
+  "desc": "Official LEGO certified store inside Futian COCO Park, with build tables, exclusive sets and a Pick-a-Brick wall.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/9/93/SZ_%E6%B7%B1%E5%9C%B3%E5%B8%82_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_CoCo_Park_shopping_mall_April_2019_IX2_06.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/1/17/SZ_%E6%B7%B1%E5%9C%B3%E5%B8%82_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_CoCo_Park_shopping_mall_April_2019_IX2_09.jpg"
+  ],
+  "notes": "Coordinates are the COCO Park mall; confirm the exact unit/floor on arrival."
+ },
+ {
+  "id": "sz-eslite-mixcworld",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Eslite Spectrum site (closed) → MixC World",
+  "lat": 22.5449,
+  "lng": 113.9511,
+  "address": "MixC World, 9668 Shennan Blvd, Nanshan",
+  "desc": "Shenzhen's only Eslite Spectrum (诚品生活) ran here 2018–2020 and is permanently closed. The host mall MixC World remains a major destination with other bookstores and cafes.",
+  "price": null,
+  "hours": null,
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/6/67/Huarun_Wanxiang_World_in_Nanshan2021.jpg"
+  ],
+  "notes": "No live Eslite in Shenzhen as of 2026. Kept as a pointer to MixC World (华润万象天地) as a substitute."
+ },
+ {
+  "id": "sz-central-book-city",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Shenzhen Book City — Central (中心城)",
+  "lat": 22.5493,
+  "lng": 114.0545,
+  "address": "2014 Fuzhong 1st Rd, Futian",
+  "desc": "The flagship Shenzhen Book City on the Futian civic axis (near Lianhuashan), ~42,000 m² with cafes, stationery and event space. A landmark cultural venue.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/0/04/Shenzhen_Book_City_Centre_City.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/CBD_SHENZHEN_BOOK_CITY_%2814%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/4/47/CBD_SHENZHEN_BOOK_CITY_%287%29.jpg"
+  ],
+  "notes": "Metro Line 4 Children's Palace (少年宫), exits C2/D. Other Book City branches exist (Luohu, Nanshan, Longgang)."
+ },
+ {
+  "id": "sz-dongmen-street-food",
+  "city": "SZ",
+  "category": "food",
+  "name": "Dongmen Street food market (东门老街)",
+  "lat": 22.547,
+  "lng": 114.1159,
+  "address": "Dongmen Old Street, Luohu",
+  "desc": "Shenzhen's busiest old-town district: a maze of pedestrian lanes packed with street-food stalls, skewers, desserts, milk tea and cheap fashion. Liveliest in the evening.",
+  "price": "free",
+  "hours": null,
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/e/e5/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E6%9D%B1%E9%96%80%E9%A3%9F%E8%A1%97_Dongmen_Pedestrian_Street_night_November_2024_R12S_06.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/b/ba/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E6%9D%B1%E9%96%80%E9%A3%9F%E8%A1%97_Dongmen_Pedestrian_Street_night_November_2024_R12S_17.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/4/4f/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E6%9D%B1%E9%96%80%E9%A3%9F%E8%A1%97_Dongmen_Pedestrian_Street_night_November_2024_R12S_40.jpg"
+  ],
+  "notes": "Open public street zone, not one venue; stalls run ~10:00 to late. Metro Line 1/3 Laojie (老街)."
+ },
+ {
+  "id": "sz-one-avenue",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "One Avenue 卓悦中心",
+  "lat": 22.5389,
+  "lng": 114.0608,
+  "address": "Fuhua 1st Rd, Gangxia, Futian",
+  "desc": "Upscale CBD mall straddling Fuhua Road, with a big open-air rooftop garden deck, international fashion, dining and an observation level. Linked to the Gangxia metro hub.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Huawei_Store_at_One_Avenue_in_Shenzhen%2C_China.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/8/86/%E4%BA%91%E9%99%85%E8%A7%82%E5%85%89%E5%B1%82_2019_-_09.jpg"
+  ],
+  "notes": "Metro Lines 1/3/4 around Gangxia / 会展中心."
+ },
+ {
+  "id": "sz-wanda-longgang",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Longgang Wanda Plaza 龙岗万达广场",
+  "lat": 22.6771,
+  "lng": 114.126,
+  "address": "1 Huanan 2nd Rd, Pinghu, Longgang",
+  "desc": "China's first 4th-generation Wanda Plaza (2021): an 8-floor complex with the world's longest indoor escalator (~64 m), a 2,500 m² LED ceiling and a glass skywalk. A viral destination.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Shenzhen has several Wanda Plazas (e.g. Guangming ~22.7515,113.9278, plus Longhua). This is the landmark one but sits in the far NE (Metro Line 10, Mugu). Say the word to swap for a more central branch."
+ },
+ {
+  "id": "sz-nantou-1820",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+  "lat": 22.5404,
+  "lng": 113.9194,
+  "address": "By Baode Square, Nantou Ancient City, Nanshan",
+  "desc": "A small multimedia museum inside Nantou Ancient City named for the city's 1820 Qing-dynasty heyday. A 360° immersive animation of the silk scroll recreates trade and daily life of 200 years ago.",
+  "price": "free",
+  "hours": {
+   "tue": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "20:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "20:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A82022.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/0/0b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E5%8D%97%E6%8A%95%E5%8F%A4%E5%9F%8E%E5%85%AC%E5%9C%92_Nantou_Ancient_City_Park_March_2025_R12S_11.jpg"
+  ],
+  "notes": "Closed Mondays. Coords are the Nantou Ancient City entrance; the hall is a short walk inside the walls. Photos show the old city, not the hall interior."
+ },
+ {
+  "id": "sz-safari-park",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Shenzhen Safari Park (深圳野生动物园)",
+  "lat": 22.5998002,
+  "lng": 113.9682793,
+  "address": "4065 Xilihu Rd, Xili, Nanshan",
+  "desc": "Large drive/walk-through wildlife park on Xili Lake with free-ranging animals, a safari zone and daily animal shows. One of Shenzhen's oldest family attractions.",
+  "price": {
+   "amount": 240,
+   "cur": "CNY",
+   "note": "gate; online ~179-190; kids ≤1.2m free"
+  },
+  "hours": {
+   "mon": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/e/ea/SHENZHEN_SAFARI_PARK_%284%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/2/2c/SHENZHEN_SAFARI_PARK_%2845%29.jpg"
+  ],
+  "notes": "Last entry ~17:00."
+ },
+ {
+  "id": "sz-splendid-china",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Splendid China Folk Culture Village (锦绣中华)",
+  "lat": 22.5333761,
+  "lng": 113.9836201,
+  "address": "9005 Shennan Blvd, OCT, Nanshan",
+  "desc": "Combined theme park: a miniature-landmarks park plus a folk-culture village of China's ethnic groups, with nightly song-and-dance shows. Plan a full day.",
+  "price": {
+   "amount": 200,
+   "cur": "CNY",
+   "note": "~100-225 by session; evening cheaper; kids <1.2m free"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:30"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/a/a0/1_shenzhen_splendid_china_2011.JPG",
+   "https://upload.wikimedia.org/wikipedia/commons/b/bf/1_splendid_china_shenzhen_2011.JPG"
+  ],
+  "notes": "Night admission from ~17:30. Metro Line 1 Huaqiaocheng / OCT."
+ },
+ {
+  "id": "sz-happy-harbour",
+  "city": "SZ",
+  "category": "sights",
+  "name": "Bao'an Happy Harbour & Bay Glory wheel (宝安欢乐港湾)",
+  "lat": 22.5463106,
+  "lng": 113.881011,
+  "address": "Jia'an Rd, Bao'an Central, Xin'an",
+  "desc": "Waterfront leisure district around the 128m Bay Glory Ferris wheel, with a daily music-fountain and light show on the central plaza. The harbour is free to enter.",
+  "price": "free",
+  "hours": null,
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bay_Glory_2022.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bay_Glory_Shenzhen_2021-02-07.jpg"
+  ],
+  "notes": "Light/water show 20:00 weekdays; 20:00 & 21:00 weekends/holidays, ~15 min, daily except Mondays. Wheel ticket ~¥118. Fireworks only on special event nights."
+ },
+ {
+  "id": "sz-huafa-snow-world",
+  "city": "SZ",
+  "category": "sights",
+  "name": "Qianhai Huafa Ice & Snow World (前海·华发冰雪世界)",
+  "lat": 22.7157734,
+  "lng": 113.766717,
+  "address": "Qianhai Bay area, Bao'an",
+  "desc": "World's largest indoor ski resort (Guinness), ~100,000 m² kept near -6°C, with 5 slopes up to 463m and an 83m drop, plus a ski-in/ski-out JW Marriott. Opened Sep 2025.",
+  "price": {
+   "amount": 208,
+   "cur": "CNY",
+   "note": "2h snow-play; ski sessions ~348-568"
+  },
+  "hours": null,
+  "photos": [],
+  "notes": "Newest large indoor ski resort. Site is in Bao'an near Qianhai Bay. Confirm daily session times with the official channel."
+ },
+ {
+  "id": "sz-mocape",
+  "city": "SZ",
+  "category": "museum",
+  "name": "MOCAPE (当代艺术与城市规划馆)",
+  "lat": 22.5485263,
+  "lng": 114.0566989,
+  "address": "184 Fuzhong Rd, Lianhua, Futian",
+  "desc": "Striking Coop Himmelb(l)au-designed building combining a contemporary-art museum and a city-planning exhibition hall under one roof. Opened 2016.",
+  "price": "free",
+  "hours": {
+   "tue": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "17:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/2/20/01_The_Museum_of_Contemporary_Art_%26_Planning_Exhibition_in_2025.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/2/2c/02_The_Museum_of_Contemporary_Art_%26_Planning_Exhibition_in_2025.jpg"
+  ],
+  "notes": "Closed Mondays; last admission 17:00. Free general admission. Metro Line 3/4 Children's Palace, Exit A2."
+ },
+ {
+  "id": "sz-dafen",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Dafen Oil Painting Village (大芬油画村)",
+  "lat": 22.6126355,
+  "lng": 114.1312679,
+  "address": "Dafen, Buji, Longgang",
+  "desc": "Dense art village with 1,000+ studios and galleries famous for hand-painted oil reproductions and originals. Free to wander; try a painting class.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Artists_at_work_in_Dafen_Oil_Painting_Village.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/8/88/Dafen_art_museum%2C_Shenzhen%2C_China.jpg"
+  ],
+  "notes": "Most shops 10:00-22:00. Dafen Art Museum free, Tue-Sun 09:30-17:30. Metro Line 3 Dafen, Exit A1."
+ },
+ {
+  "id": "sz-wondermeet",
+  "city": "SZ",
+  "category": "kids",
+  "name": "WonderMeet (玩美攻略)",
+  "lat": 22.5440684,
+  "lng": 114.0784151,
+  "address": "Century Plaza, 3018 Shennan Middle Rd, Futian",
+  "desc": "Huge three-floor indoor amusement complex with one all-day ticket covering 100+ attractions: karting, bowling, ice skating, VR, 5D theatre, laser tag, bumper cars and more.",
+  "price": {
+   "amount": 268,
+   "cur": "CNY",
+   "note": "weekday all-day; weekends ~298"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Floors 1F/2F/3F of Century Plaza. Metro Line 1/7 Huaqiang Rd, Exit B."
+ },
+ {
+  "id": "sz-kpfun",
+  "city": "SZ",
+  "category": "kids",
+  "name": "KP-FUN Trendy Play Street (AR karting)",
+  "lat": 22.5322,
+  "lng": 114.0208,
+  "address": "3F, C Future City, 9283 Binhe Ave, Futian",
+  "desc": "New two-floor indoor entertainment street (opened June 2025) headlined by AR/MR go-karting (you wear mixed-reality goggles), plus a 360° rotating motorbike, a big bumper-car arena and 100+ tech attractions.",
+  "price": {
+   "amount": 268,
+   "cur": "CNY",
+   "note": "weekday all-day; weekends ~298"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "The AR-goggle (MR) karting venue. Coords approximate, by Metro Line 9 Xiasha, Exit B. Track-style alternative without AR: SGP Karting Club, Luohu."
+ },
+ {
+  "id": "sz-sushiro-1",
+  "city": "SZ",
+  "category": "food",
+  "name": "Sushiro 寿司郎 (Coastal City / 海岸城)",
+  "lat": 22.5202,
+  "lng": 113.9303,
+  "address": "3F, Coastal City, 33 Wenxin 5th Rd, Houhai, Nanshan",
+  "desc": "Japanese conveyor-belt sushi chain. The Coastal City outlet in Houhai is the branch inside Nanshan. Hugely popular, long queues.",
+  "price": {
+   "amount": 104,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_SUSHIRO_RESTAURANT_IN_SHENZHEN_MIXC.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/4/48/A_SUSHIRO_RESTAURANT_IN_SHENZHEN_MIXC_%282%29.jpg"
+  ],
+  "notes": "Only Sushiro within Nanshan. No Shekou branch; others are in Futian (卓悦中心, 皇庭广场) and Longgang."
+ },
+ {
+  "id": "sz-haidilao-1",
+  "city": "SZ",
+  "category": "food",
+  "name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+  "lat": 22.5045,
+  "lng": 113.9342,
+  "address": "NL309-310, Baoneng Taikoo City, 2233 Zhongxin Rd, Nanshan",
+  "desc": "The Haidilao closest to Shekou, in Baoneng Taikoo City by Shenzhen Bay. Famous for service, free snacks and late hours.",
+  "price": {
+   "amount": 130,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Haidilao_Hot_Pot_at_GR_Shopping_Mall_%2820200829181143%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Haidilao_hot_pot_%2820250201%29.jpg"
+  ],
+  "notes": "Late-night closing times approximate."
+ },
+ {
+  "id": "sz-haidilao-2",
+  "city": "SZ",
+  "category": "food",
+  "name": "Haidilao 海底捞 (Hanjing Center)",
+  "lat": 22.5126,
+  "lng": 113.9382,
+  "address": "3F, Hanjing Center, 23 Dengliang Rd, Houhai, Nanshan",
+  "desc": "Second-nearest Haidilao to Shekou, in the Houhai / Shenzhen Bay area. Same hot pot, tableside service and late hours.",
+  "price": {
+   "amount": 130,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "26:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "26:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "25:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Haidilao_hot_pot_%2820250201%29.jpg"
+  ],
+  "notes": "Coordinates approximate (Hanjing Center, Houhai)."
+ },
+ {
+  "id": "sz-michelin-hunan",
+  "city": "SZ",
+  "category": "food",
+  "name": "Nong Geng Ji 农耕记 (Sea World, Michelin)",
+  "lat": 22.4856,
+  "lng": 113.9122,
+  "address": "Unit 303, 3F Zone B, Sea World Plaza, Shekou, Nanshan",
+  "desc": "Shenzhen-born Hunan country-style (湖南土菜) chain recognised in the Michelin Guide; the Sea World outlet sits by the Shekou waterfront. Rustic, spicy home cooking.",
+  "price": {
+   "amount": 89,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "14:00"
+    ],
+    [
+     "17:30",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "The Shekou Michelin Hunan restaurant is Nong Geng Ji (农耕记), founded in Shenzhen 2017."
+ },
+ {
+  "id": "sz-mood-coffee",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "Mood Coffee (Shekou)",
+  "lat": 22.4855,
+  "lng": 113.9125,
+  "address": "Shekou / Sea World area, Nanshan",
+  "desc": "A specialty coffee spot in the Shekou area.",
+  "price": {
+   "amount": 35,
+   "cur": "CNY",
+   "note": "per cup, approx"
+  },
+  "hours": null,
+  "photos": [],
+  "notes": "Unverified by name on web/Dianping/OSM; pin is an approximate Shekou placeholder. Confirm exact spot. Nearby verified cafes: SAANCI 山池咖啡, JoJo's Turkish Café, Day By Coffee."
+ },
+ {
+  "id": "sz-gg-creative",
+  "city": "SZ",
+  "category": "culture",
+  "name": "G&G Creative Community 创意社区",
+  "lat": 22.4895,
+  "lng": 113.9155,
+  "address": "9 Liyuan Rd, Shekou, Nanshan",
+  "desc": "A former factory turned hip creative community with design shops, cafes, exhibition halls, art markets and a basketball court. ~650 m from Shuiwan Station (Line 2) Exit D.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Coordinates approximate; individual shop hours vary."
+ },
+ {
+  "id": "sz-nanhai-yiku",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+  "lat": 22.4897,
+  "lng": 113.9129,
+  "address": "6 Xinghua Rd, Shekou, Nanshan",
+  "desc": "A waterside creative park converted from a 1980s factory into six garden buildings with 120+ design firms, cafes, shops and industrial-chic photo spots. 2-3 min from Shuiwan Station Exit D.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/0/06/1%E5%8F%B7%E6%A3%9F%E3%81%8B%E3%82%896%E5%8F%B7%E6%A3%9F%E3%81%BE%E3%81%A7%E3%81%82%E3%82%8B.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/9/98/%E3%82%B5%E3%83%B3%E3%83%A8%E3%83%BC%E8%B7%A1%E5%9C%B0%E3%82%92%E3%83%AA%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.jpg"
+  ],
+  "notes": "Open-access grounds; tenant hours vary."
+ },
+ {
+  "id": "sz-chiikawa",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Chiikawa 吉伊卡哇 pop-up (Qianhai Yifang City)",
+  "lat": 22.556,
+  "lng": 113.8828,
+  "address": "L1 atrium, Qianhai Yifang City, Xinhu Rd, Bao'an",
+  "desc": "Chiikawa themed pop-up with character merch and photo spots. The nearest Chiikawa experience to the Shekou/Nanshan side (Qianhai/Bao'an).",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "No permanent Chiikawa sushi in Shenzhen (the sushi tie-in is Chiikawa x Kura Sushi in Japan). Chiikawa appears here only as temporary mall pop-ups; current one ~20 May-30 Jun 2026 at 前海壹方城. Verify dates."
+ },
+ {
+  "id": "sz-seaworld-fountain",
+  "city": "SZ",
+  "category": "sights",
+  "name": "Sea World Music Fountain Show 音乐喷泉",
+  "lat": 22.4862,
+  "lng": 113.9123,
+  "address": "Water plaza by the Minghua ship, Sea World, Shekou, Nanshan",
+  "desc": "Shenzhen's largest open-air water show: music, fountains, lights and fire around the historic Minghua cruise ship. ~10 min per show, free to watch from the plaza.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ]
+   ],
+   "wed": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ]
+   ],
+   "thu": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ]
+   ],
+   "fri": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ],
+    [
+     "21:00",
+     "21:10"
+    ],
+    [
+     "21:30",
+     "21:40"
+    ]
+   ],
+   "sat": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ],
+    [
+     "21:00",
+     "21:10"
+    ],
+    [
+     "21:30",
+     "21:40"
+    ]
+   ],
+   "sun": [
+    [
+     "19:30",
+     "19:40"
+    ],
+    [
+     "20:00",
+     "20:10"
+    ],
+    [
+     "20:30",
+     "20:40"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/7/72/Minghua_ship_at_Shekou_Seaworld_2018-10-12_1.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/2/2a/Minghua_ship_at_Shekou_Seaworld_2018-10-12_3.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shekou_Marine_World_at_night_2.JPG"
+  ],
+  "notes": "Show slots: Tue-Sun 19:30/20:00/20:30, plus 21:00/21:30 on Fri & Sat. Closed Monday. Times shift for weather/holidays."
+ },
+ {
+  "id": "sz-dental",
+  "city": "SZ",
+  "category": "services",
+  "name": "Dental Bauhinia 紫荆口腔 (Shekou)",
+  "lat": 22.488,
+  "lng": 113.915,
+  "address": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan",
+  "desc": "Established international, English-speaking dental clinic in Shekou with dentists from HK, Australia, Canada and the mainland. General, cosmetic, orthodontic and implant care.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "18:00"
+    ]
+   ],
+   "sun": null
+  },
+  "photos": [],
+  "notes": "No clinic named exactly 'Mayia' could be verified in Shekou; this is the substituted best-known English-speaking Shekou clinic. Coords approximate; confirm hours."
+ },
+ {
+  "id": "sz-zhongshuge",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Zhongshuge Bookstore 钟书阁",
+  "lat": 22.5463106,
+  "lng": 113.881011,
+  "address": "East Bank L1-021, Happy Coast (欢乐港湾), Bao'an",
+  "desc": "Shenzhen's branch of the famously photogenic 'most beautiful bookstore in China', with mirrored ceilings, spiral shelves and a tiered reading staircase.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "In Happy Coast East Bank L1-021. Metro Linhai (Line 5/12) Exit B2."
+ },
+ {
+  "id": "sz-upperhills",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "UpperHills 深业上城",
+  "lat": 22.5601574,
+  "lng": 114.0651169,
+  "address": "5001 Huanggang Rd, Futian",
+  "desc": "Mixed-use mall and LOFT complex backing onto Lianhua Hill Park, with an open-air European-style 'Town' street of design boutiques and cafes on the L3 podium.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Adjacent to Lianhua Hill Park."
+ },
+ {
+  "id": "sz-24histories-academy",
+  "city": "SZ",
+  "category": "culture",
+  "name": "24 Histories Academy 二十四史书院",
+  "lat": 22.6589693,
+  "lng": 114.0995854,
+  "address": "Gankeng Ancient Town (north), Longgang",
+  "desc": "An Oriental-garden cultural academy and bookstore themed on China's Twenty-Four Histories, with themed bookshops, a children's picture-book room, tea gatherings and evening folk music.",
+  "price": {
+   "amount": 60,
+   "cur": "CNY",
+   "note": "kids/seniors ¥30; under 1.2m free"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:30",
+     "21:30"
+    ]
+   ],
+   "tue": [
+    [
+     "10:30",
+     "21:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:30",
+     "21:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:30",
+     "21:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:30",
+     "21:30"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "22:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "In Gankeng Ancient Town; Metro Gankeng (Line 10) Exit B."
+ },
+ {
+  "id": "sz-hongqiao-park",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Hongqiao Park 虹桥公园 (red skywalk)",
+  "lat": 22.7482039,
+  "lng": 113.9532991,
+  "address": "Kelin Rd / Chalin Rd, Guangming",
+  "desc": "A hillside forest park famous for its ~4 km elevated bright-red 'rainbow' skywalk winding through the treetops, a major photo spot.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "07:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "This is 虹桥公园 in Guangming. If you meant the central 洪湖公园 in Luohu (lotus ponds, also a red bridge), tell me and I'll switch it."
+ },
+ {
+  "id": "sz-culture-square",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Shenzhen Bay Culture Square 深圳湾文化广场",
+  "lat": 22.5153022,
+  "lng": 113.9404676,
+  "address": "2516 Keyuan South Rd, Houhai, Nanshan",
+  "desc": "A major new 188,000 m² design-and-culture complex on Shenzhen Bay by MAD Architects (Ma Yansong), with design-art exhibition halls and cultural spaces. Opened Nov 2025.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "Last entry 17:00. Monday closure unconfirmed; ticket price TBC. Metro Line 13 Talent Park Exit B1."
+ },
+ {
+  "id": "sz-shiopon",
+  "city": "SZ",
+  "category": "food",
+  "name": "Shiopon (salt-bread bakery)",
+  "lat": 22.5179038,
+  "lng": 113.9389111,
+  "address": "L1 CL120, Shenzhen Bay MixC (深圳湾万象城), Nanshan",
+  "desc": "Japanese-style salt-bread (盐面包) bakery, crisp outside and soft inside in many flavours. Often long queues.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "In Shenzhen Bay MixC; coords are mall-level."
+ },
+ {
+  "id": "sz-ah-ma-handmade",
+  "city": "SZ",
+  "category": "food",
+  "name": "Ah Ma Handmade 阿嬷手作",
+  "lat": 22.5449333,
+  "lng": 113.9511274,
+  "address": "L4 SL432, The MixC World (万象天地), Nanshan",
+  "desc": "Popular Guangxi handmade dessert and drinks chain, known for taro (芋泥) and fresh sugar-cane drinks. The branch nearest Science Park, Nanshan.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "10+ Shenzhen branches; also at One Avenue, 金光华, 欢乐港湾. Coords mall-level."
+ },
+ {
+  "id": "sz-gif-coffee",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "GIF Coffee 集福咖啡",
+  "lat": 22.5632,
+  "lng": 114.0907,
+  "address": "A106, Bldg 541, Bagualing Industrial Zone, Futian",
+  "desc": "Well-regarded specialty coffee shop in the Bagualing area, run by a couple (the barista was a 2020 China-competition runner-up). GIF = 'Get Interesting Food'.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "20:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "+8618820170630",
+  "notes": "In Futian (Bagualing), not Shekou. Coords block-level approximate."
+ },
+ {
+  "id": "sz-yuan-gu",
+  "city": "SZ",
+  "category": "food",
+  "name": "Yuangu 元古云境",
+  "lat": 22.5444,
+  "lng": 113.9504,
+  "address": "NL115A, The Lane, MixC World (万象天地), Nanshan",
+  "desc": "Stylish neo-Chinese restaurant and tea house with creative contemporary cuisine and a Zen/afternoon-tea aesthetic, in the open-air lane of MixC World.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://ak-d.tripcdn.com/images/1tx4912000ocezijx62CF_D_1600_900_R5.jpg",
+   "https://ak-d.tripcdn.com/images/1me2212000dsf7i96E033_D_454_358_R5.jpg",
+   "https://ak-d.tripcdn.com/images/1me1k12000qdfr52i49D6_D_454_358_R5.jpg"
+  ],
+  "phone": "+8618165709724",
+  "notes": "Coords mall-level. A second branch is at L235, Shenzhen Bay MixC."
+ },
+ {
+  "id": "sz-spring-patio",
+  "city": "SZ",
+  "category": "food",
+  "name": "Spring Patio 春台餐酒馆",
+  "lat": 22.5449333,
+  "lng": 113.95115,
+  "address": "2F open-air corridor, MixC World (万象天地), Nanshan",
+  "desc": "Upscale Yunnan-cuisine restaurant and bar on the 2nd-floor open-air corridor of MixC World, known for its award-winning interior.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "Coords mall-level."
+ },
+ {
+  "id": "sz-bay-chef-fei",
+  "city": "SZ",
+  "category": "food",
+  "name": "The Bay by Chef Fei 东湾",
+  "lat": 22.5602154,
+  "lng": 114.0667411,
+  "address": "1F, Mandarin Oriental, Block A UpperHills, 5001 Huanggang Rd, Futian",
+  "desc": "Refined Cantonese restaurant at the Mandarin Oriental, led by two-Michelin-star Chef Fei. One Diamond in the 2026 Black Pearl Guide.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:30",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:30",
+     "14:30"
+    ],
+    [
+     "17:30",
+     "21:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "+8675581829301",
+  "notes": "Upscale; reservations recommended."
+ },
+ {
+  "id": "sz-baoan-hunan-noodle",
+  "city": "SZ",
+  "category": "food",
+  "name": "Sheng Xiang Ting 盛香亭 (Happy Harbour)",
+  "lat": 22.54635,
+  "lng": 113.8811,
+  "address": "B1 food hall (B1北-080-081), Bao'an Happy Harbour East Bank",
+  "desc": "Changsha-style hot-braise (热卤) Hunan rice noodles, Angus beef noodles and snacks. The well-rated Hunan noodle spot inside Bao'an Happy Harbour.",
+  "price": {
+   "amount": 30,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://cdn2.orstatic.com.cn/userphoto2/photo/9/79B/01FM9X17CBCA1E17A2897Fmx.jpg",
+   "https://cdn1.orstatic.com.cn/userphoto2/photo/9/79B/01FM9W549BB2B0BF28520Fmx.jpg"
+  ],
+  "phone": "13352914447",
+  "notes": "Inside Happy Harbour B1; coords mall-level. Sit-down Hunan alternative in the same mall: 农耕记 (2F)."
+ },
+ {
+  "id": "sz-shieyuan",
+  "city": "SZ",
+  "category": "food",
+  "name": "Shiheyuan 柿合缘 新京菜",
+  "lat": 22.54495,
+  "lng": 113.951,
+  "address": "L2 NL219, MixC World (万象天地), Nanshan",
+  "desc": "Upscale 'new Beijing cuisine' restaurant (Michelin / Black Pearl recognised) in MixC World, known for three-way Peking duck and private dining rooms.",
+  "price": {
+   "amount": 148,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "notes": "Best match for the name you gave ('Shieyuan') is 柿合缘 (Shi-he-yuan). Coords mall-level (unit L2)."
+ },
+ {
+  "id": "sz-seaworld-cac",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Sea World Culture & Arts Center (Design Society)",
+  "lat": 22.4831641,
+  "lng": 113.9120268,
+  "address": "1187 Wanghai Rd, Shekou, Nanshan",
+  "desc": "Fumihiko Maki-designed waterfront cultural complex in Shekou, home to Design Society and the V&A Gallery (the V&A's first international collaboration). A landmark for design and contemporary art on Shenzhen Bay.",
+  "price": null,
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/a/af/SZ_Shenzhen_Nanshan_Shekou_1187_Wanghai_Road_Sea_World_Culture_and_Arts_Center_waterfront_promenade_April_2025_R12S_17.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/2/28/Seaworld_CAC1.jpg"
+  ],
+  "notes": "Closed Mondays. Public spaces free; some V&A and special exhibitions are ticketed. Walkable from your Shekou base."
+ },
+ {
+  "id": "sz-art-museum-new",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Shenzhen Art Museum (New)",
+  "lat": 22.6276978,
+  "lng": 114.0187698,
+  "address": "30 Tenglong Rd, Minzhi, Longhua",
+  "desc": "The flagship new home of Shenzhen Art Museum (opened 2023) with vast modern galleries for Chinese ink, contemporary and international art. One of the city's largest art venues.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "17:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/6/65/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%B7%B1%E5%9C%B3%E7%BE%8E%E8%A1%93%E9%A4%A8_Shenzhen_Art_Museum_Shu_Qi_May_2024_R12S.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/6/6c/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%B7%B1%E5%9C%B3%E7%BE%8E%E8%A1%93%E9%A4%A8_Shenzhen_Art_Museum_exhibition_visitors_May_2024_R12S_318.jpg"
+  ],
+  "notes": "Closed Mondays. Free; online reservation recommended."
+ },
+ {
+  "id": "sz-he-xiangning",
+  "city": "SZ",
+  "category": "museum",
+  "name": "He Xiangning Art Museum",
+  "lat": 22.5359828,
+  "lng": 113.9767673,
+  "address": "9013 Shennan Blvd, OCT, Nanshan",
+  "desc": "Opened 1997, China's first national art museum named after an individual artist (revolutionary painter He Xiangning). Her ink works plus a strong contemporary program, linked to the OCAT terminal nearby.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "17:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/d/db/He_Xiangning_Art_Museum1.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/4/46/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E6%B7%B1%E5%8D%97%E5%A4%A7%E9%81%93_Shennan_Blvd_%E4%BD%95%E9%A6%99%E5%87%9D%E7%BE%8E%E8%A1%93%E9%A4%A8_He_Xiangning_Art_Museum_intro_September_2024_R12S_07.jpg"
+  ],
+  "notes": "Closed Mondays. Free."
+ },
+ {
+  "id": "sz-guan-shanyue",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Guan Shanyue Art Museum 关山月美术馆",
+  "lat": 22.5520952,
+  "lng": 114.0590877,
+  "address": "6026 Hongli Rd, Futian",
+  "desc": "Dedicated to Lingnan-school master Guan Shanyue. A leading venue for traditional Chinese ink painting alongside design and contemporary shows, beside Lianhua Hill Park.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "17:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/e/e8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%B4%85%E8%8D%94%E8%B7%AF_Hongli_Road_%E9%97%9C%E5%B1%B1%E6%9C%88%E7%BE%8E%E8%A1%93%E9%A4%A8_Guan_Shanyue_Art_Museum_exhibition_January_2026_N13P_13.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/6/6e/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%B4%85%E8%8D%94%E8%B7%AF_Hongli_Road_%E9%97%9C%E5%B1%B1%E6%9C%88%E7%BE%8E%E8%A1%93%E9%A4%A8_Guan_Shanyue_Art_Museum_exhibition_January_2026_N13P_14.jpg"
+  ],
+  "notes": "Closed Mondays. Free."
+ },
+ {
+  "id": "sz-museum-history",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Shenzhen Museum (History & Folk Culture)",
+  "lat": 22.5462992,
+  "lng": 114.0566279,
+  "address": "Fuzhong 3rd Rd, Civic Center, Futian",
+  "desc": "The main history and folk-culture wing of Shenzhen Museum in the Civic Center, tracing the city's leap from fishing villages to a global tech metropolis. The best overview of Shenzhen's story.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/3d/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E6%B7%B1%E5%9C%B3%E5%8D%9A%E7%89%A9%E9%A4%A8_Shenzhen_Museum_interior_August_2023_Px3_14.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/6/63/Shenzhen_Museum.jpg"
+  ],
+  "notes": "Closed Mondays. Free; bring your passport for entry."
+ },
+ {
+  "id": "sz-aqila-spa",
+  "city": "SZ",
+  "category": "services",
+  "name": "Aqila Hot Spring Spa 阿奇拉汤泉生活",
+  "lat": 22.5315,
+  "lng": 113.922,
+  "address": "Floors 2-3, Tianxia Jinniu Plaza, Taoyuan Rd, Nanshan",
+  "desc": "Large 24-hour upscale hot-spring bathhouse and leisure complex: hot pools, saunas, plus a cinema, arcade/VR, consoles, esports cafe, billiards, karaoke, hanfu area and an indoor diving pool. Unlimited fruit and drinks included.",
+  "price": {
+   "amount": 318,
+   "cur": "CNY",
+   "note": "approx 24h bath ticket; deals from ~55% off via Klook/Trip.com"
+  },
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "24h, near Taoyuan station (Line 1/12). Free shuttle to/from Shenzhen Bay Port. Coords adjusted from Amap to approximate WGS84."
+ },
+ {
+  "id": "sz-maya-beach",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Maya Beach Water Park 玛雅海滩水公园",
+  "lat": 22.5446,
+  "lng": 113.9754,
+  "address": "Inside Happy Valley, OCT, Nanshan",
+  "desc": "Shenzhen's most famous water park, inside Happy Valley OCT: 30+ attractions including a 15m Rainbow Racer, a water coaster, wave pool, lazy river and the Tikal kids zone. Hosts the Maya electronic-music season in July-August.",
+  "price": {
+   "amount": 230,
+   "cur": "CNY",
+   "note": "approx; time-based; day ticket covers Happy Valley too"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "0755-26949168",
+  "notes": "Water-park season runs roughly June-September; July is peak (often 10:00-22:00)."
+ },
+ {
+  "id": "sz-dameisha",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Dameisha Seaside Park 大梅沙海滨公园",
+  "lat": 22.5943,
+  "lng": 114.3021,
+  "address": "33 Yanmei Rd, Yantian",
+  "desc": "Shenzhen's longest free public beach (1,800m): soft sand, gentle swimming areas, water sports and seaside playgrounds. The adjacent OCT East adds a dedicated water park.",
+  "price": "free",
+  "hours": null,
+  "photos": [],
+  "phone": "0755-25062001",
+  "notes": "Free but peak-summer online reservation usually required. Swim season ~April-October."
+ },
+ {
+  "id": "sz-guanlan-shanshui",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Guanlan Shanshui Eco Water Park 观澜山水田园",
+  "lat": 22.717,
+  "lng": 114.1019,
+  "address": "Huanguan South Rd, Guanlan, Longhua",
+  "desc": "Family eco resort with a seasonal outdoor water park: a tornado funnel slide, rainbow racer and 10+ water attractions in a garden setting, plus on-site hot springs. A lower-key alternative to the big parks.",
+  "price": {
+   "amount": 105,
+   "cur": "CNY",
+   "note": "adult from ~¥105, child ~¥85; incl. resort"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "0755-28291218",
+  "notes": "Water park seasonal May-October; July in season."
+ },
+ {
+  "id": "sz-xinggaodu",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Xinggaodu Dream Water World 星高度梦想水世界",
+  "lat": 22.6306,
+  "lng": 114.0689,
+  "address": "Yunli Dream Park, Fada Rd, Bantian, Longgang",
+  "desc": "A 30,000 m² pink-themed outdoor water world with flamingo, dolphin-cove and unicorn-castle zones, geared to family photo-fun rather than extreme thrills. Metro-accessible and budget-priced.",
+  "price": {
+   "amount": 59,
+   "cur": "CNY",
+   "note": "single entry from ~¥59"
+  },
+  "hours": {
+   "mon": [
+    [
+     "13:00",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "13:00",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "13:00",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "13:00",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "13:00",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "notes": "~150m from Metro Line 5 Bantian Exit D. Seasonal summer; bring a swim ring."
+ },
+ {
+  "id": "sz-haibei-bay",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Haibei Bay 海贝湾 (Shenzhen's Santorini)",
+  "lat": 22.5448,
+  "lng": 114.4798,
+  "address": "Haibin Rd, Nan'ao, Dapeng",
+  "desc": "A cliff-backed cove nicknamed 'Shenzhen's Santorini' for its cluster of white-and-blue Greek-style villas and cliff-edge restaurants (the Miyue Santorini resort, Positano cliff dining) above the beach. A small cliff lift reportedly runs down to the sea.",
+  "price": "free",
+  "hours": null,
+  "photos": [],
+  "phone": "18123708560",
+  "notes": "Best match for the Greek/Santorini look with restaurants, and the cliff-lift matches your memory (not fully confirmed online). Coords approximate (Nan'ao); phone is the resort's. The bigger Kaisa Golden Bay nearby is themed on local fishing culture, not Greek."
+ },
+ {
+  "id": "gm-changhwadang",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Changhwadang 창화당 (Hannam)",
+  "lat": 37.535771,
+  "lng": 127.000464,
+  "address": "683-57 Hannam-dong, Yongsan, Seoul",
+  "desc": "Hotteok and Korean street-food snacks.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-niuroumianguan",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Niuroumianguan (beef noodle)",
+  "lat": 37.56858,
+  "lng": 126.986148,
+  "address": "75-2 Cheonggyecheon-ro, Jongno, Seoul",
+  "desc": "Beef noodle soup.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-kyochon-pilbang",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Kyochon Pilbang",
+  "lat": 37.534071,
+  "lng": 126.993851,
+  "address": "127 Bogwang-ro, Yongsan, Seoul",
+  "desc": "Korean fried chicken.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-bukchon-mandu",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Bukchon Son-mandu",
+  "lat": 37.574128,
+  "lng": 126.985116,
+  "address": "42-5 Insadong-gil, Jongno, Seoul",
+  "desc": "Handmade dumplings near Insadong.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-nude-kimbap",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Wonjo Nude Cheese Kimbap",
+  "lat": 37.570317,
+  "lng": 126.998791,
+  "address": "Jongno, Seoul",
+  "desc": "Cheese kimbap.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-jinmi",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Jinmi Sikdang",
+  "lat": 37.550563,
+  "lng": 126.955771,
+  "address": "186-6 Mapo-daero, Mapo, Seoul",
+  "desc": "Korean restaurant.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-noryangjin",
+  "city": "SEOUL",
+  "category": "shopping",
+  "name": "Noryangjin Fisheries Market",
+  "lat": 37.514972,
+  "lng": 126.938634,
+  "address": "674 Nodeul-ro, Dongjak, Seoul",
+  "desc": "Huge seafood wholesale market; pick and have it cooked.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-isaac-toast",
+  "city": "SEOUL",
+  "category": "cafe",
+  "name": "Isaac Toast (Myeongdong Cathedral)",
+  "lat": 37.562975,
+  "lng": 126.985488,
+  "address": "17-1 Myeongdong 10-gil, Jung, Seoul",
+  "desc": "Griddled toast sandwiches and coffee.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-gwangjang",
+  "city": "SEOUL",
+  "category": "shopping",
+  "name": "Gwangjang Market",
+  "lat": 37.57004,
+  "lng": 126.999604,
+  "address": "88 Changgyeonggung-ro, Jongno, Seoul",
+  "desc": "Famous traditional market and street-food hall (bindaetteok, mayak gimbap).",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-bukchangdong-soondubu",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "BukChangDong Soondubu (Myeongdong)",
+  "lat": 37.564635,
+  "lng": 126.984216,
+  "address": "Myeongdong, Jung, Seoul",
+  "desc": "Soft tofu stew (soondubu).",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-eunjujeong",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Eunjujeong",
+  "lat": 37.568642,
+  "lng": 126.999742,
+  "address": "32 Changgyeonggung-ro 8-gil, Jung, Seoul",
+  "desc": "Korean restaurant.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-hanilgwan",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Hanilgwan Gwanghwamun",
+  "lat": 37.574757,
+  "lng": 126.979298,
+  "address": "Gwanghwamun, Seoul",
+  "desc": "Long-running traditional Korean restaurant.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-namsandong-gotgan",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Namsandong Gotgan 남산동곳간",
+  "lat": 37.565253,
+  "lng": 126.987319,
+  "address": "343 Samil-daero 2F, Jung, Seoul",
+  "desc": "Korean restaurant.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-golden-farm",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Golden Farm",
+  "lat": 37.561557,
+  "lng": 126.98459,
+  "address": "6 Myeongdong 8na-gil, Jung, Seoul",
+  "desc": "Myeongdong eatery.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-yello-chicken",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Yell-o! Chicken",
+  "lat": 37.533849,
+  "lng": 126.995539,
+  "address": "132-23 Itaewon-dong, Yongsan, Seoul",
+  "desc": "Fried chicken, Itaewon.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-hanndul-chicken",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Hanndul Chicken",
+  "lat": 37.552478,
+  "lng": 126.967528,
+  "address": "27 Cheongpa-ro 85-gil, Yongsan, Seoul",
+  "desc": "Fried chicken.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-dailybeer",
+  "city": "SEOUL",
+  "category": "nightlife",
+  "name": "Dailybeer 생활맥주 (Myeongdong)",
+  "lat": 37.564567,
+  "lng": 126.984054,
+  "address": "Myeongdong 7-gil, Jung, Seoul",
+  "desc": "Craft beer pub.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-kkanbu",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Kkanbu Chicken (Myeongdong)",
+  "lat": 37.561686,
+  "lng": 126.98619,
+  "address": "22 Myeongdong 8ga-gil 2F, Jung, Seoul",
+  "desc": "Fried chicken.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-bbq-star",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "BBQ Chicken Myeongdong Star",
+  "lat": 37.56341,
+  "lng": 126.983423,
+  "address": "2 Myeongdong 4-gil, Jung, Seoul",
+  "desc": "Korean fried chicken.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-kyochon-ddm",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Kyochon Chicken (Dongdaemun)",
+  "lat": 37.571324,
+  "lng": 127.01068,
+  "address": "294 Jong-ro, Jongno, Seoul",
+  "desc": "Fried chicken.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-emperor-buffet",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Korean Emperor Buffet",
+  "lat": 37.564726,
+  "lng": 126.983902,
+  "address": "207 Myeongdong 7-gil 2F, Jung, Seoul",
+  "desc": "Korean BBQ buffet.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-pig-company",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "AYCE Pig Company (Myeongdong BBQ)",
+  "lat": 37.565685,
+  "lng": 126.98367,
+  "address": "44 Myeongdong 3-gil 3F, Jung, Seoul",
+  "desc": "All-you-can-eat Korean BBQ.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-mongvely",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Myeongdong Mongvely",
+  "lat": 37.561357,
+  "lng": 126.984416,
+  "address": "9 Myeongdong 8na-gil 3F, Jung, Seoul",
+  "desc": "Myeongdong eatery.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-ziu-bbq",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "ZIU BBQ",
+  "lat": 37.560008,
+  "lng": 126.985191,
+  "address": "20 Toegye-ro 18-gil, Jung, Seoul",
+  "desc": "Korean BBQ.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-wolhwa",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Wolhwa Sikdang",
+  "lat": 37.540887,
+  "lng": 126.949155,
+  "address": "29 Dohwa-gil, Mapo, Seoul",
+  "desc": "Korean restaurant.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-daol",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Daol Charcoal BBQ",
+  "lat": 37.563178,
+  "lng": 126.983964,
+  "address": "54-2 Myeongdong 2-ga, Jung, Seoul",
+  "desc": "Charcoal Korean BBQ.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-bogwangjung",
+  "city": "SEOUL",
+  "category": "food",
+  "name": "Bogwangjung",
+  "lat": 37.533318,
+  "lng": 126.994552,
+  "address": "118 Bogwang-ro 1F, Yongsan, Seoul",
+  "desc": "Restaurant near Itaewon.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-shuiwan1979",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Shuiwan 1979 Plaza 水湾1979",
+  "lat": 22.48912,
+  "lng": 113.91883,
+  "address": "Zimao Center, Shekou, Nanshan, Shenzhen",
+  "desc": "Creative dining-and-shopping plaza in Shekou with restored old buildings.",
+  "notes": "From your Google Maps 'Want to go' list.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "gm-cafe-de-coral",
+  "city": "HK",
+  "category": "food",
+  "name": "Café de Coral (Admiralty)",
+  "lat": 22.279134,
+  "lng": 114.165468,
+  "address": "18 Harcourt Rd, Admiralty, Hong Kong",
+  "desc": "Classic Hong Kong fast-food chain.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-bird-market",
+  "city": "HK",
+  "category": "sights",
+  "name": "Yuen Po Bird Market",
+  "lat": 22.325475,
+  "lng": 114.173515,
+  "address": "Flower Market Rd, Mong Kok, Hong Kong",
+  "desc": "Bird garden and market with songbirds and ornate cages.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-cat-street",
+  "city": "HK",
+  "category": "shopping",
+  "name": "Cat Street (Upper Lascar Row)",
+  "lat": 22.285126,
+  "lng": 114.149369,
+  "address": "Upper Lascar Row, Sheung Wan, Hong Kong",
+  "desc": "Antiques, curios and bric-a-brac street.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-ssp-toy-street",
+  "city": "HK",
+  "category": "shopping",
+  "name": "Sham Shui Po Toy Street",
+  "lat": 22.331138,
+  "lng": 114.163901,
+  "address": "Fuk Wing St, Sham Shui Po, Hong Kong",
+  "desc": "Street lined with toy and gadget wholesalers.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-graham-market",
+  "city": "HK",
+  "category": "shopping",
+  "name": "Graham Street Market",
+  "lat": 22.282969,
+  "lng": 114.153579,
+  "address": "Gage St / Graham St, Central, Hong Kong",
+  "desc": "Historic open-air wet market in Central.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-wanchai-toy-street",
+  "city": "HK",
+  "category": "shopping",
+  "name": "Tai Yuen Toy Street (Wan Chai)",
+  "lat": 22.276122,
+  "lng": 114.173253,
+  "address": "Tai Yuen St, Wan Chai, Hong Kong",
+  "desc": "Old-school toy and market street.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-hk-maritime",
+  "city": "HK",
+  "category": "museum",
+  "name": "Hong Kong Maritime Museum",
+  "lat": 22.286612,
+  "lng": 114.161999,
+  "address": "Central Pier 8, Hong Kong",
+  "desc": "Harbourfront museum on HK's maritime history.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "gm-hk-zoo-botanical",
+  "city": "HK",
+  "category": "nature",
+  "name": "HK Zoological & Botanical Gardens",
+  "lat": 22.277397,
+  "lng": 114.156167,
+  "address": "Albany Rd, Central, Hong Kong",
+  "desc": "Historic gardens with greenhouses, birds and primates.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "notes": "From your Google Maps 'Want to go' list."
+ },
+ {
+  "id": "sz-pick-peticano",
+  "city": "SZ",
+  "category": "food",
+  "name": "Peticano 毕加诺",
+  "lat": 22.476,
+  "lng": 113.923,
+  "address": "Sea World, Shekou, Nanshan",
+  "desc": "Argentine/American wood-fired smokehouse (ribs, brisket, steaks) with a buzzy terrace. A long-running Shekou institution.",
+  "commute": "~5 min walk from Sea World station (Line 2/12), in Shekou.",
+  "notes": "Dianping ~4.6. Expat favorite.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-17bread",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "1-7 Bread 壹柒面包 (Sea World)",
+  "lat": 22.4748,
+  "lng": 113.9225,
+  "address": "Sea World, Shekou, Nanshan",
+  "desc": "Artisan small-batch sourdough and low-sugar bakes (cod-roe baguette, milk toast), rated among Nanshan's best bread.",
+  "commute": "~3 min walk, inside Sea World.",
+  "notes": "Dianping ~4.7.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-dananshan",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Dananshan Park 大南山公园",
+  "lat": 22.4865,
+  "lng": 113.917,
+  "address": "Dananshan, Shekou, Nanshan",
+  "desc": "A 336 m granite-step climb from Shekou to a beacon-tower summit with sweeping views over Shenzhen Bay, the skyline and Hong Kong. Best at sunset.",
+  "price": "free",
+  "commute": "~10 min walk/DiDi to the Minghua trailhead from Shekou.",
+  "notes": "Amap 4.7. Top sunset viewpoint.",
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-mekong",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Mekong River Sports Town 湄南河体育小镇",
+  "lat": 22.482,
+  "lng": 113.932,
+  "address": "Haiwan Rd, Shekou, Nanshan",
+  "desc": "A 25,000 m² indoor sports park with 30+ activities: a real indoor ski slope, karting, trampolines, climbing and surf. A rainy-day winner for the family.",
+  "commute": "~6 min DiDi from Shekou / Sea World.",
+  "notes": "Dianping ~4.6.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-longbar",
+  "city": "SZ",
+  "category": "nightlife",
+  "name": "Long Bar (Raffles, One Shenzhen Bay)",
+  "lat": 22.4945,
+  "lng": 113.937,
+  "address": "Raffles, One Shenzhen Bay, Houhai, Nanshan",
+  "desc": "Elegant high-floor hotel cocktail bar with floor-to-ceiling views over Shenzhen Bay and the bridge. The area's most polished sundowner.",
+  "commute": "~10 min DiDi from Shekou (or Line 2 to Houhai).",
+  "notes": "At Raffles / One Shenzhen Bay.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-24qi",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "24気 Art & Life Space 24气艺文生活空间",
+  "lat": 22.496,
+  "lng": 113.9385,
+  "address": "Houhai, Shenzhen Bay, Nanshan",
+  "desc": "Glass-walled art-and-coffee space framing Houhai Bay and the Shenzhen Bay bridge, known for its rosemary americano.",
+  "commute": "~12 min DiDi from Shekou.",
+  "notes": "Dianping ~4.6. Bay-view design cafe.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-fukanglou",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "Fukanglou Coffee 福康楼咖啡",
+  "lat": 22.515,
+  "lng": 113.943,
+  "address": "Houhai / Coastal City, Nanshan",
+  "desc": "Teahouse-meets-cafe serving inventive Chinese specialty lattes (osmanthus-rice, black-sesame) in lidded gaiwan bowls.",
+  "commute": "~15 min via Line 2 to Houhai / Coastal City.",
+  "notes": "Dianping ~4.7.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-crabxingji",
+  "city": "SZ",
+  "category": "food",
+  "name": "Crab Xingji 蟹兴记",
+  "lat": 22.5165,
+  "lng": 113.9435,
+  "address": "Houhai / Coastal City, Nanshan",
+  "desc": "Shenzhen's only branch of this crab specialist, hand-picking fresh crab daily for hairy-crab roe dishes. A refined seafood splurge.",
+  "commute": "~15 min via Line 2 to Houhai.",
+  "notes": "Dianping 4.7, on the 必吃榜 Must-Eat list.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-nanshan-museum",
+  "city": "SZ",
+  "category": "museum",
+  "name": "Nanshan Museum 南山博物馆",
+  "lat": 22.534,
+  "lng": 113.923,
+  "address": "Nanshan center, Taoyuan, Nanshan",
+  "desc": "A big, free, well-curated museum with a Nanshan-history wing plus rotating blockbuster shows (e.g. Egyptian golden mummies). Spacious and English-friendly.",
+  "price": "free",
+  "commute": "~20 min DiDi, or Line 2 then Line 1 to 桃园 (Exit B).",
+  "notes": "Amap ~4.8. Free; likely closed Mondays.",
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-pengxiaoguan",
+  "city": "SZ",
+  "category": "food",
+  "name": "Peng Xiao Guan 鹏小馆 (OCT)",
+  "lat": 22.54,
+  "lng": 113.99,
+  "address": "OCT 华侨城, Nanshan",
+  "desc": "Modern Cantonese darling famous for its clay-pot 'kiln chicken' (窑鸡) and inventive Guangdong small plates. A reliable must-eat near OCT-LOFT.",
+  "commute": "~22 min via Line 2 to OCT (侨城东).",
+  "notes": "Dianping 必吃榜.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-pick-octloft",
+  "city": "SZ",
+  "category": "culture",
+  "name": "OCT-LOFT 华侨城创意文化园",
+  "lat": 22.552,
+  "lng": 113.997,
+  "address": "OCT 华侨城, Nanshan",
+  "desc": "A converted-factory creative district of ~300 design studios, the OCAT contemporary-art galleries, Old Heaven indie bookshop/music venue, and the weekend T-Street creative market.",
+  "price": "free",
+  "commute": "~25 min via Line 2 to 侨城东 / Line 1 侨城东.",
+  "notes": "Amap ~4.6. Shenzhen's top creative park.",
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-batiaoyou-1",
+  "city": "SZ",
+  "category": "food",
+  "name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+  "lat": 22.508042,
+  "lng": 113.928151,
+  "address": "Nanle Yayuan, Nanyou, Yuehai, Nanshan",
+  "desc": "Open-front Nanyou skewer stall: fresh-cut charcoal skewers (lamb, beef tendon, chicken wings, leeks) plus the chain's signature crispy grilled fish (脆皮烤鱼) and cheap late-night beer. Plastic stools, smoky street vibe, busy after dark.",
+  "price": {
+   "amount": 72,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "commute": "~10 min DiDi from Shekou (Nanyou), or Line 2/12 toward 南山 then a short walk.",
+  "notes": "Closest skewer match to Shekou (~2.8 km). Name caveat: Dianping lists it as 八条友烧烤·脆皮烤鱼 (南山旗舰店), but Amap/Meituan show the near-identical sister brand 六条友烧烤 at this spot, possibly a renamed/copycat store. Same concept."
+ },
+ {
+  "id": "sz-batiaoyou-2",
+  "city": "SZ",
+  "category": "food",
+  "name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+  "lat": 22.582661,
+  "lng": 113.922274,
+  "address": "Snow BREWTOWN Beer Town, EL134, Xin'an, Bao'an",
+  "desc": "A confirmed 八条友烧烤·脆皮烤鱼 outlet inside the BREWTOWN beer-town complex: charcoal-grilled skewers and crispy grilled fish paired with Snow/craft beer. Casual food-court-meets-night-market setting.",
+  "price": {
+   "amount": 75,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "commute": "~25-35 min DiDi from Shekou (Bao'an Xin'an); borderline within 30 min.",
+  "notes": "Nearest genuine 八条友 brand branch to Shekou (~10.8 km). Other branches (Futian, 石岩, 松岗, 观澜, Guangming) are all 15 km+ and over 30 min."
+ },
+ {
+  "id": "sz-hk-k11ecoast",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "K11 ECOAST 深圳K11 ECOAST",
+  "lat": 22.4722,
+  "lng": 113.9005,
+  "address": "Taizi Bay / Prince Bay, Shekou, Nanshan",
+  "desc": "Brand-new (Apr 2025) OMA / Sou Fujimoto seafront art-mall with a Promenade boardwalk and flagship stores. The buzziest new opening on the Shekou waterfront, a citywalk favorite for the architecture and sea views.",
+  "commute": "~8 min DiDi from Shekou (Taizi Bay), or a waterfront walk.",
+  "notes": "Featured by SCMP Style, Time Out, EyeShenzhen.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-innate",
+  "city": "SZ",
+  "category": "services",
+  "name": "Innate Ayurveda Spa 印度阿育吠陀",
+  "lat": 22.4818,
+  "lng": 113.9178,
+  "address": "Seaside Commercial Center, Sea World, Shekou",
+  "desc": "Authentic Kerala Ayurveda (Abhyanga oil massage, Shirodhara) right in Sea World. A calmer boutique alternative to the mega-spas that HK visitors cross the border for.",
+  "commute": "~5 min walk, in the Sea World commercial center.",
+  "notes": "Featured by Sassy Hong Kong and Cathay Pacific 'best Shenzhen spas'.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-houhaihui",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Houhaihui 后海汇",
+  "lat": 22.5092,
+  "lng": 113.9358,
+  "address": "Houhai, Nanshan",
+  "desc": "A Gen-Z trend mall with vintage shops, art-toy/blind-box stores, a climbing gym, rooftop garden and weekend night markets. A top Xiaohongshu citywalk stop for HK youngsters.",
+  "commute": "~18 min: Line 2 to 后海 + short walk, or DiDi ~15 min.",
+  "notes": "Xiaohongshu / Trip.com HK 'trendy destination'.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-talentpark",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Talent Park 人才公园",
+  "lat": 22.4892,
+  "lng": 113.9302,
+  "address": "Shenzhen Bay, Houhai, Nanshan",
+  "desc": "A lakeside bayfront park where you can jog, citywalk and shoot the skyline. The headline 'see Hong Kong from the other side' viewpoint, with weekend evening light shows.",
+  "price": "free",
+  "commute": "~15 min DiDi from Shekou, or Line 2 to 后海/登良 + walk.",
+  "notes": "Top citywalk pick in HK Xiaohongshu '深圳周末' guides. Its light show is also in the Events tab.",
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-bollywood",
+  "city": "SZ",
+  "category": "food",
+  "name": "Bollywood Cafe 宝莱坞印度餐厅",
+  "lat": 22.5125,
+  "lng": 113.9338,
+  "address": "Poly Cultural Centre, Houhai, Nanshan",
+  "desc": "A well-rated authentic Indian curry house near Houhai that HK foodies single out when they want something beyond hotpot on a Shenzhen weekend.",
+  "commute": "~20 min DiDi from Shekou (Houhai).",
+  "notes": "Featured in Sassy Hong Kong 'Ultimate Dining Spots in Shenzhen'.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-xiesanbao",
+  "city": "SZ",
+  "category": "food",
+  "name": "Xie San Bao 蟹三宝",
+  "lat": 22.5208,
+  "lng": 113.9295,
+  "address": "Nanshan",
+  "desc": "Cheap-and-cheerful crab-roe (蟹黄) noodle and rice bowls. An Instagrammable budget bite HK foodies queue for, exactly the 'great value vs HK' draw of crossing the border.",
+  "commute": "~22 min DiDi from Shekou (Nanshan).",
+  "notes": "Featured in Sassy Hong Kong Shenzhen dining guide.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-bionicbrew",
+  "city": "SZ",
+  "category": "nightlife",
+  "name": "Bionic Brew 源源精酿 (Nantou taproom)",
+  "lat": 22.5302,
+  "lng": 113.9185,
+  "address": "Nantou Ancient City, Nanshan",
+  "desc": "Shenzhen's original craft brewery (IPAs, comfort food like chicken & waffles) set in the restored Nantou Ancient City. The go-to taproom for HK and expat weekenders wanting a beer-and-burger night.",
+  "commute": "~18 min DiDi from Shekou, or Line 12 to 南头古城.",
+  "notes": "Now Shenzhen / That's Shenzhen; expat & HK craft-beer favorite. Caveat: the Nantou taproom may have closed (5-year lease ended); verify before going.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-hk-yewai",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "Yewai Urban Tea Room 叶外·Urban茶室",
+  "lat": 22.5168,
+  "lng": 113.9332,
+  "address": "Coastal City / Haian Cheng, Houhai, Nanshan",
+  "desc": "A photogenic 'new-Chinese' tea-and-dessert room at Coastal City that HK media flags as a must-photo trendy stop on a Houhai food day.",
+  "commute": "~20 min via Line 2 to 后海 / Coastal City.",
+  "notes": "Highlighted in U Travel HK '深圳海岸城' guide.",
+  "price": null,
+  "hours": null,
+  "photos": []
+ },
+ {
+  "id": "sz-nantou-makers",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Nantou Ancient City maker district 南头古城主理人街区",
+  "lat": 22.5418,
+  "lng": 113.923,
+  "address": "Nantou Ancient City, Nanshan",
+  "desc": "The restored Nantou Ancient City packs 280+ independent 主理人 design brands and studios (original fashion, bags, jewelry, leather, vintage like Soarin) plus recurring weekend maker markets of 100+ stalls. Shenzhen's closest equivalent to Hong Kong's PMQ.",
+  "price": "free",
+  "hours": null,
+  "photos": [],
+  "commute": "~15 min DiDi from Shekou, or Line 12 to 南头古城.",
+  "notes": "Independent-designer shopping. Maker/民艺 markets run on weekends; shops generally open daily ~11:00-21:00. Distinct from the small 1820 digital hall pin nearby."
+ },
+ {
+  "id": "sz-teamlab",
+  "city": "SZ",
+  "category": "kids",
+  "name": "teamLab: Learn & Play! Future Park 共创！未来园",
+  "lat": 22.5275,
+  "lng": 114.0205,
+  "address": "L3, C Future City, 9283 Binhe Ave, Futian",
+  "desc": "A permanent interactive digital-art park built for kids: light-ball orchestra, sliding fruit field, drawing aquarium and hopscotch. One of the most family-oriented attractions in the city; under 1m free.",
+  "price": {
+   "amount": 118,
+   "cur": "CNY",
+   "note": "approx; under 1m free"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "commute": "One transfer: Line 12 to 南油, change Line 9 to 下沙 (C Future City), ~32 min. DiDi ~10 km, 18-22 min, ¥32-40.",
+  "notes": "At C Future City (same complex as KP-FUN). Last entry 21:00. Book via Klook or official WeChat."
+ }
+]
