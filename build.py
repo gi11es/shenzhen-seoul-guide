@@ -59,8 +59,8 @@ for p in places:                                 # SZ -> Amap (高德, GCJ-02); 
         glat, glng = wgs2gcj(p['lat'], p['lng'])
         p['maplink'] = f"https://uri.amap.com/marker?position={glng:.6f},{glat:.6f}&name={quote(p['name'])}&coordinate=gaode&callnative=1"
         p['maplabel'] = 'Amap'
-    else:
-        p['maplink'] = f"https://www.google.com/maps/search/?api=1&query={p['lat']:.6f}%2C{p['lng']:.6f}"
+    else:                                        # name-based search resolves to the real Google listing
+        p['maplink'] = f"https://www.google.com/maps/search/?api=1&query={quote(p['name'])}"
         p['maplabel'] = 'Maps'
 data_extra = ('const LOCATIONS = ' + json.dumps(places, ensure_ascii=False) + ';\n'
               'const EVENTS = '    + json.dumps(events, ensure_ascii=False) + ';')
