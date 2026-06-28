@@ -4022,5 +4022,70 @@
   "photos": [],
   "commute": "~15 min DiDi from Shekou, or Line 12 to 南头古城.",
   "notes": "Independent-designer shopping. Maker/民艺 markets run on weekends; shops generally open daily ~11:00-21:00. Distinct from the small 1820 digital hall pin nearby."
+ },
+ {
+  "id": "sz-seafood-market",
+  "city": "SZ",
+  "category": "food",
+  "name": "Shekou Seafood Market 蛇口海鲜市场",
+  "lat": 22.4893121,
+  "lng": 113.9233487,
+  "address": "49 Yucun Rd, Shekou, Nanshan",
+  "desc": "Classic Shekou pick-and-cook seafood market: buy live fish, prawns, crab and geoduck by weight from the wet-market stalls, then hand it to the adjacent 加工 restaurants who cook it to order for a processing fee. Stocked daily from the Shekou fishing harbour.",
+  "price": {
+   "amount": 10,
+   "cur": "CNY",
+   "note": "seafood by weight + processing fee ~¥10-20 per 斤"
+  },
+  "hours": {
+   "mon": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "tue": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "wed": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "thu": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "fri": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "sat": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ],
+   "sun": [
+    [
+     "05:30",
+     "19:30"
+    ]
+   ]
+  },
+  "photos": [
+   "https://dimg04.tripcdn.com/images/0552w12000rp2b5ujF1F3.png",
+   "https://dimg04.tripcdn.com/images/0551i12000ihviiwaF178.png"
+  ],
+  "commute": "~5 min DiDi or ~12 min walk from the apartment (~1 km); Metro Dongjiaotou (Line 2/8/12) ~230 m.",
+  "notes": "Pick downstairs, cooked at the adjacent 加工 eateries (e.g. 德记烧腊饭店) for a per-斤 fee. Processing stalls are next-door rather than strictly upstairs."
  }
 ]
