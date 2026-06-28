@@ -386,7 +386,8 @@
   "desc": "Home base in Jongno, steps from Jongno 3-ga station; Insadong and Gyeongbokgung nearby.",
   "price": null,
   "hours": null,
-  "photos": []
+  "photos": [],
+  "commute": "Airport transfers to Amare Hotel Jongno (Jongno 3-ga Stn): From Incheon (ICN) — AREX All-Stop train to Seoul Stn (~60 min, ₩4,750), then Line 1 two stops to Jongno 3-ga + 3-min walk (total ~80 min, ~₩6,000); KAL/airport limousine bus #6011 toward Jongno drops near Jongno 3-ga (~70-90 min, ₩18,000); taxi ~60-70 min, ₩70,000-90,000 (incl. toll, more at night). From Gimpo (GMP) — Line 5 direct to Jongno 3-ga, no transfer (~45 min, ₩1,650) + 2-min walk; taxi ~30-40 min, ₩25,000-35,000. Best value from ICN is AREX+Line 1; from GMP the Line 5 direct ride is unbeatable."
  },
  {
   "id": "se-dalmaji",
@@ -447,7 +448,8 @@
    ]
   },
   "photos": [],
-  "notes": "Pin approximate; use Catchtable app for remote waiting. Closing after midnight shown as 25:00/26:00."
+  "notes": "Pin approximate; use Catchtable app for remote waiting. Closing after midnight shown as 25:00/26:00.",
+  "commute": "Metro ~12 min (Line 3 one stop to Euljiro 3-ga Stn Exit 11 + 4-min walk); taxi ~8 min ₩5,500."
  },
  {
   "id": "sz-jiaochangwei",
@@ -3192,7 +3194,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~25 min (Line 3 to Yaksu Stn, transfer to Line 6 to Hangangjin Stn Exit 3 + 8-min walk); taxi ~15 min ₩9,000."
  },
  {
   "id": "gm-niuroumianguan",
@@ -3206,7 +3209,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "5-min walk along Cheonggyecheon; no transit needed (just southwest of the hotel)."
  },
  {
   "id": "gm-kyochon-pilbang",
@@ -3220,7 +3224,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~28 min (Line 3 to Yaksu, transfer Line 6 to Hangangjin Stn Exit 3 + 10-min walk toward Bogwang-ro); taxi ~16 min ₩9,500."
  },
  {
   "id": "gm-bukchon-mandu",
@@ -3234,7 +3239,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "8-min walk into Insadong; no transit needed (it's on Insadong-gil, just northwest of the hotel)."
  },
  {
   "id": "gm-nude-kimbap",
@@ -3248,7 +3254,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "6-min walk east toward Gwangjang Market area; no transit needed."
  },
  {
   "id": "gm-jinmi",
@@ -3262,7 +3269,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~22 min (Line 5 to Gongdeok Stn Exit 5 + 6-min walk); taxi ~18 min ₩11,000."
  },
  {
   "id": "gm-noryangjin",
@@ -3276,7 +3284,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~30 min (Line 1 direct to Noryangjin Stn Exit 1 + 6-min walk via fish-market footbridge); taxi ~20 min ₩13,000."
  },
  {
   "id": "gm-isaac-toast",
@@ -3290,7 +3299,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~13 min (Line 3 one stop to Euljiro 3-ga, or walk; near Myeongdong Cathedral, Exit toward Myeongdong-gil + 5-min walk); taxi ~9 min ₩6,000. Also a brisk ~18-min walk south."
  },
  {
   "id": "gm-gwangjang",
@@ -3304,7 +3314,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "7-min walk east along Jong-ro to Gwangjang Market; no transit needed."
  },
  {
   "id": "gm-bukchangdong-soondubu",
@@ -3318,7 +3329,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 11/12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-eunjujeong",
@@ -3332,7 +3344,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "6-min walk southeast (near Gwangjang Market / Euljiro); no transit needed."
  },
  {
   "id": "gm-hanilgwan",
@@ -3346,7 +3359,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~12 min (Line 1 one stop to Jonggak Stn Exit 1, or walk; near Gwanghwamun + 6-min walk); taxi ~9 min ₩6,000. Also a ~15-min walk west."
  },
  {
   "id": "gm-namsandong-gotgan",
@@ -3360,7 +3374,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~13 min (Line 3 one stop to Euljiro 3-ga Stn Exit 9 + 5-min walk along Samil-daero); taxi ~9 min ₩6,000."
  },
  {
   "id": "gm-golden-farm",
@@ -3374,7 +3389,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk south into Myeongdong); taxi ~11 min ₩7,000."
  },
  {
   "id": "gm-yello-chicken",
@@ -3388,7 +3404,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~26 min (Line 3 to Yaksu, transfer Line 6 to Itaewon Stn Exit 1 + 5-min walk); taxi ~16 min ₩9,500."
  },
  {
   "id": "gm-hanndul-chicken",
@@ -3402,7 +3419,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~24 min (Line 5 to Gongdeok Stn, transfer to Line 6 to Hyochang Park Stn Exit 1 + 7-min walk); taxi ~18 min ₩11,000."
  },
  {
   "id": "gm-dailybeer",
@@ -3416,7 +3434,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-kkanbu",
@@ -3430,7 +3449,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~17 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 9-min walk south into Myeongdong); taxi ~11 min ₩7,000."
  },
  {
   "id": "gm-bbq-star",
@@ -3444,7 +3464,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk into central Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-kyochon-ddm",
@@ -3458,7 +3479,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~14 min (Line 1 two stops to Jongno 5-ga Stn Exit 6 + 4-min walk, near Dongdaemun); taxi ~10 min ₩6,500. Also a ~18-min walk east along Jong-ro."
  },
  {
   "id": "gm-emperor-buffet",
@@ -3472,7 +3494,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 7-min walk into Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-pig-company",
@@ -3486,7 +3509,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~15 min (Line 3 to Euljiro 3-ga Stn Exit 11/12 + 6-min walk into Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-mongvely",
@@ -3500,7 +3524,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~17 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 9-min walk south into Myeongdong); taxi ~11 min ₩7,000."
  },
  {
   "id": "gm-ziu-bbq",
@@ -3514,7 +3539,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~18 min (Line 3 to Chungmuro Stn Exit 1 + 6-min walk toward Toegye-ro, or Euljiro 3-ga + walk); taxi ~11 min ₩7,000."
  },
  {
   "id": "gm-wolhwa",
@@ -3528,7 +3554,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~26 min (Line 5 to Mapo Stn Exit 4 + 6-min walk toward Dohwa-gil); taxi ~20 min ₩12,000."
  },
  {
   "id": "gm-daol",
@@ -3542,7 +3569,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~16 min (Line 3 to Euljiro 3-ga Stn Exit 12 + 8-min walk into Myeongdong); taxi ~10 min ₩6,500."
  },
  {
   "id": "gm-bogwangjung",
@@ -3556,7 +3584,8 @@
   "price": null,
   "hours": null,
   "photos": [],
-  "notes": "From your Google Maps 'Want to go' list."
+  "notes": "From your Google Maps 'Want to go' list.",
+  "commute": "Metro ~27 min (Line 3 to Yaksu, transfer Line 6 to Itaewon Stn Exit 4 + 9-min walk toward Bogwang-ro); taxi ~16 min ₩9,500."
  },
  {
   "id": "gm-shuiwan1979",
