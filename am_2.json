@@ -1,0 +1,132 @@
+[
+{
+"id": "sz-gba",
+"name": "Eyes of the GBA (Bay Area Book City)",
+"addr": "No. 1 Baohua Rd, Bao'an"
+},
+{
+"id": "sz-nick",
+"name": "Nickelodeon Playtime (OCT Harbour)",
+"addr": "Bldg 2-2B, Qushui Bay, OCT Harbour, 2008 Binhai Ave, Nanshan"
+},
+{
+"id": "sz-miniso-cocopark",
+"name": "MINISO (COCO Park flagship)",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian"
+},
+{
+"id": "sz-wanda-longgang",
+"name": "Longgang Wanda Plaza 龙岗万达广场",
+"addr": "1 Huanan 2nd Rd, Pinghu, Longgang"
+},
+{
+"id": "sz-huafa-snow-world",
+"name": "Qianhai Huafa Ice & Snow World (前海·华发冰雪世界)",
+"addr": "Qianhai Bay area, Bao'an"
+},
+{
+"id": "sz-sushiro-1",
+"name": "Sushiro 寿司郎 (Coastal City / 海岸城)",
+"addr": "3F, Coastal City, 33 Wenxin 5th Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-gg-creative",
+"name": "G&G Creative Community 创意社区",
+"addr": "9 Liyuan Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-upperhills",
+"name": "UpperHills 深业上城",
+"addr": "5001 Huanggang Rd, Futian"
+},
+{
+"id": "sz-ah-ma-handmade",
+"name": "Ah Ma Handmade 阿嬷手作",
+"addr": "L4 SL432, The MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-baoan-hunan-noodle",
+"name": "Sheng Xiang Ting 盛香亭 (Happy Harbour)",
+"addr": "B1 food hall (B1北-080-081), Bao'an Happy Harbour East Bank"
+},
+{
+"id": "sz-guan-shanyue",
+"name": "Guan Shanyue Art Museum 关山月美术馆",
+"addr": "6026 Hongli Rd, Futian"
+},
+{
+"id": "sz-guanlan-shanshui",
+"name": "Guanlan Shanshui Eco Water Park 观澜山水田园",
+"addr": "Huanguan South Rd, Guanlan, Longhua"
+},
+{
+"id": "sz-pick-17bread",
+"name": "1-7 Bread 壹柒面包 (Sea World)",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"addr": "Houhai / Coastal City, Nanshan"
+},
+{
+"id": "sz-batiaoyou-1",
+"name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+"addr": "Nanle Yayuan, Nanyou, Yuehai, Nanshan"
+},
+{
+"id": "sz-hk-talentpark",
+"name": "Talent Park 人才公园",
+"addr": "Shenzhen Bay, Houhai, Nanshan"
+},
+{
+"id": "sz-seafood-market",
+"name": "Shekou Seafood Market 蛇口海鲜市场",
+"addr": "49 Yucun Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-skytime",
+"name": "Skytime Trampoline Park 天时蹦床公园",
+"addr": "2 Qiongyu Rd, Science & Technology Park, Nanshan"
+},
+{
+"id": "sz-lib-shufang",
+"name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+"addr": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan"
+},
+{
+"id": "sz-horse-william",
+"name": "William International Equestrian Center 威廉国际马术中心",
+"addr": "4 Haiwan Rd, Value Factory Phase 2, Taizi Bay, Shekou, Nanshan"
+},
+{
+"id": "sz-interactive-yunqi",
+"name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+"addr": "Dongbin Rd, Nanshan (near Nanyou / Dongjiaotou Metro)"
+},
+{
+"id": "sz-teppan-hemu",
+"name": "Hemu Omakase Teppanyaki 禾木鲸生Omakase铁板烧 (海上世界店)",
+"addr": "Tower 17 Phase 1, Bitao Garden, Taizi Rd, Shekou"
+},
+{
+"id": "sz-sichuan-yuyue",
+"name": "Yuyue Sichuan Cuisine 渝月川菜 (海上世界·环船广场)",
+"addr": "Huanchuan Plaza F2, Nüwa Rd, Sea World, Shekou"
+},
+{
+"id": "sz-walk-churrasco-latina",
+"name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
+"addr": "Sea World Zone C, 001-C004, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-clothesmkt-baima",
+"name": "Dongmen Baima Clothing City 东门白马服装城",
+"addr": "Dongmen Old Street, Luohu"
+},
+{
+"id": "sz-fishing-lianghang",
+"name": "Lianghang Sea-Fishing Club 领航海钓 (Bao'an airport pier)",
+"addr": "Airport/Fuyong Ferry Terminal, Bao'an (boats fish Qianhai/Shekou/estuary waters)"
+}
+]

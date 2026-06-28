@@ -1,0 +1,132 @@
+[
+{
+"id": "sz-seg",
+"name": "SEG Electronics Market (Huaqiangbei)",
+"addr": "1002 Huaqiangbei Rd, Futian"
+},
+{
+"id": "sz-xichong",
+"name": "Xichong Beach (西涌)",
+"addr": "Xichong, Nan'ao, Dapeng, Longgang"
+},
+{
+"id": "sz-dongmen-street-food",
+"name": "Dongmen Street food market (东门老街)",
+"addr": "Dongmen Old Street, Luohu"
+},
+{
+"id": "sz-splendid-china",
+"name": "Splendid China Folk Culture Village (锦绣中华)",
+"addr": "9005 Shennan Blvd, OCT, Nanshan"
+},
+{
+"id": "sz-wondermeet",
+"name": "WonderMeet (玩美攻略)",
+"addr": "Century Plaza, 3018 Shennan Middle Rd, Futian"
+},
+{
+"id": "sz-michelin-hunan",
+"name": "Nong Geng Ji 农耕记 (Sea World, Michelin)",
+"addr": "Unit 303, 3F Zone B, Sea World Plaza, Shekou, Nanshan"
+},
+{
+"id": "sz-dental",
+"name": "Dental Bauhinia 紫荆口腔 (Shekou)",
+"addr": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-culture-square",
+"name": "Shenzhen Bay Culture Square 深圳湾文化广场",
+"addr": "2516 Keyuan South Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-spring-patio",
+"name": "Spring Patio 春台餐酒馆",
+"addr": "2F open-air corridor, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-art-museum-new",
+"name": "Shenzhen Art Museum (New)",
+"addr": "30 Tenglong Rd, Minzhi, Longhua"
+},
+{
+"id": "sz-maya-beach",
+"name": "Maya Beach Water Park 玛雅海滩水公园",
+"addr": "Inside Happy Valley, OCT, Nanshan"
+},
+{
+"id": "gm-shuiwan1979",
+"name": "Shuiwan 1979 Plaza 水湾1979",
+"addr": "Zimao Center, Shekou, Nanshan, Shenzhen"
+},
+{
+"id": "sz-pick-longbar",
+"name": "Long Bar (Raffles, One Shenzhen Bay)",
+"addr": "Raffles, One Shenzhen Bay, Houhai, Nanshan"
+},
+{
+"id": "sz-pick-pengxiaoguan",
+"name": "Peng Xiao Guan 鹏小馆 (OCT)",
+"addr": "OCT 华侨城, Nanshan"
+},
+{
+"id": "sz-hk-innate",
+"name": "Innate Ayurveda Spa 印度阿育吠陀",
+"addr": "Seaside Commercial Center, Sea World, Shekou"
+},
+{
+"id": "sz-hk-yewai",
+"name": "Yewai Urban Tea Room 叶外·Urban茶室",
+"addr": "Coastal City / Haian Cheng, Houhai, Nanshan"
+},
+{
+"id": "sz-wooderful",
+"name": "Wooderful Land 木育森林",
+"addr": "L2, Yitian Holiday Plaza 益田假日广场, OCT, Nanshan"
+},
+{
+"id": "sz-lib-shekou",
+"name": "Shekou Yucai Library 南山图书馆蛇口育才分馆",
+"addr": "7 Yucai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-massage-lispa",
+"name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+"addr": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou"
+},
+{
+"id": "sz-pet-shangshan",
+"name": "Shangshan Cat & Dog Cafe 上山狗狗事务所 (南山店)",
+"addr": "Rm 1202, Block B, Min Bldg, Wenxin Rd, Nanshan"
+},
+{
+"id": "sz-interactive-pipi",
+"name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+"addr": "326-109 Fanshen Rd, Bao'an (near Fanshen Metro L5)"
+},
+{
+"id": "sz-teppan-open",
+"name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
+"addr": "1F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd"
+},
+{
+"id": "sz-walk-sushi-kyoto",
+"name": "Hongsong Kyoto Japanese Market 泓松京都板前料理 (K11)",
+"addr": "K11 ECOAST South Bldg L5 504-508, Taizi Bay, Shekou"
+},
+{
+"id": "sz-clothesmkt-nanyou",
+"name": "Nanyou Clothing & Luggage Wholesale 南油服装批发 (飞马城)",
+"addr": "Tian'an Bldg 112, 2087 Nanhai Ave / Feima City 204, Xiangnan Rd, Nanyou, Nanshan"
+},
+{
+"id": "sz-cruise-gba1",
+"name": "Shenzhen Bay Sightseeing Cruise 'Greater Bay Area No.1' 海上看深圳·大湾区一号",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan"
+},
+{
+"id": "sz-xian-3",
+"name": "Da Shi Xiong Shaanxi Noodles 大师兄手工面·西北菜 (海岸城)",
+"addr": "B1, Coastal City Mall, 33 Wenxin 5th Rd, Houhai, Nanshan"
+}
+]

@@ -1,0 +1,72 @@
+[
+{
+"id": "se-dalmaji",
+"name": "Dalmaji Plaza BBQ (달맞이광장)",
+"addr": "Euljiro 3-ga, Jung-gu (~10 min walk from Myeongdong)"
+},
+{
+"id": "gm-niuroumianguan",
+"name": "Niuroumianguan (beef noodle)",
+"addr": "75-2 Cheonggyecheon-ro, Jongno, Seoul"
+},
+{
+"id": "gm-bukchon-mandu",
+"name": "Bukchon Son-mandu",
+"addr": "42-5 Insadong-gil, Jongno, Seoul"
+},
+{
+"id": "gm-jinmi",
+"name": "Jinmi Sikdang",
+"addr": "186-6 Mapo-daero, Mapo, Seoul"
+},
+{
+"id": "gm-isaac-toast",
+"name": "Isaac Toast (Myeongdong Cathedral)",
+"addr": "17-1 Myeongdong 10-gil, Jung, Seoul"
+},
+{
+"id": "gm-bukchangdong-soondubu",
+"name": "BukChangDong Soondubu (Myeongdong)",
+"addr": "Myeongdong, Jung, Seoul"
+},
+{
+"id": "gm-hanilgwan",
+"name": "Hanilgwan Gwanghwamun",
+"addr": "Gwanghwamun, Seoul"
+},
+{
+"id": "gm-golden-farm",
+"name": "Golden Farm",
+"addr": "6 Myeongdong 8na-gil, Jung, Seoul"
+},
+{
+"id": "gm-hanndul-chicken",
+"name": "Hanndul Chicken",
+"addr": "27 Cheongpa-ro 85-gil, Yongsan, Seoul"
+},
+{
+"id": "gm-kkanbu",
+"name": "Kkanbu Chicken (Myeongdong)",
+"addr": "22 Myeongdong 8ga-gil 2F, Jung, Seoul"
+},
+{
+"id": "gm-kyochon-ddm",
+"name": "Kyochon Chicken (Dongdaemun)",
+"addr": "294 Jong-ro, Jongno, Seoul"
+},
+{
+"id": "gm-pig-company",
+"name": "AYCE Pig Company (Myeongdong BBQ)",
+"addr": "44 Myeongdong 3-gil 3F, Jung, Seoul"
+},
+{
+"id": "gm-ziu-bbq",
+"name": "ZIU BBQ",
+"addr": "20 Toegye-ro 18-gil, Jung, Seoul"
+},
+{
+"id": "gm-daol",
+"name": "Daol Charcoal BBQ",
+"addr": "54-2 Myeongdong 2-ga, Jung, Seoul"
+}
+]

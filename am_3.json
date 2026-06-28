@@ -1,0 +1,132 @@
+[
+{
+"id": "sz-scitech",
+"name": "Shenzhen Science & Technology Museum",
+"addr": "No. 8 Guanghui Ave, Guangming"
+},
+{
+"id": "sz-jiaochangwei",
+"name": "Jiaochangwei Beach (较场尾)",
+"addr": "Jiaochangwei, Dapeng, Longgang"
+},
+{
+"id": "sz-lego-cocopark",
+"name": "LEGO Store (COCO Park)",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian"
+},
+{
+"id": "sz-nantou-1820",
+"name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+"addr": "By Baode Square, Nantou Ancient City, Nanshan"
+},
+{
+"id": "sz-mocape",
+"name": "MOCAPE (当代艺术与城市规划馆)",
+"addr": "184 Fuzhong Rd, Lianhua, Futian"
+},
+{
+"id": "sz-haidilao-1",
+"name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+"addr": "NL309-310, Baoneng Taikoo City, 2233 Zhongxin Rd, Nanshan"
+},
+{
+"id": "sz-nanhai-yiku",
+"name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+"addr": "6 Xinghua Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-24histories-academy",
+"name": "24 Histories Academy 二十四史书院",
+"addr": "Gankeng Ancient Town (north), Longgang"
+},
+{
+"id": "sz-gif-coffee",
+"name": "GIF Coffee 集福咖啡",
+"addr": "A106, Bldg 541, Bagualing Industrial Zone, Futian"
+},
+{
+"id": "sz-shieyuan",
+"name": "Shiheyuan 柿合缘 新京菜",
+"addr": "L2 NL219, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-museum-history",
+"name": "Shenzhen Museum (History & Folk Culture)",
+"addr": "Fuzhong 3rd Rd, Civic Center, Futian"
+},
+{
+"id": "sz-xinggaodu",
+"name": "Xinggaodu Dream Water World 星高度梦想水世界",
+"addr": "Yunli Dream Park, Fada Rd, Bantian, Longgang"
+},
+{
+"id": "sz-pick-dananshan",
+"name": "Dananshan Park 大南山公园",
+"addr": "Dananshan, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-crabxingji",
+"name": "Crab Xingji 蟹兴记",
+"addr": "Houhai / Coastal City, Nanshan"
+},
+{
+"id": "sz-batiaoyou-2",
+"name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+"addr": "Snow BREWTOWN Beer Town, EL134, Xin'an, Bao'an"
+},
+{
+"id": "sz-hk-bollywood",
+"name": "Bollywood Cafe 宝莱坞印度餐厅",
+"addr": "Poly Cultural Centre, Houhai, Nanshan"
+},
+{
+"id": "sz-bell-nature",
+"name": "Bell Nature Exploration Center 贝尔自然探索中心",
+"addr": "Sea World Zone D / Bow Plaza, Shekou, Nanshan"
+},
+{
+"id": "sz-chess-pengcheng",
+"name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+"addr": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave"
+},
+{
+"id": "sz-lib-egret",
+"name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
+"addr": "Egret Slope, Shenzhen Bay Park, Nanshan"
+},
+{
+"id": "sz-pet-k11cat",
+"name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
+"addr": "8F North Building, K11 ECOAST, 61 Taizi Bay Rd, Shekou"
+},
+{
+"id": "sz-interactive-skg",
+"name": "SKG Shrimp-Fishing Hall SKG娱乐钓虾馆",
+"addr": "Yilida Bldg Block B, Nanshan Ave, Nanshan (Line 11)"
+},
+{
+"id": "sz-teppan-wangshunge",
+"name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
+"addr": "Bldg 1-305, Sea World Stern Plaza, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-sichuan-tanyu",
+"name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
+"addr": "Sea World F1, Huanchuan Plaza, Shekou"
+},
+{
+"id": "sz-xian-laowanhui",
+"name": "Lao Wan Hui Shaanxi Noodles 老碗会 (海上世界汇港)",
+"addr": "Hui Gang Phase 1, L1-16/17, 1 Gongye 3rd Rd, Sea World, Shekou"
+},
+{
+"id": "sz-toymkt-jinya",
+"name": "Jinya Toy & Stationery Wholesale Market 金雅文具玩具批发市场",
+"addr": "Guimiao W Rd, Fuhaiyuan 1-2F, Nanshan (near Daxin Metro)"
+},
+{
+"id": "sz-fishing-nanao",
+"name": "Nan'ao Fish-Raft Sea Fishing 南澳鱼排海钓 (Dapeng)",
+"addr": "Xiexia Pier / Nan'ao Fishing Harbour, Dapeng"
+}
+]

@@ -1,0 +1,132 @@
+[
+{
+"id": "sz-stay",
+"name": "Our stay · Coastal Rose Garden",
+"addr": "Bldg 2A, Coastal Rose Garden, 3 Jinshiji Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-k33",
+"name": "K33 Discovery Farm",
+"addr": "Guangming Happy Garden, Zhenyuan Rd, Guangming"
+},
+{
+"id": "sz-xili-fruit-farm",
+"name": "Xili Fruit Farm — Litchi World (西丽果场)",
+"addr": "Litchi World, Shahe West Rd (north), Xili, Nanshan"
+},
+{
+"id": "sz-one-avenue",
+"name": "One Avenue 卓悦中心",
+"addr": "Fuhua 1st Rd, Gangxia, Futian"
+},
+{
+"id": "sz-happy-harbour",
+"name": "Bao'an Happy Harbour & Bay Glory wheel (宝安欢乐港湾)",
+"addr": "Jia'an Rd, Bao'an Central, Xin'an"
+},
+{
+"id": "sz-kpfun",
+"name": "KP-FUN Trendy Play Street (AR karting)",
+"addr": "3F, C Future City, 9283 Binhe Ave, Futian"
+},
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"addr": "Shekou / Sea World area, Nanshan"
+},
+{
+"id": "sz-zhongshuge",
+"name": "Zhongshuge Bookstore 钟书阁",
+"addr": "East Bank L1-021, Happy Coast (欢乐港湾), Bao'an"
+},
+{
+"id": "sz-shiopon",
+"name": "Shiopon (salt-bread bakery)",
+"addr": "L1 CL120, Shenzhen Bay MixC (深圳湾万象城), Nanshan"
+},
+{
+"id": "sz-bay-chef-fei",
+"name": "The Bay by Chef Fei 东湾",
+"addr": "1F, Mandarin Oriental, Block A UpperHills, 5001 Huanggang Rd, Futian"
+},
+{
+"id": "sz-he-xiangning",
+"name": "He Xiangning Art Museum",
+"addr": "9013 Shennan Blvd, OCT, Nanshan"
+},
+{
+"id": "sz-dameisha",
+"name": "Dameisha Seaside Park 大梅沙海滨公园",
+"addr": "33 Yanmei Rd, Yantian"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-24qi",
+"name": "24気 Art & Life Space 24气艺文生活空间",
+"addr": "Houhai, Shenzhen Bay, Nanshan"
+},
+{
+"id": "sz-pick-octloft",
+"name": "OCT-LOFT 华侨城创意文化园",
+"addr": "OCT 华侨城, Nanshan"
+},
+{
+"id": "sz-hk-houhaihui",
+"name": "Houhaihui 后海汇",
+"addr": "Houhai, Nanshan"
+},
+{
+"id": "sz-nantou-makers",
+"name": "Nantou Ancient City maker district 南头古城主理人街区",
+"addr": "Nantou Ancient City, Nanshan"
+},
+{
+"id": "sz-disiyuansu",
+"name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
+"addr": "G floor atrium, O'PLAZA, OCT Harbour, Nanshan"
+},
+{
+"id": "sz-lib-nanshan",
+"name": "Nanshan District Library (main) 南山图书馆总馆",
+"addr": "176 Changxing Rd, Nanshan (Metro Line 1 Taoyuan, Exit B)"
+},
+{
+"id": "sz-massage-ispa",
+"name": "iSpa at Hilton Shekou Nanhai 蛇口希尔顿南海酒店iSpa",
+"addr": "3F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd"
+},
+{
+"id": "sz-pet-supaw",
+"name": "SUPAW HUB (Raffles City) 深圳来福士店",
+"addr": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan"
+},
+{
+"id": "sz-teppan-tairyo",
+"name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
+"addr": "L2-208, Bldg 1 Zone B, Sea World, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-gelato-creamstory",
+"name": "Cream Story Italian Gelato 可丽牧手工冰淇淋 (南海意库)",
+"addr": "3-3/3-4 Xinghua 1st Rd, Nanhai Yiku, Shekou, Nanshan"
+},
+{
+"id": "sz-walk-ramen-sumo",
+"name": "Sumo Ramen 相扑拉面 (K11)",
+"addr": "K11 ECOAST South Bldg L5 SL516, Taizi Bay, Shekou"
+},
+{
+"id": "sz-clothesmkt-womensworld",
+"name": "Women's World 女人世界 (华强北)",
+"addr": "Huaqiangbei Rd / Zhenhua Rd, Futian"
+},
+{
+"id": "sz-cruise-bridge",
+"name": "HK-Zhuhai-Macau Bridge Sea Cruise 港珠澳大桥海上游",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan"
+}
+]

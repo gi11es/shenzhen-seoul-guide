@@ -1,0 +1,132 @@
+[
+{
+"id": "sz-nathist",
+"name": "Shenzhen Natural History Museum",
+"addr": "Pingshan District"
+},
+{
+"id": "sz-dapeng-fortress",
+"name": "Dapeng Fortress / Ancient City (大鹏所城)",
+"addr": "Nanmen West Rd, Pengcheng, Dapeng, Longgang"
+},
+{
+"id": "sz-central-book-city",
+"name": "Shenzhen Book City — Central (中心城)",
+"addr": "2014 Fuzhong 1st Rd, Futian"
+},
+{
+"id": "sz-safari-park",
+"name": "Shenzhen Safari Park (深圳野生动物园)",
+"addr": "4065 Xilihu Rd, Xili, Nanshan"
+},
+{
+"id": "sz-dafen",
+"name": "Dafen Oil Painting Village (大芬油画村)",
+"addr": "Dafen, Buji, Longgang"
+},
+{
+"id": "sz-haidilao-2",
+"name": "Haidilao 海底捞 (Hanjing Center)",
+"addr": "3F, Hanjing Center, 23 Dengliang Rd, Houhai, Nanshan"
+},
+{
+"id": "sz-seaworld-fountain",
+"name": "Sea World Music Fountain Show 音乐喷泉",
+"addr": "Water plaza by the Minghua ship, Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-hongqiao-park",
+"name": "Hongqiao Park 虹桥公园 (red skywalk)",
+"addr": "Kelin Rd / Chalin Rd, Guangming"
+},
+{
+"id": "sz-yuan-gu",
+"name": "Yuangu 元古云境",
+"addr": "NL115A, The Lane, MixC World (万象天地), Nanshan"
+},
+{
+"id": "sz-seaworld-cac",
+"name": "Sea World Culture & Arts Center (Design Society)",
+"addr": "1187 Wanghai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-aqila-spa",
+"name": "Aqila Hot Spring Spa 阿奇拉汤泉生活",
+"addr": "Floors 2-3, Tianxia Jinniu Plaza, Taoyuan Rd, Nanshan"
+},
+{
+"id": "sz-haibei-bay",
+"name": "Haibei Bay 海贝湾 (Shenzhen's Santorini)",
+"addr": "Haibin Rd, Nan'ao, Dapeng"
+},
+{
+"id": "sz-pick-mekong",
+"name": "Mekong River Sports Town 湄南河体育小镇",
+"addr": "Haiwan Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-pick-nanshan-museum",
+"name": "Nanshan Museum 南山博物馆",
+"addr": "Nanshan center, Taoyuan, Nanshan"
+},
+{
+"id": "sz-hk-k11ecoast",
+"name": "K11 ECOAST 深圳K11 ECOAST",
+"addr": "Taizi Bay / Prince Bay, Shekou, Nanshan"
+},
+{
+"id": "sz-hk-xiesanbao",
+"name": "Xie San Bao 蟹三宝",
+"addr": "Nanshan"
+},
+{
+"id": "sz-meland",
+"name": "Meland Club (MixC World) 美兰湖儿童乐园",
+"addr": "3F SL382, MixC World 万象天地, 9668 Shennan Blvd, Nanshan"
+},
+{
+"id": "sz-chess-zhiteng",
+"name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+"addr": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)"
+},
+{
+"id": "sz-massage-lesbobos",
+"name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
+"addr": "Shuangxi Garden Phase 1, 113-114, Wanghai Rd, Sea World, Shekou"
+},
+{
+"id": "sz-pet-puppy",
+"name": "Puppy Goes to Work Dog Cafe 小狗上班狗咖",
+"addr": "53-2 Jinji Rd, Nanshan (opposite Joy City)"
+},
+{
+"id": "sz-interactive-qingqing",
+"name": "Qingqing World eco-park 青青世界",
+"addr": "1 Qingqing Rd, Yueliangwan, Nanshan (foot of Dananshan)"
+},
+{
+"id": "sz-teppan-kyoku",
+"name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+"addr": "K11 ECOAST waterfront food market, Taizi Bay, Shekou"
+},
+{
+"id": "sz-walk-sushi-dragon",
+"name": "Dragon Sake Bar Izakaya 龙酒场居酒屋",
+"addr": "Sea World Zone A, L1, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-xian-tanqinji",
+"name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
+"addr": "Huaguoshan Bldg A/B, Unit 103, Shekou, Nanshan"
+},
+{
+"id": "sz-toymkt-sungang",
+"name": "Sungang Toy & Gift Wholesale Market 笋岗文具玩具礼品批发市场",
+"addr": "2033 Bao'an N Rd, Sungang, Luohu (near Sungang Metro, Line 7)"
+},
+{
+"id": "sz-fishing-7star",
+"name": "Seven-Star Bay Yacht Fishing 七星湾游艇海钓 (Dapeng)",
+"addr": "Seven-Star Bay Marina, Dongshan, Dapeng"
+}
+]

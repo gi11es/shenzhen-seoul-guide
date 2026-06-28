@@ -1,0 +1,77 @@
+[
+{
+"id": "se-stay",
+"name": "Our stay · Amare Hotel Jongno",
+"addr": "7 Supyo-ro 22-gil, Jongno-gu"
+},
+{
+"id": "gm-changhwadang",
+"name": "Changhwadang 창화당 (Hannam)",
+"addr": "683-57 Hannam-dong, Yongsan, Seoul"
+},
+{
+"id": "gm-kyochon-pilbang",
+"name": "Kyochon Pilbang",
+"addr": "127 Bogwang-ro, Yongsan, Seoul"
+},
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"addr": "Jongno, Seoul"
+},
+{
+"id": "gm-noryangjin",
+"name": "Noryangjin Fisheries Market",
+"addr": "674 Nodeul-ro, Dongjak, Seoul"
+},
+{
+"id": "gm-gwangjang",
+"name": "Gwangjang Market",
+"addr": "88 Changgyeonggung-ro, Jongno, Seoul"
+},
+{
+"id": "gm-eunjujeong",
+"name": "Eunjujeong",
+"addr": "32 Changgyeonggung-ro 8-gil, Jung, Seoul"
+},
+{
+"id": "gm-namsandong-gotgan",
+"name": "Namsandong Gotgan 남산동곳간",
+"addr": "343 Samil-daero 2F, Jung, Seoul"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"addr": "132-23 Itaewon-dong, Yongsan, Seoul"
+},
+{
+"id": "gm-dailybeer",
+"name": "Dailybeer 생활맥주 (Myeongdong)",
+"addr": "Myeongdong 7-gil, Jung, Seoul"
+},
+{
+"id": "gm-bbq-star",
+"name": "BBQ Chicken Myeongdong Star",
+"addr": "2 Myeongdong 4-gil, Jung, Seoul"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"addr": "207 Myeongdong 7-gil 2F, Jung, Seoul"
+},
+{
+"id": "gm-mongvely",
+"name": "Myeongdong Mongvely",
+"addr": "9 Myeongdong 8na-gil 3F, Jung, Seoul"
+},
+{
+"id": "gm-wolhwa",
+"name": "Wolhwa Sikdang",
+"addr": "29 Dohwa-gil, Mapo, Seoul"
+},
+{
+"id": "gm-bogwangjung",
+"name": "Bogwangjung",
+"addr": "118 Bogwang-ro 1F, Yongsan, Seoul"
+}
+]

@@ -1,0 +1,47 @@
+[
+{
+"id": "hk-uniqlo-utme",
+"name": "UNIQLO Lee Theatre — UTme! custom tee",
+"addr": "G/F, B1 & B2, Lee Theatre, 99 Percival St, Causeway Bay"
+},
+{
+"id": "gm-cafe-de-coral",
+"name": "Café de Coral (Admiralty)",
+"addr": "18 Harcourt Rd, Admiralty, Hong Kong"
+},
+{
+"id": "gm-bird-market",
+"name": "Yuen Po Bird Market",
+"addr": "Flower Market Rd, Mong Kok, Hong Kong"
+},
+{
+"id": "gm-cat-street",
+"name": "Cat Street (Upper Lascar Row)",
+"addr": "Upper Lascar Row, Sheung Wan, Hong Kong"
+},
+{
+"id": "gm-ssp-toy-street",
+"name": "Sham Shui Po Toy Street",
+"addr": "Fuk Wing St, Sham Shui Po, Hong Kong"
+},
+{
+"id": "gm-graham-market",
+"name": "Graham Street Market",
+"addr": "Gage St / Graham St, Central, Hong Kong"
+},
+{
+"id": "gm-wanchai-toy-street",
+"name": "Tai Yuen Toy Street (Wan Chai)",
+"addr": "Tai Yuen St, Wan Chai, Hong Kong"
+},
+{
+"id": "gm-hk-maritime",
+"name": "Hong Kong Maritime Museum",
+"addr": "Central Pier 8, Hong Kong"
+},
+{
+"id": "gm-hk-zoo-botanical",
+"name": "HK Zoological & Botanical Gardens",
+"addr": "Albany Rd, Central, Hong Kong"
+}
+]
