@@ -1,0 +1,93 @@
+[
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Shekou / Sea World area, Nanshan"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"city": "SEOUL",
+"cat": "food",
+"addr": "132-23 Itaewon-dong, Yongsan, Seoul"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"city": "SEOUL",
+"cat": "food",
+"addr": "207 Myeongdong 7-gil 2F, Jung, Seoul"
+},
+{
+"id": "sz-bell-nature",
+"name": "Bell Nature Exploration Center 贝尔自然探索中心",
+"city": "SZ",
+"cat": "kids",
+"addr": "Sea World Zone D / Bow Plaza, Shekou, Nanshan"
+},
+{
+"id": "sz-disiyuansu",
+"name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
+"city": "SZ",
+"cat": "kids",
+"addr": "G floor atrium, O'PLAZA, OCT Harbour, Nanshan"
+},
+{
+"id": "sz-chess-zhiteng",
+"name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids",
+"addr": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)"
+},
+{
+"id": "sz-lib-shufang",
+"name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+"city": "SZ",
+"cat": "culture",
+"addr": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan"
+},
+{
+"id": "sz-massage-lispa",
+"name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+"city": "SZ",
+"cat": "services",
+"addr": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou"
+},
+{
+"id": "sz-horse-xililake",
+"name": "Xili Lake Resort Riding 西丽湖度假村骑马",
+"city": "SZ",
+"cat": "kids",
+"addr": "Xili Lake Resort, Xili Lake Rd, Nanshan"
+},
+{
+"id": "sz-pet-shangshan",
+"name": "Shangshan Cat & Dog Cafe 上山狗狗事务所 (南山店)",
+"city": "SZ",
+"cat": "kids",
+"addr": "Rm 1202, Block B, Min Bldg, Wenxin Rd, Nanshan"
+},
+{
+"id": "sz-interactive-skg",
+"name": "SKG Shrimp-Fishing Hall SKG娱乐钓虾馆",
+"city": "SZ",
+"cat": "food",
+"addr": "Yilida Bldg Block B, Nanshan Ave, Nanshan (Line 11)"
+},
+{
+"id": "sz-teppan-tairyo",
+"name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
+"city": "SZ",
+"cat": "food",
+"addr": "L2-208, Bldg 1 Zone B, Sea World, 1128 Wanghai Rd, Shekou"
+},
+{
+"id": "sz-teppan-kyoku",
+"name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+"city": "SZ",
+"cat": "food",
+"addr": "K11 ECOAST waterfront food market, Taizi Bay, Shekou"
+}
+]

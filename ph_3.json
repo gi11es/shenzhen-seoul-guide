@@ -1,0 +1,86 @@
+[
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"city": "SEOUL",
+"cat": "food",
+"addr": "Jongno, Seoul"
+},
+{
+"id": "gm-bbq-star",
+"name": "BBQ Chicken Myeongdong Star",
+"city": "SEOUL",
+"cat": "food",
+"addr": "2 Myeongdong 4-gil, Jung, Seoul"
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"city": "SZ",
+"cat": "cafe",
+"addr": "Houhai / Coastal City, Nanshan"
+},
+{
+"id": "sz-wooderful",
+"name": "Wooderful Land 木育森林",
+"city": "SZ",
+"cat": "kids",
+"addr": "L2, Yitian Holiday Plaza 益田假日广场, OCT, Nanshan"
+},
+{
+"id": "sz-chess-pengcheng",
+"name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids",
+"addr": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave"
+},
+{
+"id": "sz-lib-nanshan",
+"name": "Nanshan District Library (main) 南山图书馆总馆",
+"city": "SZ",
+"cat": "culture",
+"addr": "176 Changxing Rd, Nanshan (Metro Line 1 Taoyuan, Exit B)"
+},
+{
+"id": "sz-massage-lesbobos",
+"name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
+"city": "SZ",
+"cat": "services",
+"addr": "Shuangxi Garden Phase 1, 113-114, Wanghai Rd, Sea World, Shekou"
+},
+{
+"id": "sz-horse-william",
+"name": "William International Equestrian Center 威廉国际马术中心",
+"city": "SZ",
+"cat": "kids",
+"addr": "4 Haiwan Rd, Value Factory Phase 2, Taizi Bay, Shekou, Nanshan"
+},
+{
+"id": "sz-pet-puppy",
+"name": "Puppy Goes to Work Dog Cafe 小狗上班狗咖",
+"city": "SZ",
+"cat": "kids",
+"addr": "53-2 Jinji Rd, Nanshan (opposite Joy City)"
+},
+{
+"id": "sz-interactive-yunqi",
+"name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Dongbin Rd, Nanshan (near Nanyou / Dongjiaotou Metro)"
+},
+{
+"id": "sz-interactive-pipi",
+"name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+"city": "SZ",
+"cat": "food",
+"addr": "326-109 Fanshen Rd, Bao'an (near Fanshen Metro L5)"
+},
+{
+"id": "sz-teppan-wangshunge",
+"name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Bldg 1-305, Sea World Stern Plaza, 1128 Wanghai Rd, Shekou"
+}
+]

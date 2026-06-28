@@ -4833,26 +4833,6 @@
   "notes": "Ponies for the 4yo and bigger horses for your pony-riding daughter. Trial/experience rides (not membership-only); call to book a 小马 trial + a proper ride. Also +852 5527 8767 (WhatsApp)."
  },
  {
-  "id": "sz-horse-xililake",
-  "city": "SZ",
-  "category": "kids",
-  "name": "Xili Lake Resort Riding 西丽湖度假村骑马",
-  "lat": 22.5985,
-  "lng": 113.9852,
-  "address": "Xili Lake Resort, Xili Lake Rd, Nanshan",
-  "desc": "Resort with ~200 horses offering casual pay-per-hour riding out toward the nearby lychee groves, relaxed trail/lead riding rather than a formal lesson.",
-  "price": {
-   "amount": 250,
-   "cur": "CNY",
-   "note": "~¥250 per hour"
-  },
-  "hours": null,
-  "photos": [],
-  "phone": "0755-26511888",
-  "commute": "~35-40 min from Shekou.",
-  "notes": "A 4yo rides led by a handler; workable for your confident pony-riding daughter too. Drop-in pay-as-you-go, outdoor. Confirm pony availability by phone."
- },
- {
   "id": "sz-pet-k11cat",
   "city": "SZ",
   "category": "kids",
@@ -5299,5 +5279,578 @@
   "phone": "",
   "commute": "~8 min from Shekou.",
   "notes": "Kids can walk up and watch chefs at the live stations and pick what they want, lower-key than a flip-show but very kid-flexible. Tripadvisor well-rated."
+ },
+ {
+  "id": "sz-gelato-creamstory",
+  "city": "SZ",
+  "category": "cafe",
+  "name": "Cream Story Italian Gelato 可丽牧手工冰淇淋 (南海意库)",
+  "lat": 22.4818,
+  "lng": 113.9163,
+  "address": "3-3/3-4 Xinghua 1st Rd, Nanhai Yiku, Shekou, Nanshan",
+  "desc": "Artisanal Italian gelato made fresh daily with 24+ rotating flavours (HK fresh milk, imported pistachio/hazelnut). One of Shenzhen's earliest boutique gelaterias; free tasting before you buy.",
+  "price": {
+   "amount": 46,
+   "cur": "CNY",
+   "note": "per person; single scoop ~¥30-40"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [
+   "https://dimg04.c-ctrip.com/images/01A5y120009fjd4je75ED_D_750_450_Q90.jpg",
+   "https://dimg04.c-ctrip.com/images/01A0s120009fjee2g4123_D_750_450_Q90.jpg",
+   "https://dimg04.c-ctrip.com/images/1me0t12000qmadhq76723_D_750_450_Q90.jpg"
+  ],
+  "phone": "13392418737",
+  "commute": "~6-7 min walk (~450 m) from the apartment, just past Sea World toward Nanhai Yiku.",
+  "notes": "Cream Story brand is consistently Dianping 4.5+; this Yiku branch is newer."
+ },
+ {
+  "id": "sz-sichuan-yuyue",
+  "city": "SZ",
+  "category": "food",
+  "name": "Yuyue Sichuan Cuisine 渝月川菜 (海上世界·环船广场)",
+  "lat": 22.482,
+  "lng": 113.9186,
+  "address": "Huanchuan Plaza F2, Nüwa Rd, Sea World, Shekou",
+  "desc": "Polished Chongqing-Sichuan restaurant on Dianping's 必吃榜 (Must-Eat List): oil-poured boiling fish (油泼沸腾鱼), saliva chicken, 水煮牛肉 and 辣子鸡. Good for group dinners.",
+  "price": {
+   "amount": 85,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "13480171607",
+  "commute": "~7 min walk (~500 m) from the apartment.",
+  "notes": "Dianping 必吃榜 Sichuan, sibling branches ~4.4-4.5."
+ },
+ {
+  "id": "sz-sichuan-tanyu",
+  "city": "SZ",
+  "category": "food",
+  "name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
+  "lat": 22.4822,
+  "lng": 113.9183,
+  "address": "Sea World F1, Huanchuan Plaza, Shekou",
+  "desc": "Well-known Sichuan-style grilled-fish (烤鱼) chain on Dianping's 必吃榜: signature fresh green-pepper numbing grilled fish (鲜青椒爽麻烤鱼) and 毛血旺烤鱼. A spicy, shareable meal.",
+  "price": {
+   "amount": 90,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~7 min walk (~480 m) from the apartment.",
+  "notes": "Dianping 必吃榜 grilled-fish chain."
+ },
+ {
+  "id": "sz-walk-sushi-dragon",
+  "city": "SZ",
+  "category": "food",
+  "name": "Dragon Sake Bar Izakaya 龙酒场居酒屋",
+  "lat": 22.4828,
+  "lng": 113.915,
+  "address": "Sea World Zone A, L1, 1128 Wanghai Rd, Shekou",
+  "desc": "Low-key Japanese izakaya run by a Nagoya native: well-regarded salmon sashimi, hand-rolled sushi, tempura and Kansai sukiyaki, with a deep sake list. The most solid walkable sushi/日料 at Sea World.",
+  "price": {
+   "amount": 160,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "+86 755 2161 7035",
+  "commute": "~6 min walk from the apartment.",
+  "notes": "Dianping 4.4 / TripAdvisor 4.0. Izakaya style, not an omakase counter."
+ },
+ {
+  "id": "sz-walk-sushi-kyoto",
+  "city": "SZ",
+  "category": "food",
+  "name": "Hongsong Kyoto Japanese Market 泓松京都板前料理 (K11)",
+  "lat": 22.4781,
+  "lng": 113.9082,
+  "address": "K11 ECOAST South Bldg L5 504-508, Taizi Bay, Shekou",
+  "desc": "Kyoto-style Japanese 'market' of nine counter-cooking (板前) stalls in the new K11 ECOAST: sushi, sashimi, tempura, teppanyaki and skewers prepared in front of you. The upscale walkable sushi option.",
+  "price": {
+   "amount": 190,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~15 min walk from the apartment (edge of range).",
+  "notes": "New (K11 ECOAST, opened Apr 2025); reviews still settling."
+ },
+ {
+  "id": "sz-walk-ramen-sumo",
+  "city": "SZ",
+  "category": "food",
+  "name": "Sumo Ramen 相扑拉面 (K11)",
+  "lat": 22.4781,
+  "lng": 113.908,
+  "address": "K11 ECOAST South Bldg L5 SL516, Taizi Bay, Shekou",
+  "desc": "Hakata-style tonkotsu ramen specialist in K11 ECOAST; signature spicy sesame tonkotsu (招牌辣麻豚骨拉面) with a rich pork-bone broth. The nearest genuine ramen-ya to the apartment.",
+  "price": {
+   "amount": 70,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~15 min walk from the apartment (edge of range).",
+  "notes": "New K11 venue. Older fallback: 歌志軒 Komachi Nagoya ramen, 招商花园城 (~1.5 km)."
+ },
+ {
+  "id": "sz-walk-churrasco-latina",
+  "city": "SZ",
+  "category": "food",
+  "name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
+  "lat": 22.4824,
+  "lng": 113.9151,
+  "address": "Sea World Zone C, 001-C004, 1128 Wanghai Rd, Shekou",
+  "desc": "Genuine Brazilian churrasco rodízio: skewers of beef, pork and seafood carved tableside plus a full Brazilian buffet (salads, pastas, desserts). Terrace tables catch the Sea World fountain show. The one real Brazilian BBQ in walking distance.",
+  "price": {
+   "amount": 287,
+   "cur": "CNY",
+   "note": "per person, all-you-can-eat"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "15:00"
+    ],
+    [
+     "17:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "15:00"
+    ],
+    [
+     "17:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "15:00"
+    ],
+    [
+     "17:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "15:00"
+    ],
+    [
+     "17:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "15:00"
+    ],
+    [
+     "17:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "15:30"
+    ],
+    [
+     "17:00",
+     "22:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "+86 755 2667 7679",
+  "commute": "~6 min walk from the apartment.",
+  "notes": "Dianping 4.3 (just under 4.5 but the only walkable Brazilian BBQ). China churrasco pioneer since 1998."
+ },
+ {
+  "id": "sz-xian-laowanhui",
+  "city": "SZ",
+  "category": "food",
+  "name": "Lao Wan Hui Shaanxi Noodles 老碗会 (海上世界汇港)",
+  "lat": 22.4862,
+  "lng": 113.9168,
+  "address": "Hui Gang Phase 1, L1-16/17, 1 Gongye 3rd Rd, Sea World, Shekou",
+  "desc": "Shaanxi big-bowl (老碗) noodle house: biangbiang面, oil-splashed 油泼面, 臊子面 and 肉夹馍. Right inside the Sea World Hui Gang mall, the closest Shaanxi option to the apartment.",
+  "price": {
+   "amount": 43,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "0755-21625714",
+  "commute": "~1-2 min walk (~80 m), inside Sea World Hui Gang.",
+  "notes": "Amap 4.5."
+ },
+ {
+  "id": "sz-xian-tanqinji",
+  "city": "SZ",
+  "category": "food",
+  "name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
+  "lat": 22.492,
+  "lng": 113.92,
+  "address": "Huaguoshan Bldg A/B, Unit 103, Shekou, Nanshan",
+  "desc": "A dedicated 陕西面馆 specializing in Shaanxi noodles (biangbiang / 油泼面) and 肉夹馍. The nearest purpose-built Shaanxi noodle restaurant, a bit inland from Sea World.",
+  "price": {
+   "amount": 51,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "15989522861",
+  "commute": "~15 min walk (~1.2 km) from the apartment.",
+  "notes": "Amap 4.3. Coords approximate."
+ },
+ {
+  "id": "sz-clothesmkt-nanyou",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Nanyou Clothing & Luggage Wholesale 南油服装批发 (飞马城)",
+  "lat": 22.5024,
+  "lng": 113.9268,
+  "address": "Tian'an Bldg 112, 2087 Nanhai Ave / Feima City 204, Xiangnan Rd, Nanyou, Nanshan",
+  "desc": "Sprawling foreign-trade (外贸原单/尾货) clothing wholesale district of 10+ buildings, Chinese brands and Euro/Japanese/Korean knockoff-style fashion, plus a dedicated luggage (箱包) section. Wholesale prices, single pieces OK, gritty market vibe.",
+  "price": {
+   "amount": 50,
+   "cur": "CNY",
+   "note": "bargain wholesale; tops ~¥30-150, haggle"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "19:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~12 min from Shekou (Metro Nanyou, Line 9/12).",
+  "notes": "This is the clothes + luggage market you recall (飞马城204栋 服装箱包批发). Bargaining expected; busiest afternoons. Not a mall."
+ },
+ {
+  "id": "sz-clothesmkt-womensworld",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Women's World 女人世界 (华强北)",
+  "lat": 22.5447,
+  "lng": 114.0852,
+  "address": "Huaqiangbei Rd / Zhenhua Rd, Futian",
+  "desc": "Multi-floor warren of small stalls aimed at women: clothing, lingerie, sleepwear, leather goods and cosmetics, mid-to-low budget fast fashion (~¥30-80). Crowded, haggle-friendly.",
+  "price": {
+   "amount": 50,
+   "cur": "CNY",
+   "note": "bargain ~¥30-80"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~25-30 min from Shekou.",
+  "notes": "Cheap Chinese-brand women's clothing; bargaining expected."
+ },
+ {
+  "id": "sz-clothesmkt-baima",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Dongmen Baima Clothing City 东门白马服装城",
+  "lat": 22.5471,
+  "lng": 114.118,
+  "address": "Dongmen Old Street, Luohu",
+  "desc": "Shenzhen's largest and most influential clothing wholesale/retail market, 6 floors (B1-5F): trendy women's wear (2F), menswear (3-4F), foreign-trade goods (5F). Very cheap, huge variety, busy old-street vibe.",
+  "price": {
+   "amount": 40,
+   "cur": "CNY",
+   "note": "bargain wholesale"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~35-40 min from Shekou (Metro Dongmen, Line 3), edge of range.",
+  "notes": "Cheap Chinese-brand + foreign-trade clothes; bargaining expected. Cheapest early morning."
  }
 ]

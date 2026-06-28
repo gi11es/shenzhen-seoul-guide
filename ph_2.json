@@ -1,0 +1,93 @@
+[
+{
+"id": "sz-dental",
+"name": "Dental Bauhinia 紫荆口腔 (Shekou)",
+"city": "SZ",
+"cat": "services",
+"addr": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan"
+},
+{
+"id": "gm-hanndul-chicken",
+"name": "Hanndul Chicken",
+"city": "SEOUL",
+"cat": "food",
+"addr": "27 Cheongpa-ro 85-gil, Yongsan, Seoul"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"city": "SZ",
+"cat": "food",
+"addr": "Sea World, Shekou, Nanshan"
+},
+{
+"id": "sz-meland",
+"name": "Meland Club (MixC World) 美兰湖儿童乐园",
+"city": "SZ",
+"cat": "kids",
+"addr": "3F SL382, MixC World 万象天地, 9668 Shennan Blvd, Nanshan"
+},
+{
+"id": "sz-skytime",
+"name": "Skytime Trampoline Park 天时蹦床公园",
+"city": "SZ",
+"cat": "kids",
+"addr": "2 Qiongyu Rd, Science & Technology Park, Nanshan"
+},
+{
+"id": "sz-lib-shekou",
+"name": "Shekou Yucai Library 南山图书馆蛇口育才分馆",
+"city": "SZ",
+"cat": "culture",
+"addr": "7 Yucai Rd, Shekou, Nanshan"
+},
+{
+"id": "sz-lib-egret",
+"name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
+"city": "SZ",
+"cat": "culture",
+"addr": "Egret Slope, Shenzhen Bay Park, Nanshan"
+},
+{
+"id": "sz-massage-ispa",
+"name": "iSpa at Hilton Shekou Nanhai 蛇口希尔顿南海酒店iSpa",
+"city": "SZ",
+"cat": "services",
+"addr": "3F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd"
+},
+{
+"id": "sz-pet-k11cat",
+"name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
+"city": "SZ",
+"cat": "kids",
+"addr": "8F North Building, K11 ECOAST, 61 Taizi Bay Rd, Shekou"
+},
+{
+"id": "sz-pet-supaw",
+"name": "SUPAW HUB (Raffles City) 深圳来福士店",
+"city": "SZ",
+"cat": "kids",
+"addr": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan"
+},
+{
+"id": "sz-interactive-qingqing",
+"name": "Qingqing World eco-park 青青世界",
+"city": "SZ",
+"cat": "kids",
+"addr": "1 Qingqing Rd, Yueliangwan, Nanshan (foot of Dananshan)"
+},
+{
+"id": "sz-teppan-hemu",
+"name": "Hemu Omakase Teppanyaki 禾木鲸生Omakase铁板烧 (海上世界店)",
+"city": "SZ",
+"cat": "food",
+"addr": "Tower 17 Phase 1, Bitao Garden, Taizi Rd, Shekou"
+},
+{
+"id": "sz-teppan-open",
+"name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
+"city": "SZ",
+"cat": "food",
+"addr": "1F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd"
+}
+]
