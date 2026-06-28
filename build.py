@@ -54,9 +54,14 @@ for p in places:
 events = readj('events.json', [])           # optional: list of dated events
 
 places, events = clean(places), clean(events)
-for p in places:                                 # Amap (高德) link; GCJ-02 coords for mainland pins
-    glat, glng = (wgs2gcj(p['lat'], p['lng']) if p['city'] == 'SZ' else (p['lat'], p['lng']))
-    p['maplink'] = f"https://uri.amap.com/marker?position={glng:.6f},{glat:.6f}&name={quote(p['name'])}&coordinate=gaode&callnative=1"
+for p in places:                                 # SZ -> Amap (高德, GCJ-02); HK/Seoul -> Google Maps (WGS-84)
+    if p['city'] == 'SZ':
+        glat, glng = wgs2gcj(p['lat'], p['lng'])
+        p['maplink'] = f"https://uri.amap.com/marker?position={glng:.6f},{glat:.6f}&name={quote(p['name'])}&coordinate=gaode&callnative=1"
+        p['maplabel'] = 'Amap'
+    else:
+        p['maplink'] = f"https://www.google.com/maps/search/?api=1&query={p['lat']:.6f}%2C{p['lng']:.6f}"
+        p['maplabel'] = 'Maps'
 data_extra = ('const LOCATIONS = ' + json.dumps(places, ensure_ascii=False) + ';\n'
               'const EVENTS = '    + json.dumps(events, ensure_ascii=False) + ';')
 
