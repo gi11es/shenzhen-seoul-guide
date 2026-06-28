@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Inline Leaflet + config + places.json (+ enrich.json overlay) + events.json into one self-contained index.html."""
-import pathlib, json, math
+import pathlib, json, math, re
 from urllib.parse import quote
 d = pathlib.Path(__file__).parent
 
@@ -60,7 +60,10 @@ for p in places:                                 # SZ -> Amap (高德, GCJ-02); 
         p['maplink'] = f"https://uri.amap.com/marker?position={glng:.6f},{glat:.6f}&name={quote(p['name'])}&coordinate=gaode&callnative=1"
         p['maplabel'] = 'Amap'
     else:                                        # name-based search resolves to the real Google listing
-        p['maplink'] = f"https://www.google.com/maps/search/?api=1&query={quote(p['name'])}"
+        nm = re.sub(r'^Our (?:stay|home|base)\s*·\s*', '', p['name'])   # drop the "Our stay ·" label
+        km = re.search(r'\(([^)]*[가-힣][^)]*)\)', nm)          # prefer the Korean place name
+        q = km.group(1).strip() if km else re.sub(r'\s*\([^)]*\)\s*$', '', nm).strip()
+        p['maplink'] = f"https://www.google.com/maps/search/?api=1&query={quote(q)}"
         p['maplabel'] = 'Maps'
 data_extra = ('const LOCATIONS = ' + json.dumps(places, ensure_ascii=False) + ';\n'
               'const EVENTS = '    + json.dumps(events, ensure_ascii=False) + ';')
