@@ -1,0 +1,156 @@
+[
+{
+"id": "sz-stay",
+"name": "Our stay · Coastal Rose Garden",
+"addr": "Bldg 2A, Coastal Rose Garden, 3 Jinshiji Rd, Shekou, Nanshan",
+"lat": 22.4856,
+"lng": 113.9165
+},
+{
+"id": "sz-nick",
+"name": "Nickelodeon Playtime (OCT Harbour)",
+"addr": "Bldg 2-2B, Qushui Bay, OCT Harbour, 2008 Binhai Ave, Nanshan",
+"lat": 22.526,
+"lng": 113.983
+},
+{
+"id": "sz-lego-cocopark",
+"name": "LEGO Store (COCO Park)",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian",
+"lat": 22.5365,
+"lng": 114.0491
+},
+{
+"id": "sz-safari-park",
+"name": "Shenzhen Safari Park (深圳野生动物园)",
+"addr": "4065 Xilihu Rd, Xili, Nanshan",
+"lat": 22.5998002,
+"lng": 113.9682793
+},
+{
+"id": "sz-wondermeet",
+"name": "WonderMeet (玩美攻略)",
+"addr": "Century Plaza, 3018 Shennan Middle Rd, Futian",
+"lat": 22.5440684,
+"lng": 114.0784151
+},
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"addr": "Shekou / Sea World area, Nanshan",
+"lat": 22.4855,
+"lng": 113.9125
+},
+{
+"id": "sz-upperhills",
+"name": "UpperHills 深业上城",
+"addr": "5001 Huanggang Rd, Futian",
+"lat": 22.5601574,
+"lng": 114.0651169
+},
+{
+"id": "sz-gif-coffee",
+"name": "GIF Coffee 集福咖啡",
+"addr": "A106, Bldg 541, Bagualing Industrial Zone, Futian",
+"lat": 22.5632,
+"lng": 114.0907
+},
+{
+"id": "sz-seaworld-cac",
+"name": "Sea World Culture & Arts Center (Design Society)",
+"addr": "1187 Wanghai Rd, Shekou, Nanshan",
+"lat": 22.4831641,
+"lng": 113.9120268
+},
+{
+"id": "sz-maya-beach",
+"name": "Maya Beach Water Park 玛雅海滩水公园",
+"addr": "Inside Happy Valley, OCT, Nanshan",
+"lat": 22.5446,
+"lng": 113.9754
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"addr": "Sea World, Shekou, Nanshan",
+"lat": 22.476,
+"lng": 113.923
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"addr": "Houhai / Coastal City, Nanshan",
+"lat": 22.515,
+"lng": 113.943
+},
+{
+"id": "sz-batiaoyou-2",
+"name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+"addr": "Snow BREWTOWN Beer Town, EL134, Xin'an, Bao'an",
+"lat": 22.582661,
+"lng": 113.922274
+},
+{
+"id": "sz-hk-xiesanbao",
+"name": "Xie San Bao 蟹三宝",
+"addr": "Nanshan",
+"lat": 22.5208,
+"lng": 113.9295
+},
+{
+"id": "sz-wooderful",
+"name": "Wooderful Land 木育森林",
+"addr": "L2, Yitian Holiday Plaza 益田假日广场, OCT, Nanshan",
+"lat": 22.5358,
+"lng": 113.9858
+},
+{
+"id": "sz-lib-nanshan",
+"name": "Nanshan District Library (main) 南山图书馆总馆",
+"addr": "176 Changxing Rd, Nanshan (Metro Line 1 Taoyuan, Exit B)",
+"lat": 22.5338,
+"lng": 113.9289
+},
+{
+"id": "sz-horse-william",
+"name": "William International Equestrian Center 威廉国际马术中心",
+"addr": "4 Haiwan Rd, Value Factory Phase 2, Taizi Bay, Shekou, Nanshan",
+"lat": 22.4762,
+"lng": 113.9102
+},
+{
+"id": "sz-interactive-skg",
+"name": "SKG Shrimp-Fishing Hall SKG娱乐钓虾馆",
+"addr": "Yilida Bldg Block B, Nanshan Ave, Nanshan (Line 11)",
+"lat": 22.5145,
+"lng": 113.9278
+},
+{
+"id": "sz-teppan-kyoku",
+"name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+"addr": "K11 ECOAST waterfront food market, Taizi Bay, Shekou",
+"lat": 22.4735,
+"lng": 113.9165
+},
+{
+"id": "sz-walk-sushi-kyoto",
+"name": "Hongsong Kyoto Japanese Market 泓松京都板前料理 (K11)",
+"addr": "K11 ECOAST South Bldg L5 504-508, Taizi Bay, Shekou",
+"lat": 22.4781,
+"lng": 113.9082
+},
+{
+"id": "sz-clothesmkt-womensworld",
+"name": "Women's World 女人世界 (华强北)",
+"addr": "Huaqiangbei Rd / Zhenhua Rd, Futian",
+"lat": 22.5447,
+"lng": 114.0852
+},
+{
+"id": "sz-fishing-lianghang",
+"name": "Lianghang Sea-Fishing Club 领航海钓 (Bao'an airport pier)",
+"addr": "Airport/Fuyong Ferry Terminal, Bao'an (boats fish Qianhai/Shekou/estuary waters)",
+"lat": 22.5145,
+"lng": 113.8255
+}
+]

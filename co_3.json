@@ -1,0 +1,156 @@
+[
+{
+"id": "sz-scitech",
+"name": "Shenzhen Science & Technology Museum",
+"addr": "No. 8 Guanghui Ave, Guangming",
+"lat": 22.7751,
+"lng": 113.9386
+},
+{
+"id": "sz-dapeng-fortress",
+"name": "Dapeng Fortress / Ancient City (大鹏所城)",
+"addr": "Nanmen West Rd, Pengcheng, Dapeng, Longgang",
+"lat": 22.5978742,
+"lng": 114.507692
+},
+{
+"id": "sz-dongmen-street-food",
+"name": "Dongmen Street food market (东门老街)",
+"addr": "Dongmen Old Street, Luohu",
+"lat": 22.547,
+"lng": 114.1159
+},
+{
+"id": "sz-happy-harbour",
+"name": "Bao'an Happy Harbour & Bay Glory wheel (宝安欢乐港湾)",
+"addr": "Jia'an Rd, Bao'an Central, Xin'an",
+"lat": 22.5463106,
+"lng": 113.881011
+},
+{
+"id": "sz-sushiro-1",
+"name": "Sushiro 寿司郎 (Coastal City / 海岸城)",
+"addr": "3F, Coastal City, 33 Wenxin 5th Rd, Houhai, Nanshan",
+"lat": 22.5202,
+"lng": 113.9303
+},
+{
+"id": "sz-nanhai-yiku",
+"name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+"addr": "6 Xinghua Rd, Shekou, Nanshan",
+"lat": 22.4897,
+"lng": 113.9129
+},
+{
+"id": "sz-hongqiao-park",
+"name": "Hongqiao Park 虹桥公园 (red skywalk)",
+"addr": "Kelin Rd / Chalin Rd, Guangming",
+"lat": 22.7482039,
+"lng": 113.9532991
+},
+{
+"id": "sz-spring-patio",
+"name": "Spring Patio 春台餐酒馆",
+"addr": "2F open-air corridor, MixC World (万象天地), Nanshan",
+"lat": 22.5449333,
+"lng": 113.95115
+},
+{
+"id": "sz-he-xiangning",
+"name": "He Xiangning Art Museum",
+"addr": "9013 Shennan Blvd, OCT, Nanshan",
+"lat": 22.5359828,
+"lng": 113.9767673
+},
+{
+"id": "sz-guanlan-shanshui",
+"name": "Guanlan Shanshui Eco Water Park 观澜山水田园",
+"addr": "Huanguan South Rd, Guanlan, Longhua",
+"lat": 22.717,
+"lng": 114.1019
+},
+{
+"id": "sz-pick-dananshan",
+"name": "Dananshan Park 大南山公园",
+"addr": "Dananshan, Shekou, Nanshan",
+"lat": 22.4865,
+"lng": 113.917
+},
+{
+"id": "sz-pick-nanshan-museum",
+"name": "Nanshan Museum 南山博物馆",
+"addr": "Nanshan center, Taoyuan, Nanshan",
+"lat": 22.534,
+"lng": 113.923
+},
+{
+"id": "sz-hk-innate",
+"name": "Innate Ayurveda Spa 印度阿育吠陀",
+"addr": "Seaside Commercial Center, Sea World, Shekou",
+"lat": 22.4818,
+"lng": 113.9178
+},
+{
+"id": "sz-nantou-makers",
+"name": "Nantou Ancient City maker district 南头古城主理人街区",
+"addr": "Nantou Ancient City, Nanshan",
+"lat": 22.5418,
+"lng": 113.923
+},
+{
+"id": "sz-skytime",
+"name": "Skytime Trampoline Park 天时蹦床公园",
+"addr": "2 Qiongyu Rd, Science & Technology Park, Nanshan",
+"lat": 22.543,
+"lng": 113.95
+},
+{
+"id": "sz-lib-egret",
+"name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
+"addr": "Egret Slope, Shenzhen Bay Park, Nanshan",
+"lat": 22.483,
+"lng": 113.952
+},
+{
+"id": "sz-pet-puppy",
+"name": "Puppy Goes to Work Dog Cafe 小狗上班狗咖",
+"addr": "53-2 Jinji Rd, Nanshan (opposite Joy City)",
+"lat": 22.5345,
+"lng": 113.9466
+},
+{
+"id": "sz-interactive-pipi",
+"name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+"addr": "326-109 Fanshen Rd, Bao'an (near Fanshen Metro L5)",
+"lat": 22.5628,
+"lng": 113.8968
+},
+{
+"id": "sz-gelato-creamstory",
+"name": "Cream Story Italian Gelato 可丽牧手工冰淇淋 (南海意库)",
+"addr": "3-3/3-4 Xinghua 1st Rd, Nanhai Yiku, Shekou, Nanshan",
+"lat": 22.4818,
+"lng": 113.9163
+},
+{
+"id": "sz-walk-churrasco-latina",
+"name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
+"addr": "Sea World Zone C, 001-C004, 1128 Wanghai Rd, Shekou",
+"lat": 22.4824,
+"lng": 113.9151
+},
+{
+"id": "sz-toymkt-jinya",
+"name": "Jinya Toy & Stationery Wholesale Market 金雅文具玩具批发市场",
+"addr": "Guimiao W Rd, Fuhaiyuan 1-2F, Nanshan (near Daxin Metro)",
+"lat": 22.5272,
+"lng": 113.9262
+},
+{
+"id": "sz-fishing-7star",
+"name": "Seven-Star Bay Yacht Fishing 七星湾游艇海钓 (Dapeng)",
+"addr": "Seven-Star Bay Marina, Dongshan, Dapeng",
+"lat": 22.5694,
+"lng": 114.5319
+}
+]

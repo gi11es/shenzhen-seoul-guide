@@ -534,8 +534,8 @@
   "city": "SZ",
   "category": "nature",
   "name": "Xichong Beach (西涌)",
-  "lat": 22.4763723,
-  "lng": 114.5309843,
+  "lat": 22.47933,
+  "lng": 114.52639,
   "address": "Xichong, Nan'ao, Dapeng, Longgang",
   "desc": "Shenzhen's longest beach, a roughly 5 km arc of soft sand on the southern tip of Dapeng, with clear water, a lighthouse hike and a certified dark-sky stargazing park.",
   "price": null,
@@ -931,8 +931,8 @@
   "city": "SZ",
   "category": "museum",
   "name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
-  "lat": 22.5404,
-  "lng": 113.9194,
+  "lat": 22.543447,
+  "lng": 113.91454,
   "address": "By Baode Square, Nantou Ancient City, Nanshan",
   "desc": "A small multimedia museum inside Nantou Ancient City named for the city's 1820 Qing-dynasty heyday. A 360° immersive animation of the silk scroll recreates trade and daily life of 200 years ago.",
   "price": "free",
@@ -1323,8 +1323,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "KP-FUN Trendy Play Street (AR karting)",
-  "lat": 22.5322,
-  "lng": 114.0208,
+  "lat": 22.53064,
+  "lng": 114.02362,
   "address": "3F, C Future City, 9283 Binhe Ave, Futian",
   "desc": "New two-floor indoor entertainment street (opened June 2025) headlined by AR/MR go-karting (you wear mixed-reality goggles), plus a 360° rotating motorbike, a big bumper-car arena and 100+ tech attractions.",
   "price": {
@@ -1682,8 +1682,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "G&G Creative Community 创意社区",
-  "lat": 22.4895,
-  "lng": 113.9155,
+  "lat": 22.489735,
+  "lng": 113.912876,
   "address": "9 Liyuan Rd, Shekou, Nanshan",
   "desc": "A former factory turned hip creative community with design shops, cafes, exhibition halls, art markets and a basketball court. ~650 m from Shuiwan Station (Line 2) Exit D.",
   "price": "free",
@@ -1919,8 +1919,8 @@
   "city": "SZ",
   "category": "services",
   "name": "Dental Bauhinia 紫荆口腔 (Shekou)",
-  "lat": 22.488,
-  "lng": 113.915,
+  "lat": 22.4876,
+  "lng": 113.9204,
   "address": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan",
   "desc": "Established international, English-speaking dental clinic in Shekou with dentists from HK, Australia, Canada and the mainland. General, cosmetic, orthodontic and implant care.",
   "price": null,
@@ -2085,8 +2085,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "24 Histories Academy 二十四史书院",
-  "lat": 22.6589693,
-  "lng": 114.0995854,
+  "lat": 22.664026,
+  "lng": 114.095382,
   "address": "Gankeng Ancient Town (north), Longgang",
   "desc": "An Oriental-garden cultural academy and bookstore themed on China's Twenty-Four Histories, with themed bookshops, a children's picture-book room, tea gatherings and evening folk music.",
   "price": {
@@ -2909,8 +2909,8 @@
   "city": "SZ",
   "category": "services",
   "name": "Aqila Hot Spring Spa 阿奇拉汤泉生活",
-  "lat": 22.5315,
-  "lng": 113.922,
+  "lat": 22.534545,
+  "lng": 113.91714,
   "address": "Floors 2-3, Tianxia Jinniu Plaza, Taoyuan Rd, Nanshan",
   "desc": "Large 24-hour upscale hot-spring bathhouse and leisure complex: hot pools, saunas, plus a cinema, arcade/VR, consoles, esports cafe, billiards, karaoke, hanfu area and an indoor diving pool. Unlimited fruit and drinks included.",
   "price": {
@@ -3109,8 +3109,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Xinggaodu Dream Water World 星高度梦想水世界",
-  "lat": 22.6306,
-  "lng": 114.0689,
+  "lat": 22.63427,
+  "lng": 114.0632,
   "address": "Yunli Dream Park, Fada Rd, Bantian, Longgang",
   "desc": "A 30,000 m² pink-themed outdoor water world with flamingo, dolphin-cove and unicorn-castle zones, geared to family photo-fun rather than extreme thrills. Metro-accessible and budget-priced.",
   "price": {
@@ -3563,8 +3563,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "Shuiwan 1979 Plaza 水湾1979",
-  "lat": 22.48912,
-  "lng": 113.91883,
+  "lat": 22.492169,
+  "lng": 113.913973,
   "address": "Zimao Center, Shekou, Nanshan, Shenzhen",
   "desc": "Creative dining-and-shopping plaza in Shekou with restored old buildings.",
   "notes": "From your Google Maps 'Want to go' list.",
@@ -3689,8 +3689,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Peticano 毕加诺",
-  "lat": 22.476,
-  "lng": 113.923,
+  "lat": 22.4845,
+  "lng": 113.9128,
   "address": "Sea World, Shekou, Nanshan",
   "desc": "Argentine/American wood-fired smokehouse (ribs, brisket, steaks) with a buzzy terrace. A long-running Shekou institution.",
   "commute": "~5 min walk from Sea World station (Line 2/12), in Shekou.",
@@ -3704,8 +3704,8 @@
   "city": "SZ",
   "category": "cafe",
   "name": "1-7 Bread 壹柒面包 (Sea World)",
-  "lat": 22.4748,
-  "lng": 113.9225,
+  "lat": 22.488129,
+  "lng": 113.910159,
   "address": "Sea World, Shekou, Nanshan",
   "desc": "Artisan small-batch sourdough and low-sugar bakes (cod-roe baguette, milk toast), rated among Nanshan's best bread.",
   "commute": "~3 min walk, inside Sea World.",
@@ -3734,8 +3734,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Mekong River Sports Town 湄南河体育小镇",
-  "lat": 22.482,
-  "lng": 113.932,
+  "lat": 22.48503,
+  "lng": 113.92714,
   "address": "Haiwan Rd, Shekou, Nanshan",
   "desc": "A 25,000 m² indoor sports park with 30+ activities: a real indoor ski slope, karting, trampolines, climbing and surf. A rainy-day winner for the family.",
   "commute": "~6 min DiDi from Shekou / Sea World.",
@@ -3749,8 +3749,8 @@
   "city": "SZ",
   "category": "nightlife",
   "name": "Long Bar (Raffles, One Shenzhen Bay)",
-  "lat": 22.4945,
-  "lng": 113.937,
+  "lat": 22.5101,
+  "lng": 113.9379,
   "address": "Raffles, One Shenzhen Bay, Houhai, Nanshan",
   "desc": "Elegant high-floor hotel cocktail bar with floor-to-ceiling views over Shenzhen Bay and the bridge. The area's most polished sundowner.",
   "commute": "~10 min DiDi from Shekou (or Line 2 to Houhai).",
@@ -3794,8 +3794,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Crab Xingji 蟹兴记",
-  "lat": 22.5165,
-  "lng": 113.9435,
+  "lat": 22.520623,
+  "lng": 113.93325,
   "address": "Houhai / Coastal City, Nanshan",
   "desc": "Shenzhen's only branch of this crab specialist, hand-picking fresh crab daily for hairy-crab roe dishes. A refined seafood splurge.",
   "commute": "~15 min via Line 2 to Houhai.",
@@ -3809,8 +3809,8 @@
   "city": "SZ",
   "category": "museum",
   "name": "Nanshan Museum 南山博物馆",
-  "lat": 22.534,
-  "lng": 113.923,
+  "lat": 22.5379,
+  "lng": 113.919,
   "address": "Nanshan center, Taoyuan, Nanshan",
   "desc": "A big, free, well-curated museum with a Nanshan-history wing plus rotating blockbuster shows (e.g. Egyptian golden mummies). Spacious and English-friendly.",
   "price": "free",
@@ -3839,8 +3839,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "OCT-LOFT 华侨城创意文化园",
-  "lat": 22.552,
-  "lng": 113.997,
+  "lat": 22.5412,
+  "lng": 113.9886,
   "address": "OCT 华侨城, Nanshan",
   "desc": "A converted-factory creative district of ~300 design studios, the OCAT contemporary-art galleries, Old Heaven indie bookshop/music venue, and the weekend T-Street creative market.",
   "price": "free",
@@ -3854,8 +3854,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
-  "lat": 22.508042,
-  "lng": 113.928151,
+  "lat": 22.511081,
+  "lng": 113.92329,
   "address": "Nanle Yayuan, Nanyou, Yuehai, Nanshan",
   "desc": "Open-front Nanyou skewer stall: fresh-cut charcoal skewers (lamb, beef tendon, chicken wings, leeks) plus the chain's signature crispy grilled fish (脆皮烤鱼) and cheap late-night beer. Plastic stools, smoky street vibe, busy after dark.",
   "price": {
@@ -3892,8 +3892,8 @@
   "city": "SZ",
   "category": "shopping",
   "name": "K11 ECOAST 深圳K11 ECOAST",
-  "lat": 22.4722,
-  "lng": 113.9005,
+  "lat": 22.474325,
+  "lng": 113.910248,
   "address": "Taizi Bay / Prince Bay, Shekou, Nanshan",
   "desc": "Brand-new (Apr 2025) OMA / Sou Fujimoto seafront art-mall with a Promenade boardwalk and flagship stores. The buzziest new opening on the Shekou waterfront, a citywalk favorite for the architecture and sea views.",
   "commute": "~8 min DiDi from Shekou (Taizi Bay), or a waterfront walk.",
@@ -3907,8 +3907,8 @@
   "city": "SZ",
   "category": "services",
   "name": "Innate Ayurveda Spa 印度阿育吠陀",
-  "lat": 22.4818,
-  "lng": 113.9178,
+  "lat": 22.4848,
+  "lng": 113.9128,
   "address": "Seaside Commercial Center, Sea World, Shekou",
   "desc": "Authentic Kerala Ayurveda (Abhyanga oil massage, Shirodhara) right in Sea World. A calmer boutique alternative to the mega-spas that HK visitors cross the border for.",
   "commute": "~5 min walk, in the Sea World commercial center.",
@@ -3922,8 +3922,8 @@
   "city": "SZ",
   "category": "shopping",
   "name": "Houhaihui 后海汇",
-  "lat": 22.5092,
-  "lng": 113.9358,
+  "lat": 22.51934,
+  "lng": 113.93606,
   "address": "Houhai, Nanshan",
   "desc": "A Gen-Z trend mall with vintage shops, art-toy/blind-box stores, a climbing gym, rooftop garden and weekend night markets. A top Xiaohongshu citywalk stop for HK youngsters.",
   "commute": "~18 min: Line 2 to 后海 + short walk, or DiDi ~15 min.",
@@ -3937,8 +3937,8 @@
   "city": "SZ",
   "category": "nature",
   "name": "Talent Park 人才公园",
-  "lat": 22.4892,
-  "lng": 113.9302,
+  "lat": 22.5137,
+  "lng": 113.9442,
   "address": "Shenzhen Bay, Houhai, Nanshan",
   "desc": "A lakeside bayfront park where you can jog, citywalk and shoot the skyline. The headline 'see Hong Kong from the other side' viewpoint, with weekend evening light shows.",
   "price": "free",
@@ -3952,8 +3952,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Bollywood Cafe 宝莱坞印度餐厅",
-  "lat": 22.5125,
-  "lng": 113.9338,
+  "lat": 22.52019,
+  "lng": 113.933495,
   "address": "Poly Cultural Centre, Houhai, Nanshan",
   "desc": "A well-rated authentic Indian curry house near Houhai that HK foodies single out when they want something beyond hotpot on a Shenzhen weekend.",
   "commute": "~20 min DiDi from Shekou (Houhai).",
@@ -3982,8 +3982,8 @@
   "city": "SZ",
   "category": "cafe",
   "name": "Yewai Urban Tea Room 叶外·Urban茶室",
-  "lat": 22.5168,
-  "lng": 113.9332,
+  "lat": 22.52024,
+  "lng": 113.930262,
   "address": "Coastal City / Haian Cheng, Houhai, Nanshan",
   "desc": "A photogenic 'new-Chinese' tea-and-dessert room at Coastal City that HK media flags as a must-photo trendy stop on a Houhai food day.",
   "commute": "~20 min via Line 2 to 后海 / Coastal City.",
@@ -3997,8 +3997,8 @@
   "city": "SZ",
   "category": "shopping",
   "name": "Nantou Ancient City maker district 南头古城主理人街区",
-  "lat": 22.5418,
-  "lng": 113.923,
+  "lat": 22.5448,
+  "lng": 113.9181,
   "address": "Nantou Ancient City, Nanshan",
   "desc": "The restored Nantou Ancient City packs 280+ independent 主理人 design brands and studios (original fashion, bags, jewelry, leather, vintage like Soarin) plus recurring weekend maker markets of 100+ stalls. Shenzhen's closest equivalent to Hong Kong's PMQ.",
   "price": "free",
@@ -4077,8 +4077,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Bell Nature Exploration Center 贝尔自然探索中心",
-  "lat": 22.4798,
-  "lng": 113.9189,
+  "lat": 22.4848,
+  "lng": 113.9125,
   "address": "Sea World Zone D / Bow Plaza, Shekou, Nanshan",
   "desc": "Indoor nature center with three halls: a Pet Park where kids feed and pet alpacas, rabbits, guinea pigs, marmots, a mini pony, ducks, tortoises and parrots; an ocean/marine-touch hall; and a hands-on explorer hall, plus animal shows.",
   "price": {
@@ -4140,8 +4140,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Meland Club (MixC World) 美兰湖儿童乐园",
-  "lat": 22.5388,
-  "lng": 113.953,
+  "lat": 22.545,
+  "lng": 113.9513,
   "address": "3F SL382, MixC World 万象天地, 9668 Shennan Blvd, Nanshan",
   "desc": "~3000 m² flagship soft-play club: an 8.5m multi-level climbing maze, trampolines, big ball pits, mini-bowling and a 'Mini City' role-play zone (firefighter/chef/doctor). One of the best-regarded indoor play clubs in Nanshan.",
   "price": {
@@ -4195,7 +4195,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~25-30 min from Shekou (Line 1 to 高新园).",
+  "commute": "Metro ~35 min: Line 12 direct to 桃园, change Line 1 to 高新园 (Exit A, 480 m). DiDi ~18 min, ¥30. DiDi is faster.",
   "notes": "4yo: excellent (huge varied soft-play, role-play, trampolines); 12yo: can do the tall climbing maze and trampolines but he's at the top of its age cap (max 1.5m), may feel young. Mon is deep-clean (shorter hours). Dianping ~4.7."
  },
  {
@@ -4203,8 +4203,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Wooderful Land 木育森林",
-  "lat": 22.5358,
-  "lng": 113.9858,
+  "lat": 22.5404202,
+  "lng": 113.9705796,
   "address": "L2, Yitian Holiday Plaza 益田假日广场, OCT, Nanshan",
   "desc": "Calm, design-led wooden play forest: wooden slides, gentle climbing structures, marble runs and hands-on wooden toys. Clean and developmental, ideal for a 4yo who finds big ball-pit parks overwhelming.",
   "price": {
@@ -4258,7 +4258,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~20-25 min from Shekou (Window of the World, Line 1/2).",
+  "commute": "Direct Line 2 from Sea World to 世界之窗 (5 min walk to 益田假日), ~30 min, no transfer. DiDi ~16 min, ¥28. Take the direct metro.",
   "notes": "4yo: great (gentle wooden play, fine-motor toys); 12yo: too young, no active/thrill activities, he'd be bored. Dianping ~4.6."
  },
  {
@@ -4266,8 +4266,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
-  "lat": 22.5128,
-  "lng": 113.9842,
+  "lat": 22.525953,
+  "lng": 113.983003,
   "address": "G floor atrium, O'PLAZA, OCT Harbour, Nanshan",
   "desc": "~900 m² soft-play center with an ocean ball pit, trampolines, slides and a sand-play area, sold as unlimited single-day play. Big open soft-play a 4yo can roam for hours.",
   "price": null,
@@ -4317,7 +4317,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~20-25 min from Shekou (Shenzhen Bay Park, Line 9).",
+  "commute": "Metro ~35 min (Line 2 → 后海 → Line 11 红树湾南 → Line 9 深圳湾公园, 2 transfers). DiDi ~16 min, ¥26. Recommend DiDi.",
   "notes": "4yo: good (ball pit, small trampolines, sand, slides); 12yo: toddler/preschool soft-play, too young for him. Dianping well-reviewed."
  },
  {
@@ -4376,7 +4376,7 @@
   },
   "photos": [],
   "phone": "+86-755-86529500",
-  "commute": "~25-30 min from Shekou (Science Park, Nanshan).",
+  "commute": "Metro ~35 min: Line 12 to 桃园, change Line 1 to 深大. DiDi ~15 min, ¥26. Short hop, DiDi is faster.",
   "notes": "4yo: limited (foam pit/free-jump with a parent); 12yo: excellent (trampolines, rock climbing, dodgeball, balance rope). Trip.com 4.4. Bring grip socks."
  },
  {
@@ -4384,15 +4384,15 @@
   "city": "SZ",
   "category": "kids",
   "name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
-  "lat": 22.5283,
-  "lng": 113.9305,
+  "lat": 22.53924,
+  "lng": 113.91753,
   "address": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave",
   "desc": "One of Shenzhen's oldest and largest 国际象棋 (Western chess) clubs (founded 2005), with a training center inside the Nanshan Cultural & Sports Center. Holds weekend classes and intra-club practice/rated games.",
   "price": null,
   "hours": null,
   "photos": [],
   "phone": "0755-26400466",
-  "commute": "~15 min from Shekou (closest chess club).",
+  "commute": "Direct Line 12 from Sea World to 桃园 (Exit B, 500 m), ~25 min, no transfer. DiDi ~15 min, ¥24. Take the direct metro.",
   "notes": "For your 12yo: call to slot him into a weekend session or be matched with strong students/coaches. By appointment, not casual drop-in. Kid-focused with adult coaches. Also mobile 13316915786."
  },
  {
@@ -4400,15 +4400,15 @@
   "city": "SZ",
   "category": "kids",
   "name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
-  "lat": 22.5745,
-  "lng": 113.947,
+  "lat": 22.5629,
+  "lng": 113.977,
   "address": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)",
   "desc": "A Nanshan junior-focused 国际象棋 academy that runs the area's international-school tournaments (it presented the 2025 ACAMIS Chess Tournament). The best fit to match a ranked 12yo against strong local junior peers.",
   "price": null,
   "hours": null,
   "photos": [],
   "phone": "13682344455",
-  "commute": "~30 min from Shekou (Taoyuan, Line 7).",
+  "commute": "Metro is a 2-transfer detour (~55 min). DiDi ~25 min, ¥45, direct. Strongly recommend DiDi.",
   "notes": "For your 12yo: call He laoshi (何老师) to arrange a practice/junior game, they organise youth competitions and can pair a visiting ranked player. By appointment."
  },
  {
@@ -4545,7 +4545,7 @@
   },
   "photos": [],
   "phone": "0755-26520380",
-  "commute": "~20-25 min from Shekou.",
+  "commute": "Direct Line 12 from Sea World to 南头古城 (Exit E4, 175 m), ~25 min, no transfer. DiDi ~15 min, ¥24. Take the direct metro.",
   "notes": "Amenities: children's room (6-12) + parent-child room (0-6, Mon closed, weekday 15:30-21:00, weekends 09:00-21:00); big study hall; events; some branches have a chess/board-game club; modest English shelf. Free; passport accepted for a card/entry."
  },
  {
@@ -4553,8 +4553,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
-  "lat": 22.5275,
-  "lng": 113.9285,
+  "lat": 22.539506,
+  "lng": 113.924645,
   "address": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan",
   "desc": "An award-winning network of unmanned, architecturally striking 24-hour 'reading rooms in parks' with immersive study carrels and full self-service.",
   "price": "free",
@@ -4604,7 +4604,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~18-22 min from Shekou (Lixiang Park).",
+  "commute": "Direct Line 12 from Sea World to 桃园 (by 荔香公园), ~25 min, no transfer. DiDi ~14 min, ¥23. Take the direct metro.",
   "notes": "Amenities: ~21 immersive study carrels + reading seats; self-service coffee/print/vending; self-checkout; free wifi. Entry by WeChat mini-program '南山书房预约' + face/ID scan, easiest for foreigners after registering a reader card with passport. Mostly Chinese stock."
  },
  {
@@ -4612,8 +4612,8 @@
   "city": "SZ",
   "category": "culture",
   "name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
-  "lat": 22.483,
-  "lng": 113.952,
+  "lat": 22.486,
+  "lng": 113.9471,
   "address": "Egret Slope, Shenzhen Bay Park, Nanshan",
   "desc": "A small scenic reading bar on the Shenzhen Bay waterfront, ideal to combine with a family seaside walk. More a cozy reading lounge than a full library.",
   "price": "free",
@@ -4663,7 +4663,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~15-20 min from Shekou along the waterfront.",
+  "commute": "Metro ~30 min (Line 2 → 后海 → Line 11 to 红树湾南), 1 transfer. DiDi ~15 min, ¥24. DiDi if in a hurry.",
   "notes": "Amenities: reading lounge with sea views, free wifi, light refreshments; limited kids room; mostly Chinese books. Free walk-in within the public park; passport only if you want to borrow."
  },
  {
@@ -4671,8 +4671,8 @@
   "city": "SZ",
   "category": "services",
   "name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
-  "lat": 22.4796,
-  "lng": 113.9126,
+  "lat": 22.48462,
+  "lng": 113.91484,
   "address": "Shuangxi Garden Phase 1, 113-114, Wanghai Rd, Sea World, Shekou",
   "desc": "High-end aromatherapy body/oil SPA in private rooms, warm-up (hot sea-salt / bian-stone) before a hands-on massage, with a strict no-upselling policy. The top-rated spa in Nanshan.",
   "price": {
@@ -4691,8 +4691,8 @@
   "city": "SZ",
   "category": "services",
   "name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
-  "lat": 22.4778,
-  "lng": 113.9082,
+  "lat": 22.4806,
+  "lng": 113.921,
   "address": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou",
   "desc": "Kyoto-style Japanese aromatic-oil full-body massage in a quiet converted villa (head, abdomen, arm and leg meridian work, shower included). Praised for ambience and no hard-sell.",
   "price": {
@@ -4837,8 +4837,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
-  "lat": 22.4668,
-  "lng": 113.8808,
+  "lat": 22.475312,
+  "lng": 113.907993,
   "address": "8F North Building, K11 ECOAST, 61 Taizi Bay Rd, Shekou",
   "desc": "Huge ~5,000 m² ocean-view cat cafe with 100-150 cats of many breeds (Ragdoll, Maine Coon, Sphynx, Devon Rex) plus a small exotic-pet corner and a 180-degree sea-view terrace; ticket includes treats and a drink.",
   "price": {
@@ -4892,7 +4892,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~10 min from Shekou (Line 12 Taizi Bay).",
+  "commute": "Direct Line 12 from Sea World to 太子湾, just 1 stop (K11 ECOAST), ~10 min incl. walk, no transfer. DiDi ~8 min, ¥14. Direct metro.",
   "notes": "This is the K11 one you saw (K11's 'Pet Show' is an art exhibition, not live animals). 12yo: ideal; 4yo: fine with supervision (adult cats can be jumpy). Opened Apr 2025."
  },
  {
@@ -4912,7 +4912,7 @@
   "hours": null,
   "photos": [],
   "phone": "",
-  "commute": "~20-25 min from Shekou.",
+  "commute": "Direct Line 12 from Sea World to 桃园 (欢乐颂/金鸡路), ~30 min, no transfer. DiDi ~18-22 min, ¥28-35. DiDi faster; Line 12 steadier at peak.",
   "notes": "12yo: loves it (lots of dogs); 4yo: only if comfortable with many energetic dogs, supervise. Walk-in friendly. Trip.com well-reviewed."
  },
  {
@@ -4932,7 +4932,7 @@
   "hours": null,
   "photos": [],
   "phone": "",
-  "commute": "~18-20 min from Shekou.",
+  "commute": "Direct Line 2 from Sea World to 海月 (文心路/后海), ~24 min, no transfer. DiDi ~15 min, ¥22. DiDi faster; metro cheaper.",
   "notes": "12yo: great; 4yo: okay with supervision (dogs can be lively). Both cats and dogs in one stop. Walk-in friendly."
  },
  {
@@ -4940,15 +4940,15 @@
   "city": "SZ",
   "category": "kids",
   "name": "SUPAW HUB (Raffles City) 深圳来福士店",
-  "lat": 22.5128,
-  "lng": 113.9268,
+  "lat": 22.5148,
+  "lng": 113.9207,
   "address": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan",
   "desc": "Nature-themed pet-lifestyle complex blending a cafe, retail and a pet play area, a calm, design-led 'urban wilderness' space for relaxed animal interaction.",
   "price": null,
   "hours": null,
   "photos": [],
   "phone": "19925194676",
-  "commute": "~12-15 min from Shekou.",
+  "commute": "Direct Line 12 from Sea World to 南油 (Exit E, Raffles), ~20-25 min, no transfer. DiDi ~15 min, ¥22. DiDi saves time; direct metro also fine.",
   "notes": "12yo: pleasant, calm; 4yo: fine, gentle. Runs a membership/community model, call ahead, less of a pure walk-in petting venue."
  },
  {
@@ -4992,8 +4992,8 @@
   "city": "SZ",
   "category": "kids",
   "name": "Qingqing World eco-park 青青世界",
-  "lat": 22.4855,
-  "lng": 113.9065,
+  "lat": 22.506818,
+  "lng": 113.895766,
   "address": "1 Qingqing Rd, Yueliangwan, Nanshan (foot of Dananshan)",
   "desc": "AAAA eco theme-park where kids fish a stocked pond, scoop goldfish, catch loaches by hand and do pottery/clay DIY, with an on-site farm restaurant for meals.",
   "price": {
@@ -5114,8 +5114,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
-  "lat": 22.4826,
-  "lng": 113.9247,
+  "lat": 22.48714,
+  "lng": 113.91092,
   "address": "L2-208, Bldg 1 Zone B, Sea World, 1128 Wanghai Rd, Shekou",
   "desc": "All-you-can-eat Japanese teppanyaki: chefs cook on the iron plate right in front of you with the classic flair show (sizzle, flips, the onion-ring 'volcano'), grilling salmon, foie gras, scallops, tiger prawns, even Häagen-Dazs.",
   "price": {
@@ -5225,8 +5225,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
-  "lat": 22.4831,
-  "lng": 113.9252,
+  "lat": 22.485907,
+  "lng": 113.912967,
   "address": "Bldg 1-305, Sea World Stern Plaza, 1128 Wanghai Rd, Shekou",
   "desc": "Northern-Chinese restaurant known for tableside Peking-duck carving plus a live kuaiban (快板 clapper) performance, staff wheel a cart over and slice the roast duck in front of you.",
   "price": {
@@ -5245,8 +5245,8 @@
   "city": "SZ",
   "category": "food",
   "name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
-  "lat": 22.4735,
-  "lng": 113.9165,
+  "lat": 22.4743,
+  "lng": 113.9103,
   "address": "K11 ECOAST waterfront food market, Taizi Bay, Shekou",
   "desc": "A Kyoto-themed Japanese food 'market' of open-front 板前 stalls; the teppanyaki station has the chef grilling at the counter an arm's length away, alongside tempura, sushi and yakitori.",
   "price": {
@@ -5265,8 +5265,8 @@
   "city": "SZ",
   "category": "food",
   "name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
-  "lat": 22.4806,
-  "lng": 113.9284,
+  "lat": 22.481409,
+  "lng": 113.910357,
   "address": "1F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd",
   "desc": "All-day buffet built around interactive live-cooking stations: watch chefs grill, carve and cook regional Asian dishes, western grills and fresh seafood at open counters.",
   "price": {
@@ -5285,8 +5285,8 @@
   "city": "SZ",
   "category": "cafe",
   "name": "Cream Story Italian Gelato 可丽牧手工冰淇淋 (南海意库)",
-  "lat": 22.4818,
-  "lng": 113.9163,
+  "lat": 22.4894,
+  "lng": 113.9133,
   "address": "3-3/3-4 Xinghua 1st Rd, Nanhai Yiku, Shekou, Nanshan",
   "desc": "Artisanal Italian gelato made fresh daily with 24+ rotating flavours (HK fresh milk, imported pistachio/hazelnut). One of Shenzhen's earliest boutique gelaterias; free tasting before you buy.",
   "price": {
@@ -5352,8 +5352,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Yuyue Sichuan Cuisine 渝月川菜 (海上世界·环船广场)",
-  "lat": 22.482,
-  "lng": 113.9186,
+  "lat": 22.48598,
+  "lng": 113.91295,
   "address": "Huanchuan Plaza F2, Nüwa Rd, Sea World, Shekou",
   "desc": "Polished Chongqing-Sichuan restaurant on Dianping's 必吃榜 (Must-Eat List): oil-poured boiling fish (油泼沸腾鱼), saliva chicken, 水煮牛肉 and 辣子鸡. Good for group dinners.",
   "price": {
@@ -5415,8 +5415,8 @@
   "city": "SZ",
   "category": "food",
   "name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
-  "lat": 22.4822,
-  "lng": 113.9183,
+  "lat": 22.4859,
+  "lng": 113.913,
   "address": "Sea World F1, Huanchuan Plaza, Shekou",
   "desc": "Well-known Sichuan-style grilled-fish (烤鱼) chain on Dianping's 必吃榜: signature fresh green-pepper numbing grilled fish (鲜青椒爽麻烤鱼) and 毛血旺烤鱼. A spicy, shareable meal.",
   "price": {
@@ -5498,8 +5498,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Hongsong Kyoto Japanese Market 泓松京都板前料理 (K11)",
-  "lat": 22.4781,
-  "lng": 113.9082,
+  "lat": 22.4742,
+  "lng": 113.9104,
   "address": "K11 ECOAST South Bldg L5 504-508, Taizi Bay, Shekou",
   "desc": "Kyoto-style Japanese 'market' of nine counter-cooking (板前) stalls in the new K11 ECOAST: sushi, sashimi, tempura, teppanyaki and skewers prepared in front of you. The upscale walkable sushi option.",
   "price": {
@@ -5518,8 +5518,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Sumo Ramen 相扑拉面 (K11)",
-  "lat": 22.4781,
-  "lng": 113.908,
+  "lat": 22.474253,
+  "lng": 113.91037,
   "address": "K11 ECOAST South Bldg L5 SL516, Taizi Bay, Shekou",
   "desc": "Hakata-style tonkotsu ramen specialist in K11 ECOAST; signature spicy sesame tonkotsu (招牌辣麻豚骨拉面) with a rich pork-bone broth. The nearest genuine ramen-ya to the apartment.",
   "price": {
@@ -5538,8 +5538,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Latina Brazilian Steakhouse 拉蒂娜巴西烤肉 (海上世界店)",
-  "lat": 22.4824,
-  "lng": 113.9151,
+  "lat": 22.4843,
+  "lng": 113.9128,
   "address": "Sea World Zone C, 001-C004, 1128 Wanghai Rd, Shekou",
   "desc": "Genuine Brazilian churrasco rodízio: skewers of beef, pork and seafood carved tableside plus a full Brazilian buffet (salads, pastas, desserts). Terrace tables catch the Sea World fountain show. The one real Brazilian BBQ in walking distance.",
   "price": {
@@ -5629,8 +5629,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Lao Wan Hui Shaanxi Noodles 老碗会 (海上世界汇港)",
-  "lat": 22.4862,
-  "lng": 113.9168,
+  "lat": 22.48866,
+  "lng": 113.91113,
   "address": "Hui Gang Phase 1, L1-16/17, 1 Gongye 3rd Rd, Sea World, Shekou",
   "desc": "Shaanxi big-bowl (老碗) noodle house: biangbiang面, oil-splashed 油泼面, 臊子面 and 肉夹馍. Right inside the Sea World Hui Gang mall, the closest Shaanxi option to the apartment.",
   "price": {
@@ -5649,8 +5649,8 @@
   "city": "SZ",
   "category": "food",
   "name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
-  "lat": 22.492,
-  "lng": 113.92,
+  "lat": 22.4936,
+  "lng": 113.9221,
   "address": "Huaguoshan Bldg A/B, Unit 103, Shekou, Nanshan",
   "desc": "A dedicated 陕西面馆 specializing in Shaanxi noodles (biangbiang / 油泼面) and 肉夹馍. The nearest purpose-built Shaanxi noodle restaurant, a bit inland from Sea World.",
   "price": {
@@ -5669,8 +5669,8 @@
   "city": "SZ",
   "category": "shopping",
   "name": "Nanyou Clothing & Luggage Wholesale 南油服装批发 (飞马城)",
-  "lat": 22.5024,
-  "lng": 113.9268,
+  "lat": 22.513558,
+  "lng": 113.91828,
   "address": "Tian'an Bldg 112, 2087 Nanhai Ave / Feima City 204, Xiangnan Rd, Nanyou, Nanshan",
   "desc": "Sprawling foreign-trade (外贸原单/尾货) clothing wholesale district of 10+ buildings, Chinese brands and Euro/Japanese/Korean knockoff-style fashion, plus a dedicated luggage (箱包) section. Wholesale prices, single pieces OK, gritty market vibe.",
   "price": {
@@ -5724,7 +5724,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~12 min from Shekou (Metro Nanyou, Line 9/12).",
+  "commute": "Direct Line 12 from Sea World to 南油 (Exit E, just 3 stops), ~20 min. DiDi ~13 min, ¥18-25. Very close, take the direct metro.",
   "notes": "This is the clothes + luggage market you recall (飞马城204栋 服装箱包批发). Bargaining expected; busiest afternoons. Not a mall."
  },
  {
@@ -5787,7 +5787,7 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~25-30 min from Shekou.",
+  "commute": "Direct Line 2 from Sea World to 华强北 (Exit B), ~55 min, no transfer. DiDi ~35 min, ¥55-75. Metro beats traffic.",
   "notes": "Cheap Chinese-brand women's clothing; bargaining expected."
  },
  {
@@ -5795,8 +5795,8 @@
   "city": "SZ",
   "category": "shopping",
   "name": "Dongmen Baima Clothing City 东门白马服装城",
-  "lat": 22.5471,
-  "lng": 114.118,
+  "lat": 22.55038,
+  "lng": 114.115018,
   "address": "Dongmen Old Street, Luohu",
   "desc": "Shenzhen's largest and most influential clothing wholesale/retail market, 6 floors (B1-5F): trendy women's wear (2F), menswear (3-4F), foreign-trade goods (5F). Very cheap, huge variety, busy old-street vibe.",
   "price": {
@@ -5850,7 +5850,182 @@
   },
   "photos": [],
   "phone": "",
-  "commute": "~35-40 min from Shekou (Metro Dongmen, Line 3), edge of range.",
+  "commute": "Metro ~62 min: Line 2 to 大剧院, change Line 1 to 老街 (1 stop, Dongmen). DiDi ~45 min, ¥80-100 (Dongmen jams). Recommend metro.",
   "notes": "Cheap Chinese-brand + foreign-trade clothes; bargaining expected. Cheapest early morning."
+ },
+ {
+  "id": "sz-toymkt-jinya",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Jinya Toy & Stationery Wholesale Market 金雅文具玩具批发市场",
+  "lat": 22.5272,
+  "lng": 113.9262,
+  "address": "Guimiao W Rd, Fuhaiyuan 1-2F, Nanshan (near Daxin Metro)",
+  "desc": "Nanshan's only large dedicated toy-and-stationery wholesale market (~20,000 m²): rows of stalls with cheap toys, plush, blind-boxes, model/hobby kits, party goods and stationery at wholesale prices. Gritty arcade vibe, bargaining expected.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "phone": "0755-25941206",
+  "commute": "Metro ~38 min: Line 12 to 桃园, change Line 1 to 大新 (Exit C2, 12-15 min walk). DiDi ~20 min, ¥30-38. Close, DiDi is quicker.",
+  "notes": "Dedicated toy/stationery wholesale market, not electronics, not a mall. Confirm exact pin on Amap (金雅文具玩具批发市场)."
+ },
+ {
+  "id": "sz-toymkt-sungang",
+  "city": "SZ",
+  "category": "shopping",
+  "name": "Sungang Toy & Gift Wholesale Market 笋岗文具玩具礼品批发市场",
+  "lat": 22.56048,
+  "lng": 114.10369,
+  "address": "2033 Bao'an N Rd, Sungang, Luohu (near Sungang Metro, Line 7)",
+  "desc": "Shenzhen's largest, best-known toy/stationery/gift wholesale market: a 4-storey, ~10,000 m² building with 300+ stalls of cheap toys, plush, blind-boxes (Labubu/Pop Mart-style, Crayon Shin-chan, etc.), figurines, party supplies and stationery. Classic wholesale-trade vibe, haggling common.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:30",
+     "20:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "Metro ~70 min: Line 2 to 华强北, change Line 7 to 笋岗 (Exit A). DiDi ~40 min, ¥80-95 (Luohu jams). Recommend metro, punctual and cheaper.",
+  "notes": "Dedicated toy/gift wholesale market (not electronics, not a mall). The big blind-box/plush option for the kids."
+ },
+ {
+  "id": "sz-cruise-gba1",
+  "city": "SZ",
+  "category": "sights",
+  "name": "Shenzhen Bay Sightseeing Cruise 'Greater Bay Area No.1' 海上看深圳·大湾区一号",
+  "lat": 22.4719,
+  "lng": 113.9088,
+  "address": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan",
+  "desc": "A ~100-min loop on the hybrid catamaran 'Greater Bay Area No.1': Shekou port, the container terminal, the Shenzhen Bay Bridge and back, with open-air top-deck views of the bay and skyline. Ticket includes an afternoon-tea snack set; comfortable for kids.",
+  "price": {
+   "amount": 150,
+   "cur": "CNY",
+   "note": "adult ¥150 online (¥200 gate); child <6 ¥75; under 1 free; ~100 min"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "+86-400-8831872",
+  "commute": "~5 min, Shekou Cruise Center is right by the apartment.",
+  "notes": "Sailings 16:00 (day) and 19:00 (sunset/skyline). Trip.com 4.6/5. Collect tickets 30 min before; real-name booking; weather-dependent. Book via Shekou Cruise WeChat (cmskchp) or Ctrip."
+ },
+ {
+  "id": "sz-cruise-bridge",
+  "city": "SZ",
+  "category": "sights",
+  "name": "HK-Zhuhai-Macau Bridge Sea Cruise 港珠澳大桥海上游",
+  "lat": 22.471891,
+  "lng": 113.908843,
+  "address": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan",
+  "desc": "A ~3-hour open-sea sightseeing cruise on the same 'Greater Bay Area No.1' vessel out to the HK-Zhuhai-Macau Bridge and back, with on-board entertainment. Some departures are sunset + buffet-dinner sailings with music/magic shows.",
+  "price": {
+   "amount": 198,
+   "cur": "CNY",
+   "note": "from ~¥198 adult (¥218 standard; child ¥109); dinner dates ¥318-398; ~3h"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "+86-400-8831872",
+  "commute": "~5 min from the apartment.",
+  "notes": "Roughly every 2h, 08:00-18:00 (varies); dinner/show sailings ~18:00. Same 4.6/5 operator. ID required; book via Ctrip or Shekou Cruise WeChat. (A multi-day luxury ship, 招商伊敦号, is also home-ported here.)"
+ },
+ {
+  "id": "sz-fishing-lianghang",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Lianghang Sea-Fishing Club 领航海钓 (Bao'an airport pier)",
+  "lat": 22.6035098,
+  "lng": 113.8095821,
+  "address": "Airport/Fuyong Ferry Terminal, Bao'an (boats fish Qianhai/Shekou/estuary waters)",
+  "desc": "The nearest operator to Shekou for genuine 出海船钓: boat and rock fishing into the Qianhai/Shekou/Pearl-estuary waters, plus all-day dock fishing on the pier. More an anglers' club than a polished tourist boat.",
+  "price": {
+   "amount": 200,
+   "cur": "CNY",
+   "note": "boat fishing ¥200-1000/person by distance; dock fishing ¥188/day"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "Metro+ ~70 min, ¥8 (Line 12 → 福永 → Line 11 to 机场, then taxi/bus ~10 min to the pier). DiDi direct ~40 min, ¥70-90. DiDi if catching a boat.",
+  "notes": "No charter departs Shekou pier itself; this is the nearest that fishes Shekou/Qianhai waters. Bait, buckets, ice provided; doable with kids. Book via Dianping/Meituan (search 海钓)."
+ },
+ {
+  "id": "sz-fishing-nanao",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Nan'ao Fish-Raft Sea Fishing 南澳鱼排海钓 (Dapeng)",
+  "lat": 22.53319,
+  "lng": 114.485396,
+  "address": "Xiexia Pier / Nan'ao Fishing Harbour, Dapeng",
+  "desc": "The most family/beginner-friendly pick: a speedboat ferries you to a stable floating fish-raft where kids fish for sea bass and small grouper (beginner level), and the restaurant cooks your catch. You can also charter a 4-person speedboat for open-water 海钓.",
+  "price": {
+   "amount": 58,
+   "cur": "CNY",
+   "note": "raft ¥58/person (¥138 incl. seafood meal); speedboat ¥300/1h, ¥500/2h"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "Dapeng has no metro: metro+bus is ~3 h (very inconvenient). Best by DiDi/charter direct, ~75 km, 1.5-2 h, ¥200-280 (charter ¥300+).",
+  "notes": "Best for kids: stable raft, beginner level, catch likely; rods rentable ¥30 + bait ¥20; crab/shrimp cages ¥30. Bring seasickness meds. Book via Dianping/Meituan (海钓 + date)."
+ },
+ {
+  "id": "sz-fishing-7star",
+  "city": "SZ",
+  "category": "nature",
+  "name": "Seven-Star Bay Yacht Fishing 七星湾游艇海钓 (Dapeng)",
+  "lat": 22.5673,
+  "lng": 114.5336,
+  "address": "Seven-Star Bay Marina, Dongshan, Dapeng",
+  "desc": "A premium, fully-equipped option: charter a yacht/fishing boat with rods and bait provided, running ~3-hour trips to fish-rich spots like Sanmen Island and Yangmeikeng. Comfortable and well-organised for families.",
+  "price": {
+   "amount": 1800,
+   "cur": "CNY",
+   "note": "yacht/boat charter per boat, ~3h half-day; call club to quote"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "Dapeng has no metro: metro+bus ~2.5-3 h. Best by DiDi/charter direct to Dongshan, ~65 km, 1.5-2 h, ¥180-250.",
+  "notes": "Rods and bait supplied; calm, organised, good for a family group (charter pricing). Half-day ~13:30 departure. Contact Seven-Star Bay marina to book."
  }
 ]

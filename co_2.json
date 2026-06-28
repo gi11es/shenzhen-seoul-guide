@@ -1,0 +1,156 @@
+[
+{
+"id": "sz-gba",
+"name": "Eyes of the GBA (Bay Area Book City)",
+"addr": "No. 1 Baohua Rd, Bao'an",
+"lat": 22.5505,
+"lng": 113.879
+},
+{
+"id": "sz-jiaochangwei",
+"name": "Jiaochangwei Beach (较场尾)",
+"addr": "Jiaochangwei, Dapeng, Longgang",
+"lat": 22.5922831,
+"lng": 114.5061164
+},
+{
+"id": "sz-central-book-city",
+"name": "Shenzhen Book City — Central (中心城)",
+"addr": "2014 Fuzhong 1st Rd, Futian",
+"lat": 22.5493,
+"lng": 114.0545
+},
+{
+"id": "sz-splendid-china",
+"name": "Splendid China Folk Culture Village (锦绣中华)",
+"addr": "9005 Shennan Blvd, OCT, Nanshan",
+"lat": 22.5333761,
+"lng": 113.9836201
+},
+{
+"id": "sz-kpfun",
+"name": "KP-FUN Trendy Play Street (AR karting)",
+"addr": "3F, C Future City, 9283 Binhe Ave, Futian",
+"lat": 22.5322,
+"lng": 114.0208
+},
+{
+"id": "sz-gg-creative",
+"name": "G&G Creative Community 创意社区",
+"addr": "9 Liyuan Rd, Shekou, Nanshan",
+"lat": 22.4895,
+"lng": 113.9155
+},
+{
+"id": "sz-24histories-academy",
+"name": "24 Histories Academy 二十四史书院",
+"addr": "Gankeng Ancient Town (north), Longgang",
+"lat": 22.6589693,
+"lng": 114.0995854
+},
+{
+"id": "sz-yuan-gu",
+"name": "Yuangu 元古云境",
+"addr": "NL115A, The Lane, MixC World (万象天地), Nanshan",
+"lat": 22.5444,
+"lng": 113.9504
+},
+{
+"id": "sz-art-museum-new",
+"name": "Shenzhen Art Museum (New)",
+"addr": "30 Tenglong Rd, Minzhi, Longhua",
+"lat": 22.6276978,
+"lng": 114.0187698
+},
+{
+"id": "sz-dameisha",
+"name": "Dameisha Seaside Park 大梅沙海滨公园",
+"addr": "33 Yanmei Rd, Yantian",
+"lat": 22.5943,
+"lng": 114.3021
+},
+{
+"id": "sz-pick-17bread",
+"name": "1-7 Bread 壹柒面包 (Sea World)",
+"addr": "Sea World, Shekou, Nanshan",
+"lat": 22.4748,
+"lng": 113.9225
+},
+{
+"id": "sz-pick-crabxingji",
+"name": "Crab Xingji 蟹兴记",
+"addr": "Houhai / Coastal City, Nanshan",
+"lat": 22.5165,
+"lng": 113.9435
+},
+{
+"id": "sz-hk-k11ecoast",
+"name": "K11 ECOAST 深圳K11 ECOAST",
+"addr": "Taizi Bay / Prince Bay, Shekou, Nanshan",
+"lat": 22.4722,
+"lng": 113.9005
+},
+{
+"id": "sz-hk-yewai",
+"name": "Yewai Urban Tea Room 叶外·Urban茶室",
+"addr": "Coastal City / Haian Cheng, Houhai, Nanshan",
+"lat": 22.5168,
+"lng": 113.9332
+},
+{
+"id": "sz-disiyuansu",
+"name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
+"addr": "G floor atrium, O'PLAZA, OCT Harbour, Nanshan",
+"lat": 22.5128,
+"lng": 113.9842
+},
+{
+"id": "sz-lib-shufang",
+"name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+"addr": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan",
+"lat": 22.5275,
+"lng": 113.9285
+},
+{
+"id": "sz-pet-k11cat",
+"name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
+"addr": "8F North Building, K11 ECOAST, 61 Taizi Bay Rd, Shekou",
+"lat": 22.4668,
+"lng": 113.8808
+},
+{
+"id": "sz-interactive-qingqing",
+"name": "Qingqing World eco-park 青青世界",
+"addr": "1 Qingqing Rd, Yueliangwan, Nanshan (foot of Dananshan)",
+"lat": 22.4855,
+"lng": 113.9065
+},
+{
+"id": "sz-teppan-open",
+"name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
+"addr": "1F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd",
+"lat": 22.4806,
+"lng": 113.9284
+},
+{
+"id": "sz-walk-ramen-sumo",
+"name": "Sumo Ramen 相扑拉面 (K11)",
+"addr": "K11 ECOAST South Bldg L5 SL516, Taizi Bay, Shekou",
+"lat": 22.4781,
+"lng": 113.908
+},
+{
+"id": "sz-clothesmkt-baima",
+"name": "Dongmen Baima Clothing City 东门白马服装城",
+"addr": "Dongmen Old Street, Luohu",
+"lat": 22.5471,
+"lng": 114.118
+},
+{
+"id": "sz-fishing-nanao",
+"name": "Nan'ao Fish-Raft Sea Fishing 南澳鱼排海钓 (Dapeng)",
+"addr": "Xiexia Pier / Nan'ao Fishing Harbour, Dapeng",
+"lat": 22.5405,
+"lng": 114.4935
+}
+]

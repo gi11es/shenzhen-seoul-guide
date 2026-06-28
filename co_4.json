@@ -1,0 +1,149 @@
+[
+{
+"id": "sz-nathist",
+"name": "Shenzhen Natural History Museum",
+"addr": "Pingshan District",
+"lat": 22.6954,
+"lng": 114.3588
+},
+{
+"id": "sz-xichong",
+"name": "Xichong Beach (西涌)",
+"addr": "Xichong, Nan'ao, Dapeng, Longgang",
+"lat": 22.4763723,
+"lng": 114.5309843
+},
+{
+"id": "sz-one-avenue",
+"name": "One Avenue 卓悦中心",
+"addr": "Fuhua 1st Rd, Gangxia, Futian",
+"lat": 22.5389,
+"lng": 114.0608
+},
+{
+"id": "sz-huafa-snow-world",
+"name": "Qianhai Huafa Ice & Snow World (前海·华发冰雪世界)",
+"addr": "Qianhai Bay area, Bao'an",
+"lat": 22.7157734,
+"lng": 113.766717
+},
+{
+"id": "sz-haidilao-1",
+"name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+"addr": "NL309-310, Baoneng Taikoo City, 2233 Zhongxin Rd, Nanshan",
+"lat": 22.5045,
+"lng": 113.9342
+},
+{
+"id": "sz-seaworld-fountain",
+"name": "Sea World Music Fountain Show 音乐喷泉",
+"addr": "Water plaza by the Minghua ship, Sea World, Shekou, Nanshan",
+"lat": 22.4862,
+"lng": 113.9123
+},
+{
+"id": "sz-culture-square",
+"name": "Shenzhen Bay Culture Square 深圳湾文化广场",
+"addr": "2516 Keyuan South Rd, Houhai, Nanshan",
+"lat": 22.5153022,
+"lng": 113.9404676
+},
+{
+"id": "sz-bay-chef-fei",
+"name": "The Bay by Chef Fei 东湾",
+"addr": "1F, Mandarin Oriental, Block A UpperHills, 5001 Huanggang Rd, Futian",
+"lat": 22.5602154,
+"lng": 114.0667411
+},
+{
+"id": "sz-guan-shanyue",
+"name": "Guan Shanyue Art Museum 关山月美术馆",
+"addr": "6026 Hongli Rd, Futian",
+"lat": 22.5520952,
+"lng": 114.0590877
+},
+{
+"id": "sz-xinggaodu",
+"name": "Xinggaodu Dream Water World 星高度梦想水世界",
+"addr": "Yunli Dream Park, Fada Rd, Bantian, Longgang",
+"lat": 22.6306,
+"lng": 114.0689
+},
+{
+"id": "sz-pick-mekong",
+"name": "Mekong River Sports Town 湄南河体育小镇",
+"addr": "Haiwan Rd, Shekou, Nanshan",
+"lat": 22.482,
+"lng": 113.932
+},
+{
+"id": "sz-pick-pengxiaoguan",
+"name": "Peng Xiao Guan 鹏小馆 (OCT)",
+"addr": "OCT 华侨城, Nanshan",
+"lat": 22.54,
+"lng": 113.99
+},
+{
+"id": "sz-hk-houhaihui",
+"name": "Houhaihui 后海汇",
+"addr": "Houhai, Nanshan",
+"lat": 22.5092,
+"lng": 113.9358
+},
+{
+"id": "sz-seafood-market",
+"name": "Shekou Seafood Market 蛇口海鲜市场",
+"addr": "49 Yucun Rd, Shekou, Nanshan",
+"lat": 22.4893121,
+"lng": 113.9233487
+},
+{
+"id": "sz-chess-pengcheng",
+"name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+"addr": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave",
+"lat": 22.5283,
+"lng": 113.9305
+},
+{
+"id": "sz-massage-lesbobos",
+"name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
+"addr": "Shuangxi Garden Phase 1, 113-114, Wanghai Rd, Sea World, Shekou",
+"lat": 22.4796,
+"lng": 113.9126
+},
+{
+"id": "sz-pet-shangshan",
+"name": "Shangshan Cat & Dog Cafe 上山狗狗事务所 (南山店)",
+"addr": "Rm 1202, Block B, Min Bldg, Wenxin Rd, Nanshan",
+"lat": 22.5238,
+"lng": 113.9282
+},
+{
+"id": "sz-teppan-tairyo",
+"name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
+"addr": "L2-208, Bldg 1 Zone B, Sea World, 1128 Wanghai Rd, Shekou",
+"lat": 22.4826,
+"lng": 113.9247
+},
+{
+"id": "sz-sichuan-yuyue",
+"name": "Yuyue Sichuan Cuisine 渝月川菜 (海上世界·环船广场)",
+"addr": "Huanchuan Plaza F2, Nüwa Rd, Sea World, Shekou",
+"lat": 22.482,
+"lng": 113.9186
+},
+{
+"id": "sz-xian-laowanhui",
+"name": "Lao Wan Hui Shaanxi Noodles 老碗会 (海上世界汇港)",
+"addr": "Hui Gang Phase 1, L1-16/17, 1 Gongye 3rd Rd, Sea World, Shekou",
+"lat": 22.4862,
+"lng": 113.9168
+},
+{
+"id": "sz-toymkt-sungang",
+"name": "Sungang Toy & Gift Wholesale Market 笋岗文具玩具礼品批发市场",
+"addr": "2033 Bao'an N Rd, Sungang, Luohu (near Sungang Metro, Line 7)",
+"lat": 22.5578,
+"lng": 114.1088
+}
+]

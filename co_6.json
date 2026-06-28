@@ -1,0 +1,149 @@
+[
+{
+"id": "sz-k33",
+"name": "K33 Discovery Farm",
+"addr": "Guangming Happy Garden, Zhenyuan Rd, Guangming",
+"lat": 22.7911,
+"lng": 113.9555
+},
+{
+"id": "sz-miniso-cocopark",
+"name": "MINISO (COCO Park flagship)",
+"addr": "COCO Park, Zhongxin 2nd Rd, Futian",
+"lat": 22.5364,
+"lng": 114.0489
+},
+{
+"id": "sz-nantou-1820",
+"name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+"addr": "By Baode Square, Nantou Ancient City, Nanshan",
+"lat": 22.5404,
+"lng": 113.9194
+},
+{
+"id": "sz-dafen",
+"name": "Dafen Oil Painting Village (大芬油画村)",
+"addr": "Dafen, Buji, Longgang",
+"lat": 22.6126355,
+"lng": 114.1312679
+},
+{
+"id": "sz-michelin-hunan",
+"name": "Nong Geng Ji 农耕记 (Sea World, Michelin)",
+"addr": "Unit 303, 3F Zone B, Sea World Plaza, Shekou, Nanshan",
+"lat": 22.4856,
+"lng": 113.9122
+},
+{
+"id": "sz-zhongshuge",
+"name": "Zhongshuge Bookstore 钟书阁",
+"addr": "East Bank L1-021, Happy Coast (欢乐港湾), Bao'an",
+"lat": 22.5463106,
+"lng": 113.881011
+},
+{
+"id": "sz-ah-ma-handmade",
+"name": "Ah Ma Handmade 阿嬷手作",
+"addr": "L4 SL432, The MixC World (万象天地), Nanshan",
+"lat": 22.5449333,
+"lng": 113.9511274
+},
+{
+"id": "sz-shieyuan",
+"name": "Shiheyuan 柿合缘 新京菜",
+"addr": "L2 NL219, MixC World (万象天地), Nanshan",
+"lat": 22.54495,
+"lng": 113.951
+},
+{
+"id": "sz-aqila-spa",
+"name": "Aqila Hot Spring Spa 阿奇拉汤泉生活",
+"addr": "Floors 2-3, Tianxia Jinniu Plaza, Taoyuan Rd, Nanshan",
+"lat": 22.5315,
+"lng": 113.922
+},
+{
+"id": "gm-shuiwan1979",
+"name": "Shuiwan 1979 Plaza 水湾1979",
+"addr": "Zimao Center, Shekou, Nanshan, Shenzhen",
+"lat": 22.48912,
+"lng": 113.91883
+},
+{
+"id": "sz-pick-24qi",
+"name": "24気 Art & Life Space 24气艺文生活空间",
+"addr": "Houhai, Shenzhen Bay, Nanshan",
+"lat": 22.496,
+"lng": 113.9385
+},
+{
+"id": "sz-batiaoyou-1",
+"name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+"addr": "Nanle Yayuan, Nanyou, Yuehai, Nanshan",
+"lat": 22.508042,
+"lng": 113.928151
+},
+{
+"id": "sz-hk-bollywood",
+"name": "Bollywood Cafe 宝莱坞印度餐厅",
+"addr": "Poly Cultural Centre, Houhai, Nanshan",
+"lat": 22.5125,
+"lng": 113.9338
+},
+{
+"id": "sz-meland",
+"name": "Meland Club (MixC World) 美兰湖儿童乐园",
+"addr": "3F SL382, MixC World 万象天地, 9668 Shennan Blvd, Nanshan",
+"lat": 22.5388,
+"lng": 113.953
+},
+{
+"id": "sz-lib-shekou",
+"name": "Shekou Yucai Library 南山图书馆蛇口育才分馆",
+"addr": "7 Yucai Rd, Shekou, Nanshan",
+"lat": 22.4828,
+"lng": 113.9232
+},
+{
+"id": "sz-massage-ispa",
+"name": "iSpa at Hilton Shekou Nanhai 蛇口希尔顿南海酒店iSpa",
+"addr": "3F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd",
+"lat": 22.482,
+"lng": 113.912
+},
+{
+"id": "sz-interactive-yunqi",
+"name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+"addr": "Dongbin Rd, Nanshan (near Nanyou / Dongjiaotou Metro)",
+"lat": 22.4975,
+"lng": 113.9268
+},
+{
+"id": "sz-teppan-wangshunge",
+"name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
+"addr": "Bldg 1-305, Sea World Stern Plaza, 1128 Wanghai Rd, Shekou",
+"lat": 22.4831,
+"lng": 113.9252
+},
+{
+"id": "sz-walk-sushi-dragon",
+"name": "Dragon Sake Bar Izakaya 龙酒场居酒屋",
+"addr": "Sea World Zone A, L1, 1128 Wanghai Rd, Shekou",
+"lat": 22.4828,
+"lng": 113.915
+},
+{
+"id": "sz-clothesmkt-nanyou",
+"name": "Nanyou Clothing & Luggage Wholesale 南油服装批发 (飞马城)",
+"addr": "Tian'an Bldg 112, 2087 Nanhai Ave / Feima City 204, Xiangnan Rd, Nanyou, Nanshan",
+"lat": 22.5024,
+"lng": 113.9268
+},
+{
+"id": "sz-cruise-bridge",
+"name": "HK-Zhuhai-Macau Bridge Sea Cruise 港珠澳大桥海上游",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan",
+"lat": 22.4763,
+"lng": 113.9172
+}
+]

@@ -1,0 +1,149 @@
+[
+{
+"id": "sz-seg",
+"name": "SEG Electronics Market (Huaqiangbei)",
+"addr": "1002 Huaqiangbei Rd, Futian",
+"lat": 22.544,
+"lng": 114.0822
+},
+{
+"id": "sz-xili-fruit-farm",
+"name": "Xili Fruit Farm — Litchi World (西丽果场)",
+"addr": "Litchi World, Shahe West Rd (north), Xili, Nanshan",
+"lat": 22.6108357,
+"lng": 113.9334942
+},
+{
+"id": "sz-wanda-longgang",
+"name": "Longgang Wanda Plaza 龙岗万达广场",
+"addr": "1 Huanan 2nd Rd, Pinghu, Longgang",
+"lat": 22.6771,
+"lng": 114.126
+},
+{
+"id": "sz-mocape",
+"name": "MOCAPE (当代艺术与城市规划馆)",
+"addr": "184 Fuzhong Rd, Lianhua, Futian",
+"lat": 22.5485263,
+"lng": 114.0566989
+},
+{
+"id": "sz-haidilao-2",
+"name": "Haidilao 海底捞 (Hanjing Center)",
+"addr": "3F, Hanjing Center, 23 Dengliang Rd, Houhai, Nanshan",
+"lat": 22.5126,
+"lng": 113.9382
+},
+{
+"id": "sz-dental",
+"name": "Dental Bauhinia 紫荆口腔 (Shekou)",
+"addr": "Shop 27, Phase II, Coastal Rose Garden, Wanghai Rd, Shekou, Nanshan",
+"lat": 22.488,
+"lng": 113.915
+},
+{
+"id": "sz-shiopon",
+"name": "Shiopon (salt-bread bakery)",
+"addr": "L1 CL120, Shenzhen Bay MixC (深圳湾万象城), Nanshan",
+"lat": 22.5179038,
+"lng": 113.9389111
+},
+{
+"id": "sz-baoan-hunan-noodle",
+"name": "Sheng Xiang Ting 盛香亭 (Happy Harbour)",
+"addr": "B1 food hall (B1北-080-081), Bao'an Happy Harbour East Bank",
+"lat": 22.54635,
+"lng": 113.8811
+},
+{
+"id": "sz-museum-history",
+"name": "Shenzhen Museum (History & Folk Culture)",
+"addr": "Fuzhong 3rd Rd, Civic Center, Futian",
+"lat": 22.5462992,
+"lng": 114.0566279
+},
+{
+"id": "sz-haibei-bay",
+"name": "Haibei Bay 海贝湾 (Shenzhen's Santorini)",
+"addr": "Haibin Rd, Nan'ao, Dapeng",
+"lat": 22.5448,
+"lng": 114.4798
+},
+{
+"id": "sz-pick-longbar",
+"name": "Long Bar (Raffles, One Shenzhen Bay)",
+"addr": "Raffles, One Shenzhen Bay, Houhai, Nanshan",
+"lat": 22.4945,
+"lng": 113.937
+},
+{
+"id": "sz-pick-octloft",
+"name": "OCT-LOFT 华侨城创意文化园",
+"addr": "OCT 华侨城, Nanshan",
+"lat": 22.552,
+"lng": 113.997
+},
+{
+"id": "sz-hk-talentpark",
+"name": "Talent Park 人才公园",
+"addr": "Shenzhen Bay, Houhai, Nanshan",
+"lat": 22.4892,
+"lng": 113.9302
+},
+{
+"id": "sz-bell-nature",
+"name": "Bell Nature Exploration Center 贝尔自然探索中心",
+"addr": "Sea World Zone D / Bow Plaza, Shekou, Nanshan",
+"lat": 22.4798,
+"lng": 113.9189
+},
+{
+"id": "sz-chess-zhiteng",
+"name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+"addr": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)",
+"lat": 22.5745,
+"lng": 113.947
+},
+{
+"id": "sz-massage-lispa",
+"name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+"addr": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou",
+"lat": 22.4778,
+"lng": 113.9082
+},
+{
+"id": "sz-pet-supaw",
+"name": "SUPAW HUB (Raffles City) 深圳来福士店",
+"addr": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan",
+"lat": 22.5128,
+"lng": 113.9268
+},
+{
+"id": "sz-teppan-hemu",
+"name": "Hemu Omakase Teppanyaki 禾木鲸生Omakase铁板烧 (海上世界店)",
+"addr": "Tower 17 Phase 1, Bitao Garden, Taizi Rd, Shekou",
+"lat": 22.4809,
+"lng": 113.9231
+},
+{
+"id": "sz-sichuan-tanyu",
+"name": "TanYu Grilled Fish 探鱼烤鱼 (海上世界店)",
+"addr": "Sea World F1, Huanchuan Plaza, Shekou",
+"lat": 22.4822,
+"lng": 113.9183
+},
+{
+"id": "sz-xian-tanqinji",
+"name": "Tan Qin Ji Shaanxi Noodles 探秦记陕西面馆 (花果山店)",
+"addr": "Huaguoshan Bldg A/B, Unit 103, Shekou, Nanshan",
+"lat": 22.492,
+"lng": 113.92
+},
+{
+"id": "sz-cruise-gba1",
+"name": "Shenzhen Bay Sightseeing Cruise 'Greater Bay Area No.1' 海上看深圳·大湾区一号",
+"addr": "Shekou Cruise Center, 1 Haiyun Rd, Nanshan",
+"lat": 22.4762,
+"lng": 113.917
+}
+]
