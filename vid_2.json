@@ -1,0 +1,92 @@
+[
+{
+"id": "sz-k33",
+"name": "K33 Discovery Farm",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-haidilao-1",
+"name": "Haidilao 海底捞 (Baoneng Taikoo City)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-ah-ma-handmade",
+"name": "Ah Ma Handmade 阿嬷手作",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "gm-nude-kimbap",
+"name": "Wonjo Nude Cheese Kimbap",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-namsandong-gotgan",
+"name": "Namsandong Gotgan 남산동곳간",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-bbq-star",
+"name": "BBQ Chicken Myeongdong Star",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-ziu-bbq",
+"name": "ZIU BBQ",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "sz-pick-longbar",
+"name": "Long Bar (Raffles, One Shenzhen Bay)",
+"city": "SZ",
+"cat": "nightlife"
+},
+{
+"id": "sz-batiaoyou-2",
+"name": "Batiaoyou 八条友烧烤 (Bao'an BREWTOWN)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-meland",
+"name": "Meland Club (MixC World) 美兰湖儿童乐园",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-chess-zhiteng",
+"name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-massage-lesbobos",
+"name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
+"city": "SZ",
+"cat": "services"
+},
+{
+"id": "sz-pet-k11cat",
+"name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-interactive-skg",
+"name": "SKG Shrimp-Fishing Hall SKG娱乐钓虾馆",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-teppan-wangshunge",
+"name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
+"city": "SZ",
+"cat": "food"
+}
+]

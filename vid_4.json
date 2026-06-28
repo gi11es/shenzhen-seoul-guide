@@ -1,0 +1,92 @@
+[
+{
+"id": "sz-xili-fruit-farm",
+"name": "Xili Fruit Farm — Litchi World (西丽果场)",
+"city": "SZ",
+"cat": "nature"
+},
+{
+"id": "sz-mood-coffee",
+"name": "Mood Coffee (Shekou)",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-shieyuan",
+"name": "Shiheyuan 柿合缘 新京菜",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "gm-bukchangdong-soondubu",
+"name": "BukChangDong Soondubu (Myeongdong)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-yello-chicken",
+"name": "Yell-o! Chicken",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-emperor-buffet",
+"name": "Korean Emperor Buffet",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-cafe-de-coral",
+"name": "Café de Coral (Admiralty)",
+"city": "HK",
+"cat": "food"
+},
+{
+"id": "sz-pick-fukanglou",
+"name": "Fukanglou Coffee 福康楼咖啡",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-hk-xiesanbao",
+"name": "Xie San Bao 蟹三宝",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-disiyuansu",
+"name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-lib-nanshan",
+"name": "Nanshan District Library (main) 南山图书馆总馆",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-massage-ispa",
+"name": "iSpa at Hilton Shekou Nanhai 蛇口希尔顿南海酒店iSpa",
+"city": "SZ",
+"cat": "services"
+},
+{
+"id": "sz-pet-shangshan",
+"name": "Shangshan Cat & Dog Cafe 上山狗狗事务所 (南山店)",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-interactive-pipi",
+"name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-teppan-open",
+"name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
+"city": "SZ",
+"cat": "food"
+}
+]

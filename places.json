@@ -731,22 +731,6 @@
   "notes": "Coordinates are the COCO Park mall; confirm the exact unit/floor on arrival."
  },
  {
-  "id": "sz-eslite-mixcworld",
-  "city": "SZ",
-  "category": "culture",
-  "name": "Eslite Spectrum site (closed) → MixC World",
-  "lat": 22.5449,
-  "lng": 113.9511,
-  "address": "MixC World, 9668 Shennan Blvd, Nanshan",
-  "desc": "Shenzhen's only Eslite Spectrum (诚品生活) ran here 2018–2020 and is permanently closed. The host mall MixC World remains a major destination with other bookstores and cafes.",
-  "price": null,
-  "hours": null,
-  "photos": [
-   "https://upload.wikimedia.org/wikipedia/commons/6/67/Huarun_Wanxiang_World_in_Nanshan2021.jpg"
-  ],
-  "notes": "No live Eslite in Shenzhen as of 2026. Kept as a pointer to MixC World (华润万象天地) as a substitute."
- },
- {
   "id": "sz-central-book-city",
   "city": "SZ",
   "category": "culture",
@@ -4087,5 +4071,1233 @@
   ],
   "commute": "~5 min DiDi or ~12 min walk from the apartment (~1 km); Metro Dongjiaotou (Line 2/8/12) ~230 m.",
   "notes": "Pick downstairs, cooked at the adjacent 加工 eateries (e.g. 德记烧腊饭店) for a per-斤 fee. Processing stalls are next-door rather than strictly upstairs."
+ },
+ {
+  "id": "sz-bell-nature",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Bell Nature Exploration Center 贝尔自然探索中心",
+  "lat": 22.4798,
+  "lng": 113.9189,
+  "address": "Sea World Zone D / Bow Plaza, Shekou, Nanshan",
+  "desc": "Indoor nature center with three halls: a Pet Park where kids feed and pet alpacas, rabbits, guinea pigs, marmots, a mini pony, ducks, tortoises and parrots; an ocean/marine-touch hall; and a hands-on explorer hall, plus animal shows.",
+  "price": {
+   "amount": 88,
+   "cur": "CNY",
+   "note": "pet hall ~¥88; 3-hall combo ~¥198 (2 adults+1 child)"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~10 min from Shekou, walkable from the apartment (Sea World, Line 2 exit A).",
+  "notes": "4yo: excellent (gentle animals, ball pit, shows); 12yo: the explorer + ocean halls and bigger animals keep him engaged. Indoor/weatherproof. Dianping/Ctrip ~4.7. Weekends to 21:00."
+ },
+ {
+  "id": "sz-meland",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Meland Club (MixC World) 美兰湖儿童乐园",
+  "lat": 22.5388,
+  "lng": 113.953,
+  "address": "3F SL382, MixC World 万象天地, 9668 Shennan Blvd, Nanshan",
+  "desc": "~3000 m² flagship soft-play club: an 8.5m multi-level climbing maze, trampolines, big ball pits, mini-bowling and a 'Mini City' role-play zone (firefighter/chef/doctor). One of the best-regarded indoor play clubs in Nanshan.",
+  "price": {
+   "amount": 384,
+   "cur": "CNY",
+   "note": "approx per person avg; 3-visit cards ~¥598"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "18:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~25-30 min from Shekou (Line 1 to 高新园).",
+  "notes": "4yo: excellent (huge varied soft-play, role-play, trampolines); 12yo: can do the tall climbing maze and trampolines but he's at the top of its age cap (max 1.5m), may feel young. Mon is deep-clean (shorter hours). Dianping ~4.7."
+ },
+ {
+  "id": "sz-wooderful",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Wooderful Land 木育森林",
+  "lat": 22.5358,
+  "lng": 113.9858,
+  "address": "L2, Yitian Holiday Plaza 益田假日广场, OCT, Nanshan",
+  "desc": "Calm, design-led wooden play forest: wooden slides, gentle climbing structures, marble runs and hands-on wooden toys. Clean and developmental, ideal for a 4yo who finds big ball-pit parks overwhelming.",
+  "price": {
+   "amount": 80,
+   "cur": "CNY",
+   "note": "~¥80 weekday / ~¥127 weekend per child"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~20-25 min from Shekou (Window of the World, Line 1/2).",
+  "notes": "4yo: great (gentle wooden play, fine-motor toys); 12yo: too young, no active/thrill activities, he'd be bored. Dianping ~4.6."
+ },
+ {
+  "id": "sz-disiyuansu",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Di Si Yuan Su Family Center 第肆元素家庭娱乐中心",
+  "lat": 22.5128,
+  "lng": 113.9842,
+  "address": "G floor atrium, O'PLAZA, OCT Harbour, Nanshan",
+  "desc": "~900 m² soft-play center with an ocean ball pit, trampolines, slides and a sand-play area, sold as unlimited single-day play. Big open soft-play a 4yo can roam for hours.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "22:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~20-25 min from Shekou (Shenzhen Bay Park, Line 9).",
+  "notes": "4yo: good (ball pit, small trampolines, sand, slides); 12yo: toddler/preschool soft-play, too young for him. Dianping well-reviewed."
+ },
+ {
+  "id": "sz-skytime",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Skytime Trampoline Park 天时蹦床公园",
+  "lat": 22.543,
+  "lng": 113.95,
+  "address": "2 Qiongyu Rd, Science & Technology Park, Nanshan",
+  "desc": "~1500 m² trampoline park with a free-jump zone, foam/sponge pit, rock-climbing wall, balance ropes and dodgeball. The best of this list for the older sibling.",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "+86-755-86529500",
+  "commute": "~25-30 min from Shekou (Science Park, Nanshan).",
+  "notes": "4yo: limited (foam pit/free-jump with a parent); 12yo: excellent (trampolines, rock climbing, dodgeball, balance rope). Trip.com 4.4. Bring grip socks."
+ },
+ {
+  "id": "sz-chess-pengcheng",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+  "lat": 22.5283,
+  "lng": 113.9305,
+  "address": "5F-503 Juooot Theatre, Nanshan Cultural & Sports Center, Nanshan Ave",
+  "desc": "One of Shenzhen's oldest and largest 国际象棋 (Western chess) clubs (founded 2005), with a training center inside the Nanshan Cultural & Sports Center. Holds weekend classes and intra-club practice/rated games.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "phone": "0755-26400466",
+  "commute": "~15 min from Shekou (closest chess club).",
+  "notes": "For your 12yo: call to slot him into a weekend session or be matched with strong students/coaches. By appointment, not casual drop-in. Kid-focused with adult coaches. Also mobile 13316915786."
+ },
+ {
+  "id": "sz-chess-zhiteng",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Zhi Teng International Chess Club 智腾国际象棋俱乐部",
+  "lat": 22.5745,
+  "lng": 113.947,
+  "address": "Bldg 93 ground floor, Taoyuan Village, Nanshan (next to Dingdangda Bookstore)",
+  "desc": "A Nanshan junior-focused 国际象棋 academy that runs the area's international-school tournaments (it presented the 2025 ACAMIS Chess Tournament). The best fit to match a ranked 12yo against strong local junior peers.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "phone": "13682344455",
+  "commute": "~30 min from Shekou (Taoyuan, Line 7).",
+  "notes": "For your 12yo: call He laoshi (何老师) to arrange a practice/junior game, they organise youth competitions and can pair a visiting ranked player. By appointment."
+ },
+ {
+  "id": "sz-lib-shekou",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Shekou Yucai Library 南山图书馆蛇口育才分馆",
+  "lat": 22.4828,
+  "lng": 113.9232,
+  "address": "7 Yucai Rd, Shekou, Nanshan",
+  "desc": "The closest public library to the apartment, a small neighbourhood branch of the Nanshan Library system. A quick stop to grab books rather than a destination.",
+  "price": "free",
+  "hours": {
+   "mon": null,
+   "tue": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "14:00",
+     "17:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "0755-26681977",
+  "commute": "~10 min from Shekou (within Shekou).",
+  "notes": "Amenities: book lending + free wifi only; no kids room/cafe/games; limited English books. Foreigners can walk in; bring passport for a borrowing card. Closed Mondays."
+ },
+ {
+  "id": "sz-lib-nanshan",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Nanshan District Library (main) 南山图书馆总馆",
+  "lat": 22.5338,
+  "lng": 113.9289,
+  "address": "176 Changxing Rd, Nanshan (Metro Line 1 Taoyuan, Exit B)",
+  "desc": "The flagship district library (16,400 m², open 365 days), the best all-round family pick: separate children's and parent-child reading rooms, a large 365-day study hall, a classical-collection room and a regular lecture/event program.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "09:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "0755-26520380",
+  "commute": "~20-25 min from Shekou.",
+  "notes": "Amenities: children's room (6-12) + parent-child room (0-6, Mon closed, weekday 15:30-21:00, weekends 09:00-21:00); big study hall; events; some branches have a chess/board-game club; modest English shelf. Free; passport accepted for a card/entry."
+ },
+ {
+  "id": "sz-lib-shufang",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+  "lat": 22.5275,
+  "lng": 113.9285,
+  "address": "Design-led smart reading rooms in parks (e.g. Lixiang Park 荔香公园), Nanshan",
+  "desc": "An award-winning network of unmanned, architecturally striking 24-hour 'reading rooms in parks' with immersive study carrels and full self-service.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "00:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~18-22 min from Shekou (Lixiang Park).",
+  "notes": "Amenities: ~21 immersive study carrels + reading seats; self-service coffee/print/vending; self-checkout; free wifi. Entry by WeChat mini-program '南山书房预约' + face/ID scan, easiest for foreigners after registering a reader card with passport. Mostly Chinese stock."
+ },
+ {
+  "id": "sz-lib-egret",
+  "city": "SZ",
+  "category": "culture",
+  "name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
+  "lat": 22.483,
+  "lng": 113.952,
+  "address": "Egret Slope, Shenzhen Bay Park, Nanshan",
+  "desc": "A small scenic reading bar on the Shenzhen Bay waterfront, ideal to combine with a family seaside walk. More a cozy reading lounge than a full library.",
+  "price": "free",
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "08:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "08:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~15-20 min from Shekou along the waterfront.",
+  "notes": "Amenities: reading lounge with sea views, free wifi, light refreshments; limited kids room; mostly Chinese books. Free walk-in within the public park; passport only if you want to borrow."
+ },
+ {
+  "id": "sz-massage-lesbobos",
+  "city": "SZ",
+  "category": "services",
+  "name": "lesbobos Aromatherapy SPA 有界时空芳疗SPA (海上世界双玺店)",
+  "lat": 22.4796,
+  "lng": 113.9126,
+  "address": "Shuangxi Garden Phase 1, 113-114, Wanghai Rd, Sea World, Shekou",
+  "desc": "High-end aromatherapy body/oil SPA in private rooms, warm-up (hot sea-salt / bian-stone) before a hands-on massage, with a strict no-upselling policy. The top-rated spa in Nanshan.",
+  "price": {
+   "amount": 288,
+   "cur": "CNY",
+   "note": "from ¥288 per 60-min aroma/body massage"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~10 min walk (~750 m) from the apartment.",
+  "notes": "Dianping 5.0, #1 in Nanshan (15,000+ reviews). Booking recommended; transparent fixed pricing, no upsell."
+ },
+ {
+  "id": "sz-massage-lispa",
+  "city": "SZ",
+  "category": "services",
+  "name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+  "lat": 22.4778,
+  "lng": 113.9082,
+  "address": "Bitao Garden Villa 10, Gongye 1st Rd, Shekou",
+  "desc": "Kyoto-style Japanese aromatic-oil full-body massage in a quiet converted villa (head, abdomen, arm and leg meridian work, shower included). Praised for ambience and no hard-sell.",
+  "price": {
+   "amount": 312,
+   "cur": "CNY",
+   "note": "~¥312; 70-min oil package often discounted to ¥98-198 on Dianping"
+  },
+  "hours": {
+   "mon": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "12:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "13392410898",
+  "commute": "~15 min walk (~1.2 km) from the apartment.",
+  "notes": "Walk-in possible but booking better (limited villa rooms). Mostly Mandarin."
+ },
+ {
+  "id": "sz-massage-ispa",
+  "city": "SZ",
+  "category": "services",
+  "name": "iSpa at Hilton Shekou Nanhai 蛇口希尔顿南海酒店iSpa",
+  "lat": 22.482,
+  "lng": 113.912,
+  "address": "3F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd",
+  "desc": "Upscale hotel day-spa with sea-view rooms: Thai foot baths, aroma-oil and full-body massage, custom aromatherapy and a tea/snack lounge. The most English-friendly option.",
+  "price": {
+   "amount": 688,
+   "cur": "CNY",
+   "note": "~¥600-1700 per 60-90 min treatment (high-end)"
+  },
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "+86 755 2162 3117",
+  "commute": "~8 min walk (~640 m) from the apartment.",
+  "notes": "Booking recommended; most English-friendly (5-star Hilton)."
+ },
+ {
+  "id": "sz-horse-william",
+  "city": "SZ",
+  "category": "kids",
+  "name": "William International Equestrian Center 威廉国际马术中心",
+  "lat": 22.4762,
+  "lng": 113.9102,
+  "address": "4 Haiwan Rd, Value Factory Phase 2, Taizi Bay, Shekou, Nanshan",
+  "desc": "A 30,000 m² club right in Shekou with cute ponies, medium horses and big warmbloods, plus indoor (45x48m) and outdoor (64x40m) arenas. Does both pony experiences for little kids and proper riding.",
+  "price": {
+   "amount": 298,
+   "cur": "CNY",
+   "note": "from ~¥298/hr trial/experience ride; book ahead"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "18718529161",
+  "commute": "~5-10 min from Shekou.",
+  "notes": "Ponies for the 4yo and bigger horses for your pony-riding daughter. Trial/experience rides (not membership-only); call to book a 小马 trial + a proper ride. Also +852 5527 8767 (WhatsApp)."
+ },
+ {
+  "id": "sz-horse-xililake",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Xili Lake Resort Riding 西丽湖度假村骑马",
+  "lat": 22.5985,
+  "lng": 113.9852,
+  "address": "Xili Lake Resort, Xili Lake Rd, Nanshan",
+  "desc": "Resort with ~200 horses offering casual pay-per-hour riding out toward the nearby lychee groves, relaxed trail/lead riding rather than a formal lesson.",
+  "price": {
+   "amount": 250,
+   "cur": "CNY",
+   "note": "~¥250 per hour"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "0755-26511888",
+  "commute": "~35-40 min from Shekou.",
+  "notes": "A 4yo rides led by a handler; workable for your confident pony-riding daughter too. Drop-in pay-as-you-go, outdoor. Confirm pony availability by phone."
+ },
+ {
+  "id": "sz-pet-k11cat",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Banban Meow Cat Cafe 伴伴喵迹海景猫咖 (K11 ECOAST)",
+  "lat": 22.4668,
+  "lng": 113.8808,
+  "address": "8F North Building, K11 ECOAST, 61 Taizi Bay Rd, Shekou",
+  "desc": "Huge ~5,000 m² ocean-view cat cafe with 100-150 cats of many breeds (Ragdoll, Maine Coon, Sphynx, Devon Rex) plus a small exotic-pet corner and a 180-degree sea-view terrace; ticket includes treats and a drink.",
+  "price": {
+   "amount": 158,
+   "cur": "CNY",
+   "note": "per person incl. drink; group deals often ~¥128"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "tue": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "wed": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "thu": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "fri": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "sat": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ],
+   "sun": [
+    [
+     "11:00",
+     "21:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~10 min from Shekou (Line 12 Taizi Bay).",
+  "notes": "This is the K11 one you saw (K11's 'Pet Show' is an art exhibition, not live animals). 12yo: ideal; 4yo: fine with supervision (adult cats can be jumpy). Opened Apr 2025."
+ },
+ {
+  "id": "sz-pet-puppy",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Puppy Goes to Work Dog Cafe 小狗上班狗咖",
+  "lat": 22.5345,
+  "lng": 113.9466,
+  "address": "53-2 Jinji Rd, Nanshan (opposite Joy City)",
+  "desc": "Dog cafe with 70+ dogs of many breeds to pet, walk and play with; free drink and pet treats included, very social and lively.",
+  "price": {
+   "amount": 88,
+   "cur": "CNY",
+   "note": "weekday unlimited; weekend ¥108/2h; incl. drink + treats"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~20-25 min from Shekou.",
+  "notes": "12yo: loves it (lots of dogs); 4yo: only if comfortable with many energetic dogs, supervise. Walk-in friendly. Trip.com well-reviewed."
+ },
+ {
+  "id": "sz-pet-shangshan",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Shangshan Cat & Dog Cafe 上山狗狗事务所 (南山店)",
+  "lat": 22.5238,
+  "lng": 113.9282,
+  "address": "Rm 1202, Block B, Min Bldg, Wenxin Rd, Nanshan",
+  "desc": "Upstairs walk-in cat-and-dog cafe where you pet and play with friendly dogs and cats over a drink; relaxed living-room style space.",
+  "price": {
+   "amount": 88,
+   "cur": "CNY",
+   "note": "approx incl. drink; verify on Dianping"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~18-20 min from Shekou.",
+  "notes": "12yo: great; 4yo: okay with supervision (dogs can be lively). Both cats and dogs in one stop. Walk-in friendly."
+ },
+ {
+  "id": "sz-pet-supaw",
+  "city": "SZ",
+  "category": "kids",
+  "name": "SUPAW HUB (Raffles City) 深圳来福士店",
+  "lat": 22.5128,
+  "lng": 113.9268,
+  "address": "Shop 19A, L2, Raffles City, 2163 Nanhai Ave, Nanshan",
+  "desc": "Nature-themed pet-lifestyle complex blending a cafe, retail and a pet play area, a calm, design-led 'urban wilderness' space for relaxed animal interaction.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "phone": "19925194676",
+  "commute": "~12-15 min from Shekou.",
+  "notes": "12yo: pleasant, calm; 4yo: fine, gentle. Runs a membership/community model, call ahead, less of a pure walk-in petting venue."
+ },
+ {
+  "id": "sz-interactive-yunqi",
+  "city": "SZ",
+  "category": "food",
+  "name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+  "lat": 22.4975,
+  "lng": 113.9268,
+  "address": "Dongbin Rd, Nanshan (near Nanyou / Dongjiaotou Metro)",
+  "desc": "Indoor air-conditioned shrimp-fishing bar: kids drop a baited rod, pull up live prawns, and staff white-boil or salt-pepper cook your catch on the spot. Genuine catch-and-cook.",
+  "price": {
+   "amount": 123,
+   "cur": "CNY",
+   "note": "per person (Dianping avg)"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~10 min from Shekou.",
+  "notes": "Catch-your-own shrimp (not fish, no real catch-your-fish restaurant exists in range). 12yo fishes solo; a 4yo needs a parent to handle the rod, but loves it. Indoor, supervised."
+ },
+ {
+  "id": "sz-interactive-skg",
+  "city": "SZ",
+  "category": "food",
+  "name": "SKG Shrimp-Fishing Hall SKG娱乐钓虾馆",
+  "lat": 22.5145,
+  "lng": 113.9278,
+  "address": "Yilida Bldg Block B, Nanshan Ave, Nanshan (Line 11)",
+  "desc": "Indoor shrimp-fishing parlour where children hook live prawns one rod each and staff boil/grill the catch to eat right there. Casual, snack-bar style with drinks and games.",
+  "price": null,
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~12-15 min from Shekou.",
+  "notes": "Catch-and-cook shrimp. 12yo fishes independently; 4yo participates with help. Indoor and supervised."
+ },
+ {
+  "id": "sz-interactive-qingqing",
+  "city": "SZ",
+  "category": "kids",
+  "name": "Qingqing World eco-park 青青世界",
+  "lat": 22.4855,
+  "lng": 113.9065,
+  "address": "1 Qingqing Rd, Yueliangwan, Nanshan (foot of Dananshan)",
+  "desc": "AAAA eco theme-park where kids fish a stocked pond, scoop goldfish, catch loaches by hand and do pottery/clay DIY, with an on-site farm restaurant for meals.",
+  "price": {
+   "amount": 60,
+   "cur": "CNY",
+   "note": "park entry; fishing+park combo ¥128 incl. 4h fishing"
+  },
+  "hours": {
+   "mon": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "tue": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "wed": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "thu": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "fri": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sat": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ],
+   "sun": [
+    [
+     "08:30",
+     "17:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "0755-26646988",
+  "commute": "~18-20 min from Shekou.",
+  "notes": "Best all-round interactive kid venue: excellent for both 4yo and 12yo. Note: fishing is recreational (pay by weight to take the fish), the restaurant does not cook your catch. No entry after 17:30."
+ },
+ {
+  "id": "sz-interactive-pipi",
+  "city": "SZ",
+  "category": "food",
+  "name": "Pipi Shrimp-Fishing Hall 皮皮钓虾馆",
+  "lat": 22.5628,
+  "lng": 113.8968,
+  "address": "326-109 Fanshen Rd, Bao'an (near Fanshen Metro L5)",
+  "desc": "Indoor pond stocked daily with fresh prawns; one rod per person, kids catch their own and staff white-boil them on the spot to eat fresh (现钓现吃).",
+  "price": null,
+  "hours": {
+   "mon": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "tue": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "wed": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "thu": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "fri": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sat": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ],
+   "sun": [
+    [
+     "10:00",
+     "24:00"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~40 min from Shekou (Bao'an, edge of range).",
+  "notes": "Genuine catch-and-cook shrimp (现场白灼加工). Easy for a 4yo with help, engaging for a 12yo. Metro-accessible, indoor."
+ },
+ {
+  "id": "sz-teppan-tairyo",
+  "city": "SZ",
+  "category": "food",
+  "name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
+  "lat": 22.4826,
+  "lng": 113.9247,
+  "address": "L2-208, Bldg 1 Zone B, Sea World, 1128 Wanghai Rd, Shekou",
+  "desc": "All-you-can-eat Japanese teppanyaki: chefs cook on the iron plate right in front of you with the classic flair show (sizzle, flips, the onion-ring 'volcano'), grilling salmon, foie gras, scallops, tiger prawns, even Häagen-Dazs.",
+  "price": {
+   "amount": 198,
+   "cur": "CNY",
+   "note": "per person AYCE incl. drinks; also à la carte"
+  },
+  "hours": {
+   "mon": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "tue": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "wed": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "thu": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "fri": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "sat": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ],
+   "sun": [
+    [
+     "11:30",
+     "14:30"
+    ],
+    [
+     "16:30",
+     "22:30"
+    ]
+   ]
+  },
+  "photos": [],
+  "phone": "",
+  "commute": "~7 min from Shekou.",
+  "notes": "Best kid spectacle: hibachi-style flips, fire and the onion volcano, and AYCE keeps everyone fed. Dianping ~4.3-4.5. Cooking is at the teppan in front of diners."
+ },
+ {
+  "id": "sz-teppan-hemu",
+  "city": "SZ",
+  "category": "food",
+  "name": "Hemu Omakase Teppanyaki 禾木鲸生Omakase铁板烧 (海上世界店)",
+  "lat": 22.4809,
+  "lng": 113.9231,
+  "address": "Tower 17 Phase 1, Bitao Garden, Taizi Rd, Shekou",
+  "desc": "Omakase-style teppanyaki, sit at the griddle counter (板前) and the chef cooks each course in front of you (A5 wagyu, foie gras, seafood), explaining each dish.",
+  "price": {
+   "amount": 280,
+   "cur": "CNY",
+   "note": "per person; omakase higher"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "+8619168527597",
+  "commute": "~6 min from Shekou.",
+  "notes": "Refined counter cooking rather than a big flip-show. 12yo enjoys the close-up grilling/torching; a 4yo may need patience. Dianping 4.8 (new)."
+ },
+ {
+  "id": "sz-teppan-wangshunge",
+  "city": "SZ",
+  "category": "food",
+  "name": "Wangshunge (tableside duck) 旺顺阁鱼头泡饼 (海上世界店)",
+  "lat": 22.4831,
+  "lng": 113.9252,
+  "address": "Bldg 1-305, Sea World Stern Plaza, 1128 Wanghai Rd, Shekou",
+  "desc": "Northern-Chinese restaurant known for tableside Peking-duck carving plus a live kuaiban (快板 clapper) performance, staff wheel a cart over and slice the roast duck in front of you.",
+  "price": {
+   "amount": 160,
+   "cur": "CNY",
+   "note": "per person"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~7 min from Shekou.",
+  "notes": "Great non-Japanese 'show' for both kids: tableside carving + a clapper act. Dianping ~4.5, sea-view rooms."
+ },
+ {
+  "id": "sz-teppan-kyoku",
+  "city": "SZ",
+  "category": "food",
+  "name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+  "lat": 22.4735,
+  "lng": 113.9165,
+  "address": "K11 ECOAST waterfront food market, Taizi Bay, Shekou",
+  "desc": "A Kyoto-themed Japanese food 'market' of open-front 板前 stalls; the teppanyaki station has the chef grilling at the counter an arm's length away, alongside tempura, sushi and yakitori.",
+  "price": {
+   "amount": 300,
+   "cur": "CNY",
+   "note": "per person (teppan station)"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~12 min from Shekou.",
+  "notes": "Lively Kyoto-market vibe with several open kitchens to watch, fun for kids, sea views. New (K11 ECOAST, Apr 2025)."
+ },
+ {
+  "id": "sz-teppan-open",
+  "city": "SZ",
+  "category": "food",
+  "name": "OPEN live-station buffet (Hilton Shekou) 希尔顿OPEN餐厅",
+  "lat": 22.4806,
+  "lng": 113.9284,
+  "address": "1F, Hilton Shenzhen Shekou Nanhai, 1177 Wanghai Rd",
+  "desc": "All-day buffet built around interactive live-cooking stations: watch chefs grill, carve and cook regional Asian dishes, western grills and fresh seafood at open counters.",
+  "price": {
+   "amount": 328,
+   "cur": "CNY",
+   "note": "per person buffet (varies lunch/dinner)"
+  },
+  "hours": null,
+  "photos": [],
+  "phone": "",
+  "commute": "~8 min from Shekou.",
+  "notes": "Kids can walk up and watch chefs at the live stations and pick what they want, lower-key than a flip-show but very kid-flexible. Tripadvisor well-rated."
  }
 ]

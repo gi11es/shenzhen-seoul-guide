@@ -1,0 +1,92 @@
+[
+{
+"id": "se-stay",
+"name": "Our stay · Amare Hotel Jongno",
+"city": "SEOUL",
+"cat": "stay"
+},
+{
+"id": "sz-haidilao-2",
+"name": "Haidilao 海底捞 (Hanjing Center)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-spring-patio",
+"name": "Spring Patio 春台餐酒馆",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "gm-isaac-toast",
+"name": "Isaac Toast (Myeongdong Cathedral)",
+"city": "SEOUL",
+"cat": "cafe"
+},
+{
+"id": "gm-golden-farm",
+"name": "Golden Farm",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-kyochon-ddm",
+"name": "Kyochon Chicken (Dongdaemun)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-bogwangjung",
+"name": "Bogwangjung",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "sz-pick-24qi",
+"name": "24気 Art & Life Space 24气艺文生活空间",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-hk-bollywood",
+"name": "Bollywood Cafe 宝莱坞印度餐厅",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-wooderful",
+"name": "Wooderful Land 木育森林",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-lib-shekou",
+"name": "Shekou Yucai Library 南山图书馆蛇口育才分馆",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-massage-lispa",
+"name": "LiSpa Hatsune Japanese Oil Massage LiSPA初音日式精油 (海上世界店)",
+"city": "SZ",
+"cat": "services"
+},
+{
+"id": "sz-pet-puppy",
+"name": "Puppy Goes to Work Dog Cafe 小狗上班狗咖",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-interactive-qingqing",
+"name": "Qingqing World eco-park 青青世界",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-teppan-kyoku",
+"name": "KYOKU Teppanyaki 泓松京都KYOKU铁板烧 (K11 ECOAST)",
+"city": "SZ",
+"cat": "food"
+}
+]

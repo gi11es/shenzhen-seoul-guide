@@ -1,0 +1,92 @@
+[
+{
+"id": "sz-stay",
+"name": "Our stay · Coastal Rose Garden",
+"city": "SZ",
+"cat": "stay"
+},
+{
+"id": "sz-nantou-1820",
+"name": "Nantou 1820 Digital Exhibition Hall (南头古城数字展厅)",
+"city": "SZ",
+"cat": "museum"
+},
+{
+"id": "sz-shiopon",
+"name": "Shiopon (salt-bread bakery)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "gm-changhwadang",
+"name": "Changhwadang 창화당 (Hannam)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-hanilgwan",
+"name": "Hanilgwan Gwanghwamun",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-dailybeer",
+"name": "Dailybeer 생활맥주 (Myeongdong)",
+"city": "SEOUL",
+"cat": "nightlife"
+},
+{
+"id": "gm-mongvely",
+"name": "Myeongdong Mongvely",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "sz-pick-17bread",
+"name": "1-7 Bread 壹柒面包 (Sea World)",
+"city": "SZ",
+"cat": "cafe"
+},
+{
+"id": "sz-batiaoyou-1",
+"name": "Batiaoyou 八条友烧烤 (Nanyou flagship)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-bell-nature",
+"name": "Bell Nature Exploration Center 贝尔自然探索中心",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-chess-pengcheng",
+"name": "Pengcheng International Chess Club 鹏城国际象棋俱乐部",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-lib-egret",
+"name": "Shenzhen Bay 'Egret Slope' Reading Bar 深圳湾·白鹭坡书吧",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-horse-xililake",
+"name": "Xili Lake Resort Riding 西丽湖度假村骑马",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-interactive-yunqi",
+"name": "Yunqi Shrimp-Fishing 云栖钓虾营地 (南油店)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-teppan-hemu",
+"name": "Hemu Omakase Teppanyaki 禾木鲸生Omakase铁板烧 (海上世界店)",
+"city": "SZ",
+"cat": "food"
+}
+]

@@ -1,0 +1,86 @@
+[
+{
+"id": "sz-miniso-cocopark",
+"name": "MINISO (COCO Park flagship)",
+"city": "SZ",
+"cat": "shopping"
+},
+{
+"id": "sz-nanhai-yiku",
+"name": "Nanhai Yiku 南海意库 (OCT Ideapark)",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-xinggaodu",
+"name": "Xinggaodu Dream Water World 星高度梦想水世界",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "gm-eunjujeong",
+"name": "Eunjujeong",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-hanndul-chicken",
+"name": "Hanndul Chicken",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "gm-pig-company",
+"name": "AYCE Pig Company (Myeongdong BBQ)",
+"city": "SEOUL",
+"cat": "food"
+},
+{
+"id": "sz-pick-peticano",
+"name": "Peticano 毕加诺",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-pick-pengxiaoguan",
+"name": "Peng Xiao Guan 鹏小馆 (OCT)",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-seafood-market",
+"name": "Shekou Seafood Market 蛇口海鲜市场",
+"city": "SZ",
+"cat": "food"
+},
+{
+"id": "sz-skytime",
+"name": "Skytime Trampoline Park 天时蹦床公园",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-lib-shufang",
+"name": "Nanshan Shufang 24h Smart Reading Rooms 南山书房",
+"city": "SZ",
+"cat": "culture"
+},
+{
+"id": "sz-horse-william",
+"name": "William International Equestrian Center 威廉国际马术中心",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-pet-supaw",
+"name": "SUPAW HUB (Raffles City) 深圳来福士店",
+"city": "SZ",
+"cat": "kids"
+},
+{
+"id": "sz-teppan-tairyo",
+"name": "Tairyo Teppanyaki 大渔铁板烧 (海上世界店)",
+"city": "SZ",
+"cat": "food"
+}
+]
